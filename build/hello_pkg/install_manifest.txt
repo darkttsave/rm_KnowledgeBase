@@ -1,0 +1,17 @@
+/home/ygk/ROS_test_1/install/hello_pkg/lib/hello_pkg/talker1
+/home/ygk/ROS_test_1/install/hello_pkg/lib/hello_pkg/listener1
+/home/ygk/ROS_test_1/install/hello_pkg/share/ament_index/resource_index/package_run_dependencies/hello_pkg
+/home/ygk/ROS_test_1/install/hello_pkg/share/ament_index/resource_index/parent_prefix_path/hello_pkg
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/environment/ament_prefix_path.sh
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/environment/ament_prefix_path.dsv
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/environment/path.sh
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/environment/path.dsv
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/local_setup.bash
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/local_setup.sh
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/local_setup.zsh
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/local_setup.dsv
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/package.dsv
+/home/ygk/ROS_test_1/install/hello_pkg/share/ament_index/resource_index/packages/hello_pkg
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/cmake/hello_pkgConfig.cmake
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/cmake/hello_pkgConfig-version.cmake
+/home/ygk/ROS_test_1/install/hello_pkg/share/hello_pkg/package.xml

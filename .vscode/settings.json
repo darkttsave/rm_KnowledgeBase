@@ -1,0 +1,2 @@
+{ "C_Cpp.default.compileCommands":"${workspaceFolder}/build/hello_pkg/compile_commands.json"
+   }
