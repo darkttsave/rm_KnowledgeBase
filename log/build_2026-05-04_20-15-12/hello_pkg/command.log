@@ -1,6 +1,0 @@
-Invoking command in '/home/ygk/ROS_test_1/build/hello_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ygk/ROS_test_1/src/hello_pkg -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_INSTALL_PREFIX=/home/ygk/ROS_test_1/install/hello_pkg
-Invoked command in '/home/ygk/ROS_test_1/build/hello_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ygk/ROS_test_1/src/hello_pkg -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_INSTALL_PREFIX=/home/ygk/ROS_test_1/install/hello_pkg
-Invoking command in '/home/ygk/ROS_test_1/build/hello_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ygk/ROS_test_1/build/hello_pkg -- -j8 -l8
-Invoked command in '/home/ygk/ROS_test_1/build/hello_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ygk/ROS_test_1/build/hello_pkg -- -j8 -l8
-Invoking command in '/home/ygk/ROS_test_1/build/hello_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ygk/ROS_test_1/build/hello_pkg
-Invoked command in '/home/ygk/ROS_test_1/build/hello_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ygk/ROS_test_1/build/hello_pkg
