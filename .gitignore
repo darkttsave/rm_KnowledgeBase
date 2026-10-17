@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv-pdf/
+venv/
+
+# 本地临时目录（脚本运行期的 TMP/TEMP、迁移克隆等）
+.tmp/
+.migrate/
+
+# 日志与本地配置
+*.log
+.env
+.credentials*
+*.local
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 原始材料：个人批注版（含个人注释）默认不进入公开仓库
+原始材料/*笔记版*.pdf

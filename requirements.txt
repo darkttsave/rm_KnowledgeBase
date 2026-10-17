@@ -1,0 +1,9 @@
+# RMUC 2026 / 2027 规则对比 —— Python 依赖
+#
+# 解析引擎只用 PyMuPDF；pdfplumber 仅用于交叉校验（已确认在本套 PDF 上会丢列，不作主来源）。
+# 版本为实际执行通过的版本；Linux 上建议用 Python 3.12.x 并锁定以下版本。
+
+PyMuPDF==1.28.2       # 唯一 PDF 解析/渲染引擎（内置 MuPDF）
+pdfplumber==0.11.10   # 交叉校验用；会依赖 pdfminer.six
+Pillow==13.0.0        # 渲染图尺寸/像素比对
+pypdf==6.21.0         # 早期预检查阶段的辅助读取（可选）
