@@ -1,0 +1,133 @@
+{
+ "generated": "2026-10-17T14:22:59",
+ "model": {
+  "name": "deepseek-flash",
+  "provider": "DeepSeek Harness 会话模型",
+  "config": "temperature / top_p / max_tokens 由 DSH 运行环境默认值控制，未显式调参；单轮分析，未做多模型评测或多轮自我投票",
+  "modality": "纯文本（图像仅使用 B2 已计算的像素哈希，不做视觉推断）"
+ },
+ "batches": [
+  {
+   "id": "B01_推测配对复核",
+   "file": "B01_推测配对复核.txt",
+   "title": "C1 复核：41 对低相似度「推测配对」",
+   "lines": 282,
+   "items": 41
+  },
+  {
+   "id": "B02_B1待核验映射",
+   "file": "B02_B1待核验映射.txt",
+   "title": "C1 复核：B1 的 13 个待核验章节映射",
+   "lines": 129,
+   "items": 13
+  },
+  {
+   "id": "B03_整节删除候选",
+   "file": "B03_整节删除候选.txt",
+   "title": "C1 复核：6 个「疑似删除」章节中的删除候选（69 条）",
+   "lines": 244,
+   "items": 69
+  },
+  {
+   "id": "B04_保留章节内删除候选",
+   "file": "B04_保留章节内删除候选.txt",
+   "title": "C1 复核：保留章节内的删除候选（116 条）",
+   "lines": 536,
+   "items": 116
+  },
+  {
+   "id": "B05_整节新增候选",
+   "file": "B05_整节新增候选.txt",
+   "title": "C1 复核：疑似新增章节中的新增候选（54 条）",
+   "lines": 194,
+   "items": 54
+  },
+  {
+   "id": "B06_保留章节内新增候选",
+   "file": "B06_保留章节内新增候选.txt",
+   "title": "C1 复核：保留章节内的新增候选（55 条）",
+   "lines": 298,
+   "items": 55
+  },
+  {
+   "id": "B07_机器人章节",
+   "file": "B07_机器人章节.txt",
+   "title": "C2 语义分类：3 机器人与操作手（6 条）",
+   "lines": 45,
+   "items": 6
+  },
+  {
+   "id": "B08_场地章节",
+   "file": "B08_场地章节.txt",
+   "title": "C2 语义分类：4 比赛场地（23 条）",
+   "lines": 146,
+   "items": 23
+  },
+  {
+   "id": "B09_机制章节",
+   "file": "B09_机制章节.txt",
+   "title": "C2 语义分类：5 比赛机制（89 条）",
+   "lines": 462,
+   "items": 89
+  },
+  {
+   "id": "B10_流程判罚申诉",
+   "file": "B10_流程判罚申诉.txt",
+   "title": "C2 语义分类：6 比赛流程、7 违规与判罚、8 异常情况、9 申诉、2 重要概念、1 前言、阅读提示、知识产权声明、附录1 雷达信息波特性、附录2 赛前流程说明、附录3 未来规则规划（32 条）",
+   "lines": 191,
+   "items": 32
+  },
+  {
+   "id": "B13_文字调整候选",
+   "file": "B13_文字调整候选.txt",
+   "title": "C2 语义分类：文字调整候选（90 条）",
+   "lines": 464,
+   "items": 90
+  },
+  {
+   "id": "B11_表格差异",
+   "file": "B11_表格差异.txt",
+   "title": "C4 表格：56 张有差异的逻辑表（含 28 张数值变化）",
+   "lines": 374,
+   "items": 56
+  },
+  {
+   "id": "B12_公式与插图",
+   "file": "B12_公式与插图.txt",
+   "title": "C4 公式（25）+ 插图（56）",
+   "lines": 238,
+   "items": 81
+  }
+ ],
+ "change_diffs_total": 534,
+ "change_diffs_in_events": 534,
+ "change_diffs_unresolved": 0,
+ "events": 62,
+ "events_by_type": {
+  "规则修改": 30,
+  "机制重构": 7,
+  "实质取消": 9,
+  "实质新增": 7,
+  "证据不足": 5,
+  "仅表述调整": 4
+ },
+ "events_by_theme": {
+  "机器人": 9,
+  "场地": 11,
+  "机制": 27,
+  "流程": 4,
+  "判罚": 4,
+  "文档": 2,
+  "表述": 5
+ },
+ "needs_review": 18,
+ "special_refs_resolved": 109,
+ "special_unreferenced": {
+  "tables": 56,
+  "figures": 56,
+  "formulas": 25
+ },
+ "pairing_reviewed": 41,
+ "pairing_rejected": 24,
+ "disputes": 5
+}

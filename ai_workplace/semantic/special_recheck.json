@@ -1,0 +1,6914 @@
+{
+ "generated": "2026-10-17T15:35:22",
+ "method": {
+  "table_pairing": "0.55×表题相似度（去掉表号）+ 0.30×同章节 + 0.15×内容二元组余弦；不再以表号为主键",
+  "table_compare": "行列数、列标题、行标签、数值集合、单位集合、单元格文本多重集",
+  "figure_class": "对嵌入图像解码后计算 16×16 均值哈希与灰度直方图：哈希差异 ≤10% 判「纯样式变化候选」，≥30% 判「信息变化」，其余判「无法判断」；图注（去图号）相似度 <0.45 直接判「信息变化」",
+  "limits": "哈希与直方图只能反映整体结构与明暗分布，不能替代目视；运行环境未做图像识别/OCR，报告中的「信息变化」是候选而非结论"
+ },
+ "tables": {
+  "rows": [
+   {
+    "table_2026": {
+     "id": "RMUC2026:7.3:p146:t0",
+     "ids": [
+      "RMUC2026:7.3:p146:t0"
+     ],
+     "records": 1,
+     "table_no": "表7-5",
+     "caption": "表 7-5 严重违规类型",
+     "section_no": "7.3",
+     "section_title": "7.3 严重违规",
+     "physical_page": 146,
+     "rows": 14,
+     "cols": 6,
+     "headers": [
+      "条例",
+      "类型"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:7.3:p136:t0",
+     "ids": [
+      "RMUC2027:7.3:p136:t0"
+     ],
+     "records": 1,
+     "table_no": "表7-5",
+     "caption": "表 7-5 严重违规类型",
+     "section_no": "7.3",
+     "section_title": "7.3 严重违规",
+     "physical_page": 136,
+     "rows": 14,
+     "cols": 6,
+     "headers": [
+      "条例",
+      "类型"
+     ],
+     "missing": 0
+    },
+    "pair_score": 1.0,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:7.3:p136:t0",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:7.2.3.1:p143:t0",
+     "ids": [
+      "RMUC2026:7.2.3.1:p143:t0"
+     ],
+     "records": 1,
+     "table_no": "表7-3",
+     "caption": "表 7-3 冲撞违规判罚标准",
+     "section_no": "7.2.3.1",
+     "section_title": "7.2.3.1 机器人交互",
+     "physical_page": 143,
+     "rows": 3,
+     "cols": 6,
+     "headers": [
+      "违规等级",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:7.2.3.1:p133:t0",
+     "ids": [
+      "RMUC2027:7.2.3.1:p133:t0"
+     ],
+     "records": 1,
+     "table_no": "表7-3",
+     "caption": "表 7-3 冲撞违规判罚标准",
+     "section_no": "7.2.3.1",
+     "section_title": "7.2.3.1 机器人交互",
+     "physical_page": 133,
+     "rows": 3,
+     "cols": 6,
+     "headers": [
+      "违规等级",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 1.0,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:7.2.3.1:p133:t0",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:7.1.1:p133:t0",
+     "ids": [
+      "RMUC2026:7.1.1:p133:t0"
+     ],
+     "records": 1,
+     "table_no": "表7-1",
+     "caption": "表 7-1 判罚方式",
+     "section_no": "7.1.1",
+     "section_title": "7.1.1 判罚方式",
+     "physical_page": 133,
+     "rows": 4,
+     "cols": 5,
+     "headers": [
+      "判罚方式",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:7.1.1:p124:t0",
+     "ids": [
+      "RMUC2027:7.1.1:p124:t0"
+     ],
+     "records": 1,
+     "table_no": "表7-1",
+     "caption": "表 7-1 判罚方式",
+     "section_no": "7.1.1",
+     "section_title": "7.1.1 判罚方式",
+     "physical_page": 124,
+     "rows": 4,
+     "cols": 5,
+     "headers": [
+      "判罚方式",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 1.0,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:7.1.1:p124:t0",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:6.3.1:p129:t0",
+     "ids": [
+      "RMUC2026:6.3.1:p129:t0",
+      "RMUC2026:6.3.1:p130:t0"
+     ],
+     "records": 2,
+     "table_no": "表6-1",
+     "caption": "表 6-1 故障情况",
+     "section_no": "6.3.1",
+     "section_title": "6.3.1 官方技术暂停",
+     "physical_page": 129,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "条例",
+      "描述"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:6.3.1:p121:t0",
+     "ids": [
+      "RMUC2027:6.3.1:p121:t0"
+     ],
+     "records": 1,
+     "table_no": "表6-1",
+     "caption": "表 6-1 故障情况",
+     "section_no": "6.3.1",
+     "section_title": "6.3.1 官方技术暂停",
+     "physical_page": 121,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "条例",
+      "描述"
+     ],
+     "missing": 0
+    },
+    "pair_score": 1.0,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:6.3.1:p121:t0",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.3.3:p84:t0",
+     "ids": [
+      "RMUC2026:5.3.3:p84:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-10",
+     "caption": "表 5-10 科技核心位姿与难度等级关系",
+     "section_no": "5.3.3",
+     "section_title": "5.3.3 科技核心-能量单元机制",
+     "physical_page": 84,
+     "rows": 14,
+     "cols": 27,
+     "headers": [
+      "难度",
+      "x",
+      "y",
+      "z",
+      "θ",
+      "φ",
+      "α",
+      "平移要求",
+      "旋转要求"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.4.3:p83:t0",
+     "ids": [
+      "RMUC2027:5.4.3:p83:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-10",
+     "caption": "表 5-10 科技核心位姿与难度等级关系",
+     "section_no": "5.4.3",
+     "section_title": "5.4.3 科技核心-能量单元机制",
+     "physical_page": 83,
+     "rows": 14,
+     "cols": 25,
+     "headers": [
+      "难度",
+      "x",
+      "y",
+      "z",
+      "θ",
+      "φ",
+      "α",
+      "平移要求",
+      "旋转要求"
+     ],
+     "missing": 0
+    },
+    "pair_score": 1.0,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "科技核心",
+      "科技核心"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.4.3:p83:t0",
+    "verdict": "结构/文字变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       14,
+       27
+      ],
+      "2027": [
+       14,
+       25
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:7.2.3.2:p144:t0",
+     "ids": [
+      "RMUC2026:7.2.3.2:p144:t0",
+      "RMUC2026:7.2.3.2:p145:t0"
+     ],
+     "records": 2,
+     "table_no": "表7-4",
+     "caption": "表 7-4 战场禁区准入规则",
+     "section_no": "7.2.3.2",
+     "section_title": "7.2.3.2 机器人与场地道具交互",
+     "physical_page": 144,
+     "rows": 6,
+     "cols": 6,
+     "headers": [
+      "禁区名称",
+      "禁区属性"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:7.2.3.2:p134:t0",
+     "ids": [
+      "RMUC2027:7.2.3.2:p134:t0"
+     ],
+     "records": 1,
+     "table_no": "表7-4",
+     "caption": "表 7-4 战场禁区准入规则",
+     "section_no": "7.2.3.2",
+     "section_title": "7.2.3.2 机器人与场地道具交互",
+     "physical_page": 134,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "禁区名称",
+      "禁区属性"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.996,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.975,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:7.2.3.2:p134:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       6,
+       6
+      ],
+      "2027": [
+       5,
+       6
+      ]
+     },
+     "units": {
+      "added": [
+       "发"
+      ],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "发射站禁区"
+      ],
+      "removed": [
+       "停机坪禁区",
+       "公路禁区"
+      ]
+     },
+     "cells": {
+      "added": [
+       "发射站禁区"
+      ],
+      "removed": [
+       "单方禁区",
+       "公路禁区",
+       "停机坪禁区"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:7.1.2:p133:t1",
+     "ids": [
+      "RMUC2026:7.1.2:p133:t1",
+      "RMUC2026:7.1.2:p134:t0"
+     ],
+     "records": 2,
+     "table_no": "表7-2",
+     "caption": "表 7-2 判罚类型",
+     "section_no": "7.1.2",
+     "section_title": "7.1.2 判罚类型",
+     "physical_page": 133,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "判罚类型",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:7.1.2:p124:t1",
+     "ids": [
+      "RMUC2027:7.1.2:p124:t1",
+      "RMUC2027:7.1.2:p125:t0"
+     ],
+     "records": 2,
+     "table_no": "表7-2",
+     "caption": "表 7-2 判罚类型",
+     "section_no": "7.1.2",
+     "section_title": "7.1.2 判罚类型",
+     "physical_page": 124,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "判罚类型",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.996,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.973,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:7.1.2:p124:t1",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "numbers": {
+      "added": [],
+      "removed": []
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "cells": {
+      "added": [
+       "◦若违规机器人为哨兵机器人，则其底盘断电2秒，其它机器人操作界面被遮挡2秒。◦若违规机器人不为哨兵机器人，则其操作界面被遮挡5秒，其它机器人操作界面被遮挡2秒。◦裁判系统自动扣除违规机器人当前上限血量的15%，其余存活机器人被扣除当前上限血量的5%。机器人每次收到黄牌警告后的30秒内，若再次收到黄牌警告，则扣除当前上限血量的百分比是前一次的2倍，其余存活机器人被扣除当前上限血量的5%。◦每局比赛中，所有机器人累计收到3次黄牌警告时，将同时收到红牌警告。•双方黄牌：所有操作手操作界面被遮挡2秒，所有机器人被扣除上限血量的5%，不计入单台机器人累计黄牌次数。•若连续收到黄牌警告，则操作界面被遮挡时间叠加计算，且30秒计时重置。•若机器人剩余血量小于等于判罚需扣除的血量，则机器人血量降为1。•因违规判罚导致的底盘断电、操作界面遮挡等时长与比赛机制相互独立，不叠加计算。•因黄牌警告导致界面遮挡时，图传画面、小地图、自定义UI均不可使用。",
+       "•罚下机器人：◦若在进入十五秒裁判系统自检阶段前罚下机器人，则违规机器人不允许上场，需搬离战场，且当场所有局比赛中不允许有其他机器人进行替补。◦若在十五秒裁判系统自检阶段罚下机器人，则红牌警告将在比赛开始后发出。◦若在比赛中罚下空中系统，则机库断电，若空中机器人处于飞行状态，安全员需立即控制遥控器停桨，空中机器人不可再次处于飞行状态。若在比赛中罚下飞镖系统，则飞镖发射按键被立即屏蔽，飞镖发射站闸门不可被"
+      ],
+      "removed": [
+       "◦若违规机器人为哨兵机器人，则其底盘断电2秒，其它机器人操作界面被遮挡2秒。◦若违规机器人不为哨兵机器人，则其操作界面被遮挡5秒，其它机器人操作界面被遮挡2秒。◦裁判系统自动扣除违规机器人当前上限血量的15%，其余存活机器人被扣除当前上限血量的5%。机器人每次收到黄牌警告后的30秒内，若再次收到黄牌警告，则扣除当前上限血量的百分比是前一次的2倍，其余存活机器人被扣除当前上限血量的5%。◦每局比赛中，工程机器人累计收到2次黄牌警告，将同时收到红牌警告；其余每台机器人累计收到3次黄牌警告时，将同时收到红牌警告。•双方黄牌：所有操作手操作界面被遮挡2秒，所有机器人被扣除上限血量的5%，不计入单台机器人累计黄牌次数。•若连续收到黄牌警告，则操作界面被遮挡时间叠加计算，且30秒计时重置。•若机器人剩余血量小于等于判罚需扣除的血量，则机器人血量降为1。•因违规判罚导致的底盘断电、操作界面遮挡等时长与比赛机制相互独立，不叠加计算。•因黄牌警告导致界面遮挡时，图传画面、小地图、自定义UI均不可使用。",
+       "•罚下机器人：◦若在进入十五秒裁判系统自检阶段前罚下机器人，则违规机器人不允许上场，需搬离战场，且当场所有局比赛中不允许有其他机器人进行替补。◦若在十五秒裁判系统自检阶段罚下机器人，则红牌警告将在比赛开始后发出。◦若在比赛中罚下空中机器人，则空中机器人发射机构断电，图传连接被断开，飞手不可再次起桨，云台手无法呼叫空中支援；若空中机器人处于飞"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:3.3:p27:t1",
+     "ids": [
+      "RMUC2026:3.3:p27:t1",
+      "RMUC2026:3.3:p28:t0"
+     ],
+     "records": 2,
+     "table_no": "表3-5",
+     "caption": "表 3-5 步兵机器人的关键特征",
+     "section_no": "3.3",
+     "section_title": "3.3 步兵机器人",
+     "physical_page": 27,
+     "rows": 12,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:3.1.2:p24:t2",
+     "ids": [
+      "RMUC2027:3.1.2:p24:t2",
+      "RMUC2027:3.1.2:p25:t0"
+     ],
+     "records": 2,
+     "table_no": "表3-5",
+     "caption": "表 3-5 步兵机器人的关键特征",
+     "section_no": "3.1.2",
+     "section_title": "3.1.2 步兵机器人",
+     "physical_page": 24,
+     "rows": 12,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.996,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.971,
+     "subject_conflict": false,
+     "subjects": [
+      "步兵机器人",
+      "步兵机器人"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:3.1.2:p24:t2",
+    "verdict": "结构/文字变化候选",
+    "evidence": {
+     "row_labels": {
+      "added": [
+       "可激活的增益点"
+      ],
+      "removed": [
+       "可占领的增益点"
+      ]
+     },
+     "cells": {
+      "added": [
+       "不限，最多配置1个遥控器和1个自定义终端",
+       "•回血方式：可通过允许的增益点或远程兑换血量。•复活方式：读条复活或兑换立即复活。详见“5.3回血与复活机制”",
+       "•三分钟准备阶段，可预装42mm和17mm弹丸，初始允许发弹量为0。•七分钟比赛阶段，可通过允许的增益点兑换或远程兑换允许发弹量。详见“5.4经济体系”",
+       "适用注：底盘功率上限、初始血量、上限血量、射击热量上限、射击热量冷却速率等参数与等级、底盘类型相关，详见“5.5经验及性能体系”。",
+       "可激活的增益点",
+       "•基地增益点•中央高地增益点•地形跨越增益点（公路、高地、隧道）•制高点增益点•前哨站增益点•补给区增益点"
+      ],
+      "removed": [
+       "不限，最多配置1个遥控器和1个自定义控制器",
+       "•回血方式：占领补给区或远程兑换血量。•复活方式：读条复活或兑换立即复活。详见“5.2回血与复活机制”",
+       "•三分钟准备阶段，可预装42mm和17mm弹丸，初始允许发弹量为0。•七分钟比赛阶段，可通过补给区、基地增益点、前哨站增益点兑换或远程兑换允许发弹量。详见“5.3经济体系”",
+       "适用注：底盘功率上限、初始血量、上限血量、射击热量上限、射击热量冷却速率等参数与等级、底盘类型相关，详见“5.4经验及性能体系”。",
+       "可占领的增益点",
+       "•基地增益点•中央高地增益点•梯形高地增益点•地形跨越增益点（公路、高地、飞坡、隧道）"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:2:p19:t0",
+     "ids": [
+      "RMUC2026:2:p19:t0",
+      "RMUC2026:2:p20:t0",
+      "RMUC2026:2:p21:t0"
+     ],
+     "records": 3,
+     "table_no": "表2-1",
+     "caption": "表 2-1 重要概念一览",
+     "section_no": "2",
+     "section_title": "2 重要概念",
+     "physical_page": 19,
+     "rows": 27,
+     "cols": 6,
+     "headers": [
+      "概念",
+      "定义"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:2:p17:t0",
+     "ids": [
+      "RMUC2027:2:p17:t0",
+      "RMUC2027:2:p18:t0",
+      "RMUC2027:2:p19:t0"
+     ],
+     "records": 3,
+     "table_no": "表2-1",
+     "caption": "表 2-1 重要概念一览",
+     "section_no": "2",
+     "section_title": "2 重要概念",
+     "physical_page": 17,
+     "rows": 35,
+     "cols": 6,
+     "headers": [
+      "概念",
+      "定义"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.995,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.968,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:2:p17:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       27,
+       6
+      ],
+      "2027": [
+       35,
+       6
+      ]
+     },
+     "units": {
+      "added": [
+       "个"
+      ],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "激活",
+       "系统单元",
+       "组合系统"
+      ],
+      "removed": [
+       "占领"
+      ]
+     },
+     "cells": {
+      "added": [
+       "机器人",
+       "参赛队伍携带并用于参与比赛的地面机器人、组合系统和附属设备的统称。",
+       "在比赛场地内独立运行的机器人，包括重装机器人、步兵机器人和哨兵机器人。",
+       "组合系统",
+       "由两个或两个以上系统单元构成，并以一个整体参赛的机器人，包括飞镖系统、",
+       "雷达系统和空中系统。组合系统允许的组成单元及其连接、分离或发射方式以各",
+       "系统的专项规则为准。",
+       "系统单元",
+       "组成组合系统的基本单位，具备独立的物理形态与功能。除专项规则规定外，系",
+       "统单元不得进一步分解为多个独立运动的部分。"
+      ],
+      "removed": [
+       "•存活：机器人裁判系统主控模块正常连入裁判系统服务器且血量不为0的状态。◦脱战：机器人在存活状态下连续6秒未发射弹丸且未被扣血。比赛开始时机器人默认为脱战状态。•战亡：机器人血量为0的状态（原因包括：装甲模块被攻击或受撞击、裁判系统模块离线、被罚下、因飞镖导致的血量扣除）。◦罚下：机器人收到红牌警告的状态。◦临时激活：当机器人战亡后，其底盘和云台被临时上电的状态。此时该机器人的发射机构为断电状态。•异常离线：比赛过程中，由于机器人断电或其他原因，裁判系统主控模块无法连入裁判系统服务器的状态。注：机器人战亡后，裁判系统会切断对机器人的电源输出（除MiniPC）。",
+       "包括英雄机器人、工程机器人、步兵机器人、哨兵机器人。",
+       "附属设备包括：自定义控制器、自定义客户端、无线充电装置（发射端）。",
+       "机器人底盘",
+       "承载机器人动力系统及其附属部件的机构，支撑机器人机体的机构。",
+       "机器人产生水平方向上平移、旋转运动的动力系统的功率，详见《RoboMaster2026机甲大师高校系列赛机器人制作规范手册》中“裁判系统安装规范”章节中底盘功率的定义。",
+       "每台机器人当前可发射的弹丸数量。",
+       "机器人发射弹丸或飞镖的行为。",
+       "占领",
+       "足其他条件，且机器人获得一定特殊效果。"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.1.1:p69:t0",
+     "ids": [
+      "RMUC2026:5.1.1:p69:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-2",
+     "caption": "表 5-2 攻击伤害或撞击的扣血机制",
+     "section_no": "5.1.1",
+     "section_title": "5.1.1 攻击伤害或撞击",
+     "physical_page": 69,
+     "rows": 7,
+     "cols": 6,
+     "headers": [
+      "伤害类型",
+      "42mm弹丸",
+      "17mm弹丸",
+      "飞镖",
+      "撞击"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.1.1:p66:t0",
+     "ids": [
+      "RMUC2027:5.1.1:p66:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-2",
+     "caption": "表 5-2 攻击伤害或撞击的扣血机制",
+     "section_no": "5.1.1",
+     "section_title": "5.1.1 攻击伤害或撞击",
+     "physical_page": 66,
+     "rows": 7,
+     "cols": 10,
+     "headers": [
+      "伤害类型",
+      "42mm弹丸",
+      "17mm弹丸",
+      "空中机器人",
+      "飞镖",
+      "撞击"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.991,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.943,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.1.1:p66:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       7,
+       6
+      ],
+      "2027": [
+       7,
+       10
+      ]
+     },
+     "numbers": {
+      "added": [
+       "1250",
+       "800"
+      ],
+      "removed": [
+       "5",
+       "625",
+       "750"
+      ]
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "column_headers": {
+      "added": [
+       "空中机器人"
+      ],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [],
+      "removed": [
+       "伤害类型",
+       "作用对象"
+      ]
+     },
+     "cells": {
+      "added": [
+       "空中机器人",
+       "冲击",
+       "200",
+       "200",
+       "20",
+       "-",
+       "-",
+       "-",
+       "•固定目标：200•随机固定目标：300•随机移动目标：800•末端移动目标：1250",
+       "1000"
+      ],
+      "removed": [
+       "•上方前装甲模块：5•其余5块装甲模块：20",
+       "•固定目标：200•随机固定目标：300•随机移动目标：625•末端移动目标：1000",
+       "750"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.1.2:p69:t1",
+     "ids": [
+      "RMUC2026:5.1.2:p69:t1"
+     ],
+     "records": 1,
+     "table_no": "表5-3",
+     "caption": "表 5-3 射击初速度超限惩罚机制",
+     "section_no": "5.1.2",
+     "section_title": "5.1.2 射击初速度超限",
+     "physical_page": 69,
+     "rows": 4,
+     "cols": 12,
+     "headers": [
+      "17mm弹丸",
+      "42mm弹丸（非部署模式下）",
+      "42mm弹丸（部署模式下）",
+      "锁定时间"
+     ],
+     "missing": 2
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.1.2:p67:t0",
+     "ids": [
+      "RMUC2027:5.1.2:p67:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-3",
+     "caption": "表 5-3 射击初速度超限惩罚机制",
+     "section_no": "5.1.2",
+     "section_title": "5.1.2 射击初速度超限",
+     "physical_page": 67,
+     "rows": 4,
+     "cols": 9,
+     "headers": [
+      "17mm弹丸",
+      "42mm弹丸",
+      "锁定时间"
+     ],
+     "missing": 6
+    },
+    "pair_score": 0.99,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.932,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.1.2:p67:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       4,
+       12
+      ],
+      "2027": [
+       4,
+       9
+      ]
+     },
+     "numbers": {
+      "added": [],
+      "removed": [
+       "1.1",
+       "1.2"
+      ]
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "column_headers": {
+      "added": [
+       "42mm弹丸"
+      ],
+      "removed": [
+       "42mm弹丸（部署模式下）",
+       "42mm弹丸（非部署模式下）"
+      ]
+     },
+     "cells": {
+      "added": [
+       "42mm弹丸"
+      ],
+      "removed": [
+       "42mm弹丸（非部署模式下）",
+       "42mm弹丸（部署模式下）",
+       "V<V≤1.1*V010",
+       "1.1*V<V≤1.2*V010",
+       "1.2*V<V01"
+      ]
+     }
+    },
+    "grid_reliable": false,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.1.5.1:p72:t0",
+     "ids": [
+      "RMUC2026:5.1.5.1:p72:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-4",
+     "caption": "表 5-4 机器人异常离线的惩罚机制",
+     "section_no": "5.1.5.1",
+     "section_title": "5.1.5.1 异常离线",
+     "physical_page": 72,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "机器人种类",
+      "离线期间的处理方法"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.1.5.1:p70:t0",
+     "ids": [
+      "RMUC2027:5.1.5.1:p70:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-4",
+     "caption": "表 5-4 机器人异常离线的惩罚机制",
+     "section_no": "5.1.5.1",
+     "section_title": "5.1.5.1 异常离线",
+     "physical_page": 70,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "机器人种类",
+      "离线期间的处理方法"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.989,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.93,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.1.5.1:p70:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "机库",
+       "雷达系统",
+       "飞镖系统"
+      ],
+      "removed": [
+       "空中机器人",
+       "雷达",
+       "飞镖"
+      ]
+     },
+     "cells": {
+      "added": [
+       "机库",
+       "•执行机构断电•多机通信断开",
+       "雷达系统",
+       "多机通信断开",
+       "飞镖系统"
+      ],
+      "removed": [
+       "空中机器人",
+       "•发射机构断电，无法呼叫空中支援•不检测激光发射装置的照射•图传画面断开•多机通信断开",
+       "雷达",
+       "•多机通信断开•激光发射装置及其执行机构断电",
+       "飞镖"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:3:p24:t0",
+     "ids": [
+      "RMUC2026:3:p24:t0"
+     ],
+     "records": 1,
+     "table_no": "表3-2",
+     "caption": "表 3-2 操作手阵容",
+     "section_no": "3",
+     "section_title": "3 机器人与操作手",
+     "physical_page": 24,
+     "rows": 7,
+     "cols": 9,
+     "headers": [
+      "类型",
+      "所操作的机器人",
+      "全阵容人数"
+     ],
+     "missing": 9
+    },
+    "table_2027": {
+     "id": "RMUC2027:3:p22:t0",
+     "ids": [
+      "RMUC2027:3:p22:t0"
+     ],
+     "records": 1,
+     "table_no": "表3-2",
+     "caption": "表 3-2 操作手阵容",
+     "section_no": "3",
+     "section_title": "3 机器人与操作手",
+     "physical_page": 22,
+     "rows": 6,
+     "cols": 9,
+     "headers": [
+      "类型",
+      "所操作的机器人",
+      "全阵容人数"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.978,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.855,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:3:p22:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       7,
+       9
+      ],
+      "2027": [
+       6,
+       9
+      ]
+     },
+     "numbers": {
+      "added": [
+       "0",
+       "1",
+       "2"
+      ],
+      "removed": []
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "地面机器人操作手",
+       "安全员",
+       "指挥手"
+      ],
+      "removed": []
+     },
+     "cells": {
+      "added": [
+       "地面机器人操作手",
+       "重装机器人",
+       "1",
+       "1",
+       "1",
+       "2",
+       "0",
+       "指挥手",
+       "空中系统（可选）、飞镖系统（可选）",
+       "安全员"
+      ],
+      "removed": [
+       "英雄机器人",
+       "工程机器人",
+       "空中机器人（可选）、飞镖系统（可选）",
+       "空中机器人"
+      ]
+     }
+    },
+    "grid_reliable": false,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:4.6.2:p66:t0",
+     "ids": [
+      "RMUC2026:4.6.2:p66:t0"
+     ],
+     "records": 1,
+     "table_no": "表4-1",
+     "caption": "表 4-1 弹丸参数及使用安排",
+     "section_no": "4.6.2",
+     "section_title": "4.6.2 弹丸",
+     "physical_page": 66,
+     "rows": 3,
+     "cols": 27,
+     "headers": [
+      "类型",
+      "外观",
+      "颜色",
+      "尺寸",
+      "质量",
+      "邵氏硬度",
+      "材质",
+      "使用安排",
+      "额定数量"
+     ],
+     "missing": 9
+    },
+    "table_2027": {
+     "id": "RMUC2027:4.5.2:p62:t0",
+     "ids": [
+      "RMUC2027:4.5.2:p62:t0"
+     ],
+     "records": 1,
+     "table_no": "表4-1",
+     "caption": "表 4-1 弹丸参数及使用安排",
+     "section_no": "4.5.2",
+     "section_title": "4.5.2 弹丸",
+     "physical_page": 62,
+     "rows": 3,
+     "cols": 27,
+     "headers": [
+      "类型",
+      "外观",
+      "颜色",
+      "尺寸",
+      "质量",
+      "邵氏硬度",
+      "材质",
+      "使用安排",
+      "额定数量"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.966,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.776,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:4.5.2:p62:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "numbers": {
+      "added": [
+       "100",
+       "17",
+       "3000",
+       "42"
+      ],
+      "removed": [
+       "2026"
+      ]
+     },
+     "units": {
+      "added": [
+       "发"
+      ],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "17mm荧光弹丸",
+       "42mm发光弹丸"
+      ],
+      "removed": []
+     },
+     "cells": {
+      "added": [
+       "42mm发光弹丸",
+       "赛季全程",
+       "赛季全程",
+       "100发/局",
+       "17mm荧光弹丸",
+       "有限，但不少于3000发/局"
+      ],
+      "removed": [
+       "RMUC2026全程",
+       "RMUC2026全程"
+      ]
+     }
+    },
+    "grid_reliable": false,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:3:p23:t0",
+     "ids": [
+      "RMUC2026:3:p23:t0"
+     ],
+     "records": 1,
+     "table_no": "表3-1",
+     "caption": "表 3-1 机器人阵容",
+     "section_no": "3",
+     "section_title": "3 机器人与操作手",
+     "physical_page": 23,
+     "rows": 8,
+     "cols": 12,
+     "headers": [
+      "种类",
+      "编号",
+      "全阵容数量（台）",
+      "赛事阶段"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:3:p21:t0",
+     "ids": [
+      "RMUC2027:3:p21:t0"
+     ],
+     "records": 1,
+     "table_no": "表3-1",
+     "caption": "表 3-1 机器人阵容",
+     "section_no": "3",
+     "section_title": "3 机器人与操作手",
+     "physical_page": 21,
+     "rows": 9,
+     "cols": 12,
+     "headers": [
+      "种类",
+      "名称",
+      "编号",
+      "主力阵容数量",
+      "最多备用数量",
+      "最多可配备",
+      "最多可后备",
+      "赛事阶段"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.935,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.568,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:3:p21:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       8,
+       12
+      ],
+      "2027": [
+       9,
+       12
+      ]
+     },
+     "numbers": {
+      "added": [
+       "0",
+       "2027",
+       "5"
+      ],
+      "removed": []
+     },
+     "units": {
+      "added": [
+       "发"
+      ],
+      "removed": []
+     },
+     "column_headers": {
+      "added": [
+       "主力阵容数量",
+       "名称",
+       "最多可后备",
+       "最多可配备",
+       "最多备用数量"
+      ],
+      "removed": [
+       "全阵容数量（台）"
+      ]
+     },
+     "row_labels": {
+      "added": [
+       "地面机器人",
+       "种类",
+       "组合系统"
+      ],
+      "removed": [
+       "哨兵机器人",
+       "工程机器人",
+       "步兵机器人",
+       "空中机器人",
+       "英雄机器人",
+       "雷达",
+       "飞镖系统"
+      ]
+     },
+     "cells": {
+      "added": [
+       "名称",
+       "主力阵容数量",
+       "最多备用数量",
+       "最多可配备",
+       "最多可后备",
+       "的自定义终",
+       "的自定义终",
+       "端数量",
+       "端数量",
+       "地面机器人"
+      ],
+      "removed": [
+       "全阵容数量（台）",
+       "英雄机器人",
+       "区域赛、复活赛及全国赛",
+       "工程机器人",
+       "空中机器人",
+       "雷达"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.1.1:p68:t0",
+     "ids": [
+      "RMUC2026:5.1.1:p68:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-1",
+     "caption": "表 5-1 装甲模块对不同类型弹丸的有效检测速度",
+     "section_no": "5.1.1",
+     "section_title": "5.1.1 攻击伤害或撞击",
+     "physical_page": 68,
+     "rows": 3,
+     "cols": 9,
+     "headers": [
+      "装甲模块",
+      "17mm弹丸",
+      "42mm弹丸"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.1.1:p65:t0",
+     "ids": [
+      "RMUC2027:5.1.1:p65:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-1",
+     "caption": "表 5-1 装甲模块对不同类型弹丸的有效检测速度",
+     "section_no": "5.1.1",
+     "section_title": "5.1.1 攻击伤害或撞击",
+     "physical_page": 65,
+     "rows": 3,
+     "cols": 12,
+     "headers": [
+      "装甲模块",
+      "17mm弹丸",
+      "42mm弹丸",
+      "空中机器人冲击"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.935,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.566,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.1.1:p65:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       3,
+       9
+      ],
+      "2027": [
+       3,
+       12
+      ]
+     },
+     "numbers": {
+      "added": [
+       "8"
+      ],
+      "removed": [
+       "10"
+      ]
+     },
+     "units": {
+      "added": [
+       "个",
+       "人"
+      ],
+      "removed": []
+     },
+     "column_headers": {
+      "added": [
+       "空中机器人冲击"
+      ],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "•小装甲模块•基地装甲模块•前哨站装甲模块",
+       "能量机关装甲模块"
+      ],
+      "removed": [
+       "•大装甲模块、小装甲模块•基地装甲模块•前哨站装甲模块",
+       "•能量机关装甲模块"
+      ]
+     },
+     "cells": {
+      "added": [
+       "空中机器人冲击",
+       "•小装甲模块•基地装甲模块•前哨站装甲模块",
+       "大于8m/s",
+       "接触时间∈[待定]接触期间面累积冲量∈[待定]说明：装甲模块对于冲击的检测原理为：装甲模块检测面识别到任意位置出现高于αN的接触力将开启一次“冲击事件”，此后所有位置接触力均低于αN将结束一次“冲击事件”。接触时间即为一次“冲击事件”的持续时间。冲击面积S为整个“冲击事件”内所有即时接触力大于αN的区域面积之和（区域可以不连续）。面累积冲量为∬FdtdS，即在“冲击事件”内，冲击面积上的接触力对接触时间与冲击面积的二重积分。",
+       "能量机关装甲模块",
+       "-"
+      ],
+      "removed": [
+       "•大装甲模块、小装甲模块•基地装甲模块•前哨站装甲模块",
+       "大于10m/s",
+       "•能量机关装甲模块"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.3.2:p79:t1",
+     "ids": [
+      "RMUC2026:5.3.2:p79:t1"
+     ],
+     "records": 1,
+     "table_no": "表5-8",
+     "caption": "表 5-8 （补给区、基地增益点、前哨站增益点兑换时）不同类型弹丸允许发弹量的最小兑换单位",
+     "section_no": "5.3.2",
+     "section_title": "5.3.2 允许发弹量机制",
+     "physical_page": 79,
+     "rows": 2,
+     "cols": 6,
+     "headers": [
+      "17mm允许发弹量",
+      "42mm允许发弹量"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.4.2:p78:t0",
+     "ids": [
+      "RMUC2027:5.4.2:p78:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-8",
+     "caption": "表 5-8 （增益点兑换时）不同类型弹丸允许发弹量的最小兑换单位",
+     "section_no": "5.4.2",
+     "section_title": "5.4.2 允许发弹量机制",
+     "physical_page": 78,
+     "rows": 2,
+     "cols": 6,
+     "headers": [
+      "17mm允许发弹量",
+      "42mm允许发弹量"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.91,
+    "pair_detail": {
+     "caption": 0.8,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "前哨站/基地/补给区",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.4.2:p78:t0",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.6.6:p119:t1",
+     "ids": [
+      "RMUC2026:5.6.6:p119:t1",
+      "RMUC2026:5.6.6:p120:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-22",
+     "caption": "表 5-22 P 的阈值与对应目标获得的效果",
+     "section_no": "5.6.6",
+     "section_title": "5.6.6 雷达特殊机制",
+     "physical_page": 119,
+     "rows": 6,
+     "cols": 10,
+     "headers": [
+      "目标类型",
+      "P的取值区间",
+      "小地图显示效果",
+      "增益（仅限地面机器人）"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.7.4:p114:t0",
+     "ids": [
+      "RMUC2027:5.7.4:p114:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-30",
+     "caption": "表 5-30 P 的阈值与对应目标获得的效果",
+     "section_no": "5.7.4",
+     "section_title": "5.7.4 雷达系统特殊机制",
+     "physical_page": 114,
+     "rows": 6,
+     "cols": 11,
+     "headers": [
+      "目标类型",
+      "P的取值区间",
+      "小地图显示效果",
+      "增益（仅限地面机器人）"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.9,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.7.4:p114:t0",
+    "verdict": "结构/文字变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       6,
+       10
+      ],
+      "2027": [
+       6,
+       11
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.5.2:p103:t1",
+     "ids": [
+      "RMUC2026:5.5.2:p103:t1"
+     ],
+     "records": 1,
+     "table_no": "表5-18",
+     "caption": "表 5-18 激活灯臂数与对应增益持续时间",
+     "section_no": "5.5.2",
+     "section_title": "5.5.2 能量机关机制",
+     "physical_page": 103,
+     "rows": 7,
+     "cols": 6,
+     "headers": [
+      "激活灯臂数",
+      "增益持续时间（秒）"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.6.3:p99:t1",
+     "ids": [
+      "RMUC2027:5.6.3:p99:t1",
+      "RMUC2027:5.6.3:p100:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-23",
+     "caption": "表 5-23 激活灯臂数与对应增益持续时间",
+     "section_no": "5.6.3",
+     "section_title": "5.6.3 能量机关机制",
+     "physical_page": 99,
+     "rows": 7,
+     "cols": 6,
+     "headers": [
+      "激活灯臂数",
+      "增益持续时间（秒）"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.9,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.6.3:p99:t1",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.3.3:p87:t0",
+     "ids": [
+      "RMUC2026:5.3.3:p87:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-11",
+     "caption": "表 5-11 科技核心灯效汇总",
+     "section_no": "5.3.3",
+     "section_title": "5.3.3 科技核心-能量单元机制",
+     "physical_page": 87,
+     "rows": 22,
+     "cols": 6,
+     "headers": [
+      "状态",
+      "灯效"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.4.3:p85:t0",
+     "ids": [
+      "RMUC2027:5.4.3:p85:t0",
+      "RMUC2027:5.4.3:p86:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-13",
+     "caption": "表 5-13 科技核心灯效汇总",
+     "section_no": "5.4.3",
+     "section_title": "5.4.3 科技核心-能量单元机制",
+     "physical_page": 85,
+     "rows": 22,
+     "cols": 6,
+     "headers": [
+      "状态",
+      "灯效"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.9,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "科技核心",
+      "科技核心"
+     ]
+    },
+    "same_as_b2": false,
+    "b2_partner": "RMUC2027:5.4.3:p83:t1",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:3.6:p32:t1",
+     "ids": [
+      "RMUC2026:3.6:p32:t1"
+     ],
+     "records": 1,
+     "table_no": "表3-8",
+     "caption": "表 3-8 飞镖系统的关键特征",
+     "section_no": "3.6",
+     "section_title": "3.6 飞镖系统",
+     "physical_page": 32,
+     "rows": 4,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:3.2.2:p28:t2",
+     "ids": [
+      "RMUC2027:3.2.2:p28:t2"
+     ],
+     "records": 1,
+     "table_no": "表3-9",
+     "caption": "表 3-9 飞镖系统的关键特征",
+     "section_no": "3.2.2",
+     "section_title": "3.2.2 飞镖系统",
+     "physical_page": 28,
+     "rows": 4,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.9,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "飞镖系统",
+      "飞镖系统"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:3.2.2:p28:t2",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.6.6:p119:t0",
+     "ids": [
+      "RMUC2026:5.6.6:p119:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-21",
+     "caption": "表 5-21 “被标记进度”P 的计算逻辑",
+     "section_no": "5.6.6",
+     "section_title": "5.6.6 雷达特殊机制",
+     "physical_page": 119,
+     "rows": 5,
+     "cols": 7,
+     "headers": [
+      "标记状态",
+      "X的更新逻辑",
+      "P的更新逻辑"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.7.4:p113:t0",
+     "ids": [
+      "RMUC2027:5.7.4:p113:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-29",
+     "caption": "表 5-29 “被标记进度”P 的计算逻辑",
+     "section_no": "5.7.4",
+     "section_title": "5.7.4 雷达系统特殊机制",
+     "physical_page": 113,
+     "rows": 5,
+     "cols": 9,
+     "headers": [
+      "标记状态",
+      "X的更新逻辑",
+      "P的更新逻辑"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.9,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.7.4:p113:t0",
+    "verdict": "结构/文字变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       5,
+       7
+      ],
+      "2027": [
+       5,
+       9
+      ]
+     },
+     "row_labels": {
+      "added": [],
+      "removed": [
+       "标记状态"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.4.2:p96:t1",
+     "ids": [
+      "RMUC2026:5.4.2:p96:t1",
+      "RMUC2026:5.4.2:p97:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-15",
+     "caption": "表 5-15 步兵机器人17mm 发射机构属性",
+     "section_no": "5.4.2",
+     "section_title": "5.4.2 性能体系",
+     "physical_page": 96,
+     "rows": 21,
+     "cols": 12,
+     "headers": [
+      "发射机构类型",
+      "等级",
+      "射击热量上限",
+      "射击热量冷却速率（每秒）"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.5.2:p94:t1",
+     "ids": [
+      "RMUC2027:5.5.2:p94:t1",
+      "RMUC2027:5.5.2:p95:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-18",
+     "caption": "表 5-18 步兵机器人17mm 发射机构属性",
+     "section_no": "5.5.2",
+     "section_title": "5.5.2 性能体系",
+     "physical_page": 94,
+     "rows": 21,
+     "cols": 12,
+     "headers": [
+      "发射机构类型",
+      "等级",
+      "射击热量上限",
+      "射击热量冷却速率（每秒）"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.9,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.999,
+     "subject_conflict": false,
+     "subjects": [
+      "步兵机器人",
+      "步兵机器人"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.5.2:p94:t1",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "numbers": {
+      "added": [
+       "104"
+      ],
+      "removed": [
+       "114"
+      ]
+     },
+     "cells": {
+      "added": [
+       "104"
+      ],
+      "removed": [
+       "114"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.4.2:p95:t1",
+     "ids": [
+      "RMUC2026:5.4.2:p95:t1",
+      "RMUC2026:5.4.2:p96:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-14",
+     "caption": "表 5-14 步兵机器人底盘属性",
+     "section_no": "5.4.2",
+     "section_title": "5.4.2 性能体系",
+     "physical_page": 95,
+     "rows": 22,
+     "cols": 12,
+     "headers": [
+      "底盘类型",
+      "等级",
+      "上限血量",
+      "底盘功率上限（W）"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.5.2:p93:t1",
+     "ids": [
+      "RMUC2027:5.5.2:p93:t1",
+      "RMUC2027:5.5.2:p94:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-17",
+     "caption": "表 5-17 步兵机器人底盘属性",
+     "section_no": "5.5.2",
+     "section_title": "5.5.2 性能体系",
+     "physical_page": 93,
+     "rows": 21,
+     "cols": 12,
+     "headers": [
+      "底盘类型",
+      "等级",
+      "上限血量",
+      "底盘功率上限（W）"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.899,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.992,
+     "subject_conflict": false,
+     "subjects": [
+      "步兵机器人",
+      "步兵机器人"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.5.2:p93:t1",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       22,
+       12
+      ],
+      "2027": [
+       21,
+       12
+      ]
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "cells": {
+      "added": [],
+      "removed": [
+       "底盘类型",
+       "等级",
+       "上限血量",
+       "底盘功率上限（W）"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.3.1:p78:t1",
+     "ids": [
+      "RMUC2026:5.3.1:p78:t1"
+     ],
+     "records": 1,
+     "table_no": "表5-6",
+     "caption": "表 5-6 兑换规则",
+     "section_no": "5.3.1",
+     "section_title": "5.3.1 经济体系概述",
+     "physical_page": 78,
+     "rows": 6,
+     "cols": 8,
+     "headers": [
+      "兑换项目",
+      "兑换比例",
+      "兑换上限"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.4.1:p77:t1",
+     "ids": [
+      "RMUC2027:5.4.1:p77:t1"
+     ],
+     "records": 1,
+     "table_no": "表5-7",
+     "caption": "表 5-7 兑换规则",
+     "section_no": "5.4.1",
+     "section_title": "5.4.1 经济体系概述",
+     "physical_page": 77,
+     "rows": 5,
+     "cols": 9,
+     "headers": [
+      "兑换项目",
+      "兑换比例",
+      "兑换上限"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.898,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.988,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": false,
+    "b2_partner": "RMUC2027:5.4.1:p76:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       6,
+       8
+      ],
+      "2027": [
+       5,
+       9
+      ]
+     },
+     "numbers": {
+      "added": [],
+      "removed": []
+     },
+     "units": {
+      "added": [],
+      "removed": [
+       "秒"
+      ]
+     },
+     "row_labels": {
+      "added": [],
+      "removed": [
+       "兑换项目",
+       "空中支援时间"
+      ]
+     },
+     "cells": {
+      "added": [],
+      "removed": [
+       "空中支援时间",
+       "1金币/1秒",
+       "不限"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:3.5:p30:t1",
+     "ids": [
+      "RMUC2026:3.5:p30:t1",
+      "RMUC2026:3.5:p31:t0"
+     ],
+     "records": 2,
+     "table_no": "表3-7",
+     "caption": "表 3-7 哨兵机器人的关键特征",
+     "section_no": "3.5",
+     "section_title": "3.5 哨兵机器人",
+     "physical_page": 30,
+     "rows": 13,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:3.1.3:p26:t1",
+     "ids": [
+      "RMUC2027:3.1.3:p26:t1",
+      "RMUC2027:3.1.3:p27:t0"
+     ],
+     "records": 2,
+     "table_no": "表3-6",
+     "caption": "表 3-6 哨兵机器人的关键特征",
+     "section_no": "3.1.3",
+     "section_title": "3.1.3 哨兵机器人",
+     "physical_page": 26,
+     "rows": 12,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.897,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.979,
+     "subject_conflict": false,
+     "subjects": [
+      "哨兵机器人",
+      "哨兵机器人"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:3.1.3:p26:t1",
+    "verdict": "结构/文字变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       13,
+       6
+      ],
+      "2027": [
+       12,
+       6
+      ]
+     },
+     "row_labels": {
+      "added": [
+       "可激活的增益点"
+      ],
+      "removed": [
+       "关键特征",
+       "可占领的增益点"
+      ]
+     },
+     "cells": {
+      "added": [
+       "•射击初速度超限：适用•射击热量超限和冷却：适用•底盘功率超限：适用•攻击伤害或撞击：适用•裁判系统模块离线：适用•判罚伤害：适用详见“5.1扣血与超限惩罚机制”",
+       "•回血方式：可通过允许的增益点或远程兑换血量。•复活方式：读条复活或兑换立即复活。详见“5.3回血与复活机制”",
+       "•三分钟准备阶段，可预装17mm和42mm弹丸，初始允许发弹量为300。•七分钟比赛阶段，可通过允许的增益点兑换或直接获取、远程兑换允许发",
+       "弹量。详见“5.4经济体系”",
+       "不适用经验与性能体系，性能与机器人操作方式相关，具体如下：自动哨兵机器人•初始血量/上限血量为400•射击热量上限为260•射击热量冷却速率为30/秒•底盘功率上限为100W半自动哨兵机器人•初始血量/上限血量为200•射击热量上限为100•射击热量冷却速率为10/秒•底盘功率上限为60W详见“5.7.2哨兵机器人特殊机制”",
+       "可激活的增益点",
+       "•基地增益点•中央高地增益点•地形跨越增益点（公路、高地、隧道）•制高点增益点•前哨站增益点•补给区增益点•堡垒增益点详见“5.6.4场地增益机制”"
+      ],
+      "removed": [
+       "关键特征",
+       "说明",
+       "•射击初速度超限：适用•射击热量超限和冷却：适用•底盘功率超限：适用•攻击伤害或撞击：适用•裁判系统模块离线：适用•判罚伤害：适用",
+       "详见“5.1扣血与超限惩罚机制”",
+       "•回血方式：占领补给区或远程兑换血量。•复活方式：读条复活或兑换立即复活。详见“5.2回血与复活机制”",
+       "•三分钟准备阶段，可预装17mm和42mm弹丸，初始允许发弹量为300。•七分钟比赛阶段，可通过补给区、基地增益点、前哨站增益点兑换或直接获取、远程兑换允许发弹量。详见“5.3经济体系”",
+       "不适用经验与性能体系，性能与机器人操作方式相关，具体如下：自动哨兵机器人•初始血量/上限血量为400•射击热量上限为260•射击热量冷却速率为30/秒•底盘功率上限为100W半自动哨兵机器人•初始血量/上限血量为200•射击热量上限为100•射击热量冷却速率为10/秒•底盘功率上限为60W详见“5.6.4哨兵机器人特殊机制”",
+       "可占领的增益点",
+       "•基地增益点•中央高地增益点•梯形高地增益点•地形跨越增益点（公路、高地、飞坡、隧道）•前哨站增益点"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.5.2:p103:t0",
+     "ids": [
+      "RMUC2026:5.5.2:p103:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-17",
+     "caption": "表 5-17 平均环数与对应增益",
+     "section_no": "5.5.2",
+     "section_title": "5.5.2 能量机关机制",
+     "physical_page": 103,
+     "rows": 6,
+     "cols": 12,
+     "headers": [
+      "平均环数区间",
+      "攻击增益",
+      "防御增益",
+      "热量冷却增益"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.6.3:p99:t0",
+     "ids": [
+      "RMUC2027:5.6.3:p99:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-22",
+     "caption": "表 5-22 平均环数与对应增益",
+     "section_no": "5.6.3",
+     "section_title": "5.6.3 能量机关机制",
+     "physical_page": 99,
+     "rows": 6,
+     "cols": 12,
+     "headers": [
+      "平均环数区间",
+      "攻击增益",
+      "防御增益",
+      "热量冷却增益"
+     ],
+     "missing": 10
+    },
+    "pair_score": 0.88,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.865,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.6.3:p99:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "numbers": {
+      "added": [],
+      "removed": [
+       "1",
+       "10",
+       "2",
+       "3",
+       "5",
+       "7",
+       "8",
+       "9"
+      ]
+     },
+     "units": {
+      "added": [],
+      "removed": [
+       "倍"
+      ]
+     },
+     "row_labels": {
+      "added": [],
+      "removed": [
+       "(3,7]",
+       "(7,8]",
+       "(8,9]",
+       "(9,10]",
+       "[1,3]"
+      ]
+     },
+     "cells": {
+      "added": [],
+      "removed": [
+       "[1,3]",
+       "无",
+       "(3,7]",
+       "2倍",
+       "2倍",
+       "(7,8]",
+       "(8,9]",
+       "3倍",
+       "(9,10]",
+       "5倍"
+      ]
+     }
+    },
+    "grid_reliable": false,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:3.7:p32:t2",
+     "ids": [
+      "RMUC2026:3.7:p32:t2"
+     ],
+     "records": 1,
+     "table_no": "表3-9",
+     "caption": "表 3-9 雷达的关键特征",
+     "section_no": "3.7",
+     "section_title": "3.7 雷达",
+     "physical_page": 32,
+     "rows": 4,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:3.2.3:p29:t0",
+     "ids": [
+      "RMUC2027:3.2.3:p29:t0"
+     ],
+     "records": 1,
+     "table_no": "表3-10",
+     "caption": "表 3-10 雷达系统的关键特征",
+     "section_no": "3.2.3",
+     "section_title": "3.2.3 雷达系统",
+     "physical_page": 29,
+     "rows": 4,
+     "cols": 6,
+     "headers": [
+      "关键特征",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.844,
+    "pair_detail": {
+     "caption": 0.875,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "雷达",
+      "雷达/雷达系统"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:3.2.3:p29:t0",
+    "verdict": "未发现文本层差异",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": false
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.3.1:p78:t0",
+     "ids": [
+      "RMUC2026:5.3.1:p78:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-5",
+     "caption": "表 5-5 机器人定期获得金币的增量一览",
+     "section_no": "5.3.1",
+     "section_title": "5.3.1 经济体系概述",
+     "physical_page": 78,
+     "rows": 8,
+     "cols": 9,
+     "headers": [
+      "比赛倒计时",
+      "红方",
+      "蓝方"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.4.1:p76:t0",
+     "ids": [
+      "RMUC2027:5.4.1:p76:t0",
+      "RMUC2027:5.4.1:p77:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-6",
+     "caption": "表 5-6 机器人定期获得金币的增量一览",
+     "section_no": "5.4.1",
+     "section_title": "5.4.1 经济体系概述",
+     "physical_page": 76,
+     "rows": 8,
+     "cols": 9,
+     "headers": [
+      "比赛倒计时",
+      "红方",
+      "蓝方"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.84,
+    "pair_detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.6,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": false,
+    "b2_partner": "RMUC2027:5.4.1:p77:t1",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "numbers": {
+      "added": [
+       "100",
+       "300",
+       "800"
+      ],
+      "removed": [
+       "150",
+       "400",
+       "50"
+      ]
+     },
+     "cells": {
+      "added": [
+       "800（初始）",
+       "800（初始）",
+       "100",
+       "100",
+       "100",
+       "100",
+       "100",
+       "100",
+       "100",
+       "100"
+      ],
+      "removed": [
+       "400（初始）",
+       "400（初始）",
+       "50",
+       "50",
+       "50",
+       "50",
+       "50",
+       "50",
+       "50",
+       "50"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:6.3.2:p130:t1",
+     "ids": [
+      "RMUC2026:6.3.2:p130:t1"
+     ],
+     "records": 1,
+     "table_no": "表6-2",
+     "caption": "表 6-2 复活赛技术暂停安排",
+     "section_no": "6.3.2",
+     "section_title": "6.3.2 参赛队伍技术暂停",
+     "physical_page": 130,
+     "rows": 3,
+     "cols": 6,
+     "headers": [
+      "赛程阶段",
+      "安排"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:6.3.2:p122:t0",
+     "ids": [
+      "RMUC2027:6.3.2:p122:t0"
+     ],
+     "records": 1,
+     "table_no": "表6-2",
+     "caption": "表 6-2 参赛队伍技术暂停安排",
+     "section_no": "6.3.2",
+     "section_title": "6.3.2 参赛队伍技术暂停",
+     "physical_page": 122,
+     "rows": 3,
+     "cols": 9,
+     "headers": [
+      "赛事阶段",
+      "赛程阶段",
+      "安排"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.833,
+    "pair_detail": {
+     "caption": 0.737,
+     "same_unit": true,
+     "same_table_no": true,
+     "content": 0.679,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:6.3.2:p122:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       3,
+       6
+      ],
+      "2027": [
+       3,
+       9
+      ]
+     },
+     "numbers": {
+      "added": [
+       "2"
+      ],
+      "removed": []
+     },
+     "units": {
+      "added": [],
+      "removed": [
+       "个"
+      ]
+     },
+     "column_headers": {
+      "added": [
+       "赛事阶段"
+      ],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "区域赛"
+      ],
+      "removed": [
+       "小组赛",
+       "淘汰赛"
+      ]
+     },
+     "cells": {
+      "added": [
+       "赛事阶段",
+       "区域赛",
+       "区域赛",
+       "2次两分钟技术暂停。",
+       "1次三分钟技术暂停。若小组赛中的技术暂停机会未耗尽，可延续至淘汰赛。"
+      ],
+      "removed": [
+       "1次两分钟技术暂停，若同一赛事阶段的上个赛程阶段的技术暂停机会未使用，可在同一赛事阶段中可继续使用",
+       "1次三分钟技术暂停"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.5.3.1:p108:t0",
+     "ids": [
+      "RMUC2026:5.5.3.1:p108:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-19",
+     "caption": "表 5-19 增益类型一览",
+     "section_no": "5.5.3.1",
+     "section_title": "5.5.3.1 场地增益点概述",
+     "physical_page": 108,
+     "rows": 6,
+     "cols": 6,
+     "headers": [
+      "类型",
+      "注解"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.6.4.1:p104:t0",
+     "ids": [
+      "RMUC2027:5.6.4.1:p104:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-25",
+     "caption": "表 5-25 增益效果类型一览表",
+     "section_no": "5.6.4.1",
+     "section_title": "5.6.4.1 场地增益点概述",
+     "physical_page": 104,
+     "rows": 7,
+     "cols": 6,
+     "headers": [
+      "类型",
+      "注解"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.79,
+    "pair_detail": {
+     "caption": 0.8,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.865,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.6.4.1:p104:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       6,
+       6
+      ],
+      "2027": [
+       7,
+       6
+      ]
+     },
+     "numbers": {
+      "added": [
+       "1"
+      ],
+      "removed": []
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "底盘功率增益"
+      ],
+      "removed": []
+     },
+     "cells": {
+      "added": [
+       "提高弹丸攻击或空中机器人冲击造成的伤害值，伤害值变为：原始伤害*攻击增益",
+       "改变受弹丸攻击、撞击和空中机器人冲击造成的伤害值，使机器人、基地、前哨站受到的攻击伤害变为：原始伤害*（1-防御增益）。负防御增益简称为“易伤”。防御增益不适用于因违规判罚、裁判系统模块离线、飞镖等导致的扣血。",
+       "底盘功率增益",
+       "提高机器人底盘功率上限。"
+      ],
+      "removed": [
+       "提高弹丸攻击造成的伤害值。",
+       "改变受弹丸攻击、撞击造成的伤害值。负防御增益简称为“易伤”。防御增益不适用于因违规判罚、裁判系统模块离线、飞镖等导致的扣血。"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.5.2:p103:t2",
+     "ids": [
+      "RMUC2026:5.5.2:p103:t2"
+     ],
+     "records": 1,
+     "table_no": "表5-18",
+     "caption": "表 5-18 激活灯臂数与对应增益持续时间",
+     "section_no": "5.5.2",
+     "section_title": "5.5.2 能量机关机制",
+     "physical_page": 103,
+     "rows": 3,
+     "cols": 6,
+     "headers": [
+      "己方大能量机关累计被激活次数",
+      "可继续检测的环数"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.6.3:p100:t1",
+     "ids": [
+      "RMUC2027:5.6.3:p100:t1"
+     ],
+     "records": 1,
+     "table_no": "表5-24",
+     "caption": "表 5-24 大能量机关激活次数与有效检测环数关系表",
+     "section_no": "5.6.3",
+     "section_title": "5.6.3 能量机关机制",
+     "physical_page": 100,
+     "rows": 3,
+     "cols": 6,
+     "headers": [
+      "己方大能量机关累计被激活次数",
+      "可继续检测的环数"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.559,
+    "pair_detail": {
+     "caption": 0.242,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "能量机关"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.6.3:p100:t1",
+    "verdict": "表主题已变（可能是不同的表）",
+    "evidence": {},
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.3.3:p85:t0",
+     "ids": [
+      "RMUC2026:5.3.3:p85:t0"
+     ],
+     "records": 1,
+     "table_no": null,
+     "caption": null,
+     "section_no": "5.3.3",
+     "section_title": "5.3.3 科技核心-能量单元机制",
+     "physical_page": 85,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "比赛时间",
+      "可选择的难度等级"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.4.3:p83:t1",
+     "ids": [
+      "RMUC2027:5.4.3:p83:t1",
+      "RMUC2027:5.4.3:p84:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-11",
+     "caption": "表 5-11 重装机器人装配难度等级解锁时间表",
+     "section_no": "5.4.3",
+     "section_title": "5.4.3 科技核心-能量单元机制",
+     "physical_page": 83,
+     "rows": 6,
+     "cols": 6,
+     "headers": [
+      "比赛时间",
+      "可选择的难度等级"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.448,
+    "pair_detail": {
+     "caption": 0.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.987,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "重装机器人"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.4.3:p83:t1",
+    "verdict": "表主题已变（可能是不同的表）",
+    "evidence": {
+     "shape": {
+      "2026": [
+       5,
+       6
+      ],
+      "2027": [
+       6,
+       6
+      ]
+     },
+     "cells": {
+      "added": [
+       "比赛时间",
+       "可选择的难度等级"
+      ],
+      "removed": []
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.4.1:p91:t0",
+     "ids": [
+      "RMUC2026:5.4.1:p91:t0",
+      "RMUC2026:5.4.1:p92:t0",
+      "RMUC2026:5.4.1:p93:t0"
+     ],
+     "records": 3,
+     "table_no": null,
+     "caption": null,
+     "section_no": "5.4.1",
+     "section_title": "5.4.1 经验体系",
+     "physical_page": 91,
+     "rows": 14,
+     "cols": 6,
+     "headers": [
+      "行为类型",
+      "获得经验"
+     ],
+     "missing": 1
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.5.1:p90:t0",
+     "ids": [
+      "RMUC2027:5.5.1:p90:t0",
+      "RMUC2027:5.5.1:p91:t0"
+     ],
+     "records": 2,
+     "table_no": "表5-14",
+     "caption": "表 5-14 经验获取与结算机制表",
+     "section_no": "5.5.1",
+     "section_title": "5.5.1 经验体系",
+     "physical_page": 90,
+     "rows": 9,
+     "cols": 6,
+     "headers": [
+      "行为类型",
+      "获得经验"
+     ],
+     "missing": 6
+    },
+    "pair_score": 0.44,
+    "pair_detail": {
+     "caption": 0.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.932,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.5.1:p90:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       14,
+       6
+      ],
+      "2027": [
+       9,
+       6
+      ]
+     },
+     "numbers": {
+      "added": [
+       "2625",
+       "5",
+       "𝟎𝟎.𝟐𝟐",
+       "𝟏𝟏",
+       "𝟐",
+       "𝟐𝟐",
+       "𝟒",
+       "𝟒𝟒",
+       "𝟓",
+       "𝟗",
+       "𝟗𝟗"
+      ],
+      "removed": [
+       "10",
+       "100",
+       "160",
+       "240",
+       "2750",
+       "3",
+       "3000"
+      ]
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "row_labels": {
+      "added": [
+       "跨越地形"
+      ],
+      "removed": [
+       "获得地形跨越增益",
+       "通过部署模式造成伤害"
+      ]
+     },
+     "cells": {
+      "added": [
+       "步兵机器人：每发射1发弹丸，获得1点经验。",
+       "•对机器人造成攻击伤害：每造成1点伤害，攻击方获得4点经验。•对前哨站装甲模块造成攻击伤害：每造成1点伤害，攻击方获得2点经验。•对基地装甲模块造成攻击伤害：每造成2点伤害，攻击方获得1点经验，伤害为奇数时，向上取整。当一方机器人、基地或前哨站受到攻击伤害，但裁判系统未检测到伤害具体来源，伤害来源不能获取经验或伤害来源为判罚/己方机器人：若为弹丸伤害，经验将平均分给另一方的能够正常造成该类型弹丸伤害且能够获得经验的所有存活机器人；若为非弹丸伤害，经验将平均分给另一方此时所有存活的步兵机器人。平均值进行四舍五入，精确到小数点后一位。示例：蓝方某步兵机器人受到了120点17mm弹丸伤害，但系统未检测到伤害来源。此时红方有2台存活的步兵机器人，则每台步兵机器人所获得的𝟏𝟏𝟏𝟏经验为𝟒𝟒∗=𝟐𝟐𝟐。𝟐𝟐𝟐",
+       "以下计算中，哨兵机器人视为1级。•若存在击毁者且击毁者可以获取经验：◦当被击毁者等级大于等于击毁者等级时，经验计算方式如下：击毁者所获得的经验=50*被击毁者等级*（1+0.2*被击毁者与击毁者等级差）。",
+       "◦当被击毁者等级小于击毁者等级时，被击毁者与击毁者等级差视为0，经验计算方式如下：击毁者所获得的经验=50*被击毁者等级•若裁判系统未检测到击毁者或者击毁者不能获得经验：◦若为弹丸伤害，击毁者等级视为另一方能够正常造成该类型弹丸伤害的所有存活机器人的平均经验所对应的等级，且经验将平均分给上述机器人。◦若为非弹丸伤害，经验将平均分给另一方此时所有存活的步兵。平均值进行四舍五入，精确到小数点后一位。机器人因装甲模块被攻击外的其他原因导致变为战亡、异常离线或裁判系统无法检测到击毁者时，均视为找不到击毁者。示例一：一台2级步兵机器人击毁了对方一台6级步兵机器人，则击毁者获得的经验为50*6*（1+（6-2）*0.2）=540。示例二：红方一台9级步兵机器人战亡，未检测到击毁者，此时蓝方有2台总经验分别为1250、4000的步兵机器人存活，平均经验为2625，对应机器人等级为5级，则蓝方的2台步兵机器人每台获得的经验为𝟓∗𝟗𝟗∗𝟏𝟏+(𝟗−𝟗𝟓)𝟓∗𝟎𝟎.𝟐𝟐=𝟒𝟒𝟒。𝟒𝟐𝟐",
+       "详见“5.6.3能量机关机制”。",
+       "详见“5.6.3能量机关机制”。",
+       "跨越地形",
+       "机器人首次获得地形跨越增益（公路）、地形跨越增益（高地）、地形跨越增益（隧道）、制高点增益点时，均可获得300点经验。",
+       "详见“5.7.3飞镖系统特殊机制”中的飞镖命中收益部分。"
+      ],
+      "removed": [
+       "•步兵、空中机器人：每发射1发弹丸，获得1点经验。•英雄机器人：每发射1发弹丸，获得10点经验。",
+       "•对机器人造成攻击伤害：每造成1点伤害，攻击方获得4点经验。•对前哨站装甲模块造成攻击伤害：每造成1点伤害，攻击方获得2点经验。•对基地装甲模块造成攻击伤害：每造成2点伤害，攻击方获得1点经验，",
+       "伤害为奇数时，向上取整。当一方机器人、基地或前哨站受到攻击伤害，但裁判系统未检测到伤害具体来源，伤害来源不能获取经验或伤害来源为判罚/己方机器人：若为弹丸伤害，经验将平均分给另一方的能够正常造成该类型弹丸伤害且能够获得经验的所有存活机器人；若为非弹丸伤害，经验将平均分给另一方此时所有存活的英雄、步兵、空中机器人。平均值进行四舍五入，精确到小数点后一位。示例：蓝方某步兵机器人受到了120点17mm弹丸伤害，但系统未检测到伤害来源。此时红方有2台存活的步兵机器人，1台正在进行空中支援的空中机器人和1台存活的英雄机器人，则每台步兵和空中机器人所获得的经验4*120为=160，英雄机器人不获得经验。3",
+       "以下计算中，工程、哨兵机器人均视为1级。•若存在击毁者且击毁者可以获取经验：◦当被击毁者等级大于等于击毁者等级时，经验计算方式如下：击毁者所获得的经验=50*被击毁者等级（*1+0.2*被击毁者与击毁者等级差）。◦当被击毁者等级小于击毁者等级时，被击毁者与击毁者等级差视为0，经验计算方式如下：击毁者所获得的经验=50*被击毁者等级•若裁判系统未检测到击毁者或者击毁者不能获得经验：◦若为弹丸伤害，击毁者等级视为另一方能够正常造成该类型弹丸伤害的所有存活机器人的平均经验所对应的等级，且经验将平均分给上述机器人。◦若为非弹丸伤害，经验将平均分给另一方此时所有存活的英雄、步兵、空中机器人。平均值进行四舍五入，精确到小数点后一位。机器人因装甲模块被攻击外的其他原因导致变为战亡、异常离线或裁判系统无法检测到击毁者时，均视为找不到击毁者。示例一：一台2级步兵机器人击毁了对方一台6级步兵机器人，则击毁者获得的经验为50*6*（1+（6-2）*0.2）=540。",
+       "示例二：红方一台9级步兵机器人战亡，未检测到击毁者，此时蓝方有2台总经验分别为1250、4000的步兵机器人与1台总经验为3000的空中机器人存活，平均经验为2750，对应机器人等级为6级，则蓝方的2台步兵机50*9*（1+（9-6）*0.2）器人和1台空中机器人，每台获得的经验为=240。3",
+       "示例二：红方一台9级步兵机器人战亡，未检测到击毁者，此时蓝方有2台",
+       "总经验分别为1250、4000的步兵机器人与1台总经验为3000的空中机器",
+       "人存活，平均经验为2750，对应机器人等级为6级，则蓝方的2台步兵机",
+       "50*9*（1+（9-6）*0.2）器人和1台空中机器人，每台获得的经验为=240。3",
+       "详见“5.5.2能量机关机制”。"
+      ]
+     }
+    },
+    "grid_reliable": false,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:7.1.2:p135:t0",
+     "ids": [
+      "RMUC2026:7.1.2:p135:t0",
+      "RMUC2026:7.1.2:p136:t0"
+     ],
+     "records": 2,
+     "table_no": null,
+     "caption": null,
+     "section_no": "7.1.2",
+     "section_title": "7.1.2 判罚类型",
+     "physical_page": 135,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "判罚类型",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:7.1.2:p126:t0",
+     "ids": [
+      "RMUC2027:7.1.2:p126:t0",
+      "RMUC2027:7.1.2:p127:t0"
+     ],
+     "records": 2,
+     "table_no": null,
+     "caption": null,
+     "section_no": "7.1.2",
+     "section_title": "7.1.2 判罚类型",
+     "physical_page": 126,
+     "rows": 5,
+     "cols": 6,
+     "headers": [
+      "判罚类型",
+      "说明"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.438,
+    "pair_detail": {
+     "caption": 0.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.922,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:7.1.2:p126:t0",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "numbers": {
+      "added": [
+       "1680",
+       "420"
+      ],
+      "removed": [
+       "1"
+      ]
+     },
+     "units": {
+      "added": [
+       "s"
+      ],
+      "removed": [
+       "台"
+      ]
+     },
+     "cells": {
+      "added": [
+       "开启，若闸门已经开启，则会被立即关闭。◦若在比赛中罚下雷达，则雷达的多机通信将被断开（仅能单向接收，不再能发送）。◦若在比赛中罚下地面机器人，机器人血量立即变为0，图传画面断开、多机通信断开、无法复活。•罚下附属设备：对应设备不允许上场。•罚下场地人员：裁判要求被罚下的场地人员立即离开赛场区域，且当场的所有局比赛中不允许有其它场地人员进行替补。若罚下操作手，所对应操作的机器人当局被罚下，且在当场所有局比赛都不允许上场，也不得有机器人进行替补；其中，若罚下指挥手，空中系统和飞镖系统均被罚下，且在当场所有局比赛均不允许上场，也不得有机器人进行替补。",
+       "•若对一局比赛发出判负处罚（以下称“当局判负”），具体细则如下：◦若七分钟比赛阶段前发出判负处罚（包含三分钟准备阶段和十五秒裁判系统自检阶段），违规方基地血量为0，控制度为0，其余机器人血量为全满。另一方基地和机器人血量为全满，控制度为1680。两方全队总伤害均视为0。当局时间视为420s。◦若七分钟比赛阶段发出判负处罚，当局比赛直接结束，违规方基地血量为0，违规方其余机器人血量以比赛结束时的血量为准，控制度以比赛结束时的值为准，另一方基地和机器人血量以比赛结束时的血量为准，控制度以比赛结束时的值为准。当局时间以判负发出时实际比赛已进行时间为准。◦若七分钟比赛阶段结束后发出判负处罚，违规方基地血量为0，违规方其余机器人血量以比赛结束时的血量为准，控制度以比赛结束时的值为准，另一方基地和机器人血量以比赛结束时的血量为准，控制度以比赛结束时的值为准。当局时间以判负发出时实际比赛已进行时间为准。•若对一场比赛发出判负处罚（以下称“当场判负”），即对该场所有局比赛发出判负处罚，每局比赛的血量结算参考上述描述。"
+      ],
+      "removed": [
+       "行状态，飞手需立即将其降落至指定位置。◦若在比赛中罚下飞镖系统，则飞镖发射按键被立即屏蔽，飞镖发射站闸门不可被开启，若闸门已经开启，则会被立即关闭。◦若在比赛中罚下雷达，则其激光发射装置及其执行机构将被断电且雷达的多机通信将被断开（仅能单向接收，不再能发送）。◦若在比赛中罚下除空中机器人、飞镖和雷达外的其它机器人，机器人血量立即变为0，图传画面变为黑白。•罚下附属设备：对应设备不允许上场。•罚下场地人员：裁判要求被罚下的场地人员立即离开赛场区域，且当场的所有局比赛中不允许有其它场地人员进行替补。若罚下操作手，所对应操作的机器人当局被罚下，且在当场所有局比赛都不允许上场，也不得有机器人进行替补；其中，若罚下云台手，空中机器人和飞镖系统均被罚下，且在当场所有局比赛均不允许上场，也不得有机器人进行替补。",
+       "•若对一局比赛发出判负处罚（以下称“当局判负”），具体细则如下：◦若七分钟比赛阶段前发出判负处罚（包含三分钟准备阶段和十五秒裁判系统自检阶段），违规方基地血量为0，违规方其余机器人血量为全满。另一方基地和机器人血量为全满。当局比赛时间视为1秒，两方全队总伤害均视为0。◦若七分钟比赛阶段发出判负处罚，当局比赛直接结束，违规方基地血量为0，违规方其余机器人血量以比赛结束时的血量为准，另一方基地和机器人血量以比赛结束时的血量为准。◦若七分钟比赛阶段结束后发出判负处罚，违规方基地血量为0，违规方其余机器人血量以比赛结束时的血量为准，另一方基地和机器人血量以比赛结束时的血量为准。•若对一场比赛发出判负处罚（以下称“当场判负”），即对该场所有局比赛发出判负处罚，每局比赛的血量结算参考上述描述。"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.3.3:p85:t1",
+     "ids": [
+      "RMUC2026:5.3.3:p85:t1",
+      "RMUC2026:5.3.3:p86:t0"
+     ],
+     "records": 2,
+     "table_no": null,
+     "caption": null,
+     "section_no": "5.3.3",
+     "section_title": "5.3.3 科技核心-能量单元机制",
+     "physical_page": 85,
+     "rows": 16,
+     "cols": 3,
+     "headers": [
+      "完成难度",
+      "首次完成收益",
+      "非首次完成收益"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.4.3:p84:t1",
+     "ids": [
+      "RMUC2027:5.4.3:p84:t1"
+     ],
+     "records": 1,
+     "table_no": "表5-12",
+     "caption": "表 5-12 重装机器人装配难度对应收益表",
+     "section_no": "5.4.3",
+     "section_title": "5.4.3 科技核心-能量单元机制",
+     "physical_page": 84,
+     "rows": 18,
+     "cols": 3,
+     "headers": [
+      "完成难度",
+      "首次完成收益",
+      "非首次完成收益"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.436,
+    "pair_detail": {
+     "caption": 0.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.907,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "重装机器人"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.4.3:p84:t1",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       16,
+       3
+      ],
+      "2027": [
+       18,
+       3
+      ]
+     },
+     "numbers": {
+      "added": [
+       "12",
+       "20",
+       "4",
+       "40",
+       "42",
+       "8"
+      ],
+      "removed": [
+       "15",
+       "2000"
+      ]
+     },
+     "units": {
+      "added": [
+       "mm",
+       "发"
+      ],
+      "removed": []
+     },
+     "cells": {
+      "added": [
+       "•重装机器人升至5级。",
+       "此后，该方每10秒额外获得4金币",
+       "•此后，该方每10秒获得40金币。",
+       "•重装机器人升至7级。",
+       "此后，该方每10秒额外获得8金币",
+       "•解锁机器人等级上限：完成该难度的装配任务",
+       "前，该方机器人等级上限为5级，完成后，等",
+       "级上限提高为7级。",
+       "•此后，该方每10秒额外获得20金币。",
+       "•此后，该方每10秒额外获得20金币。"
+      ],
+      "removed": [
+       "此后，该方每10秒获得50金币。",
+       "此后，该方每10秒额外获得5金币",
+       "•解锁机器人等级上限：完成该难度的装配任务前，",
+       "此后，该方每10秒额外获得10金币",
+       "该方机器人等级上限为5级，完成后，等级上限提",
+       "高为7级。",
+       "•此后，该方每10秒额外获得25金币。",
+       "•此后，该方每10秒额外获得25金币。",
+       "•该方地面机器人、前哨站、基地获得25%防御增益，",
+       "此后，该方每10秒额外获得15金币"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:2:p22:t1",
+     "ids": [
+      "RMUC2026:2:p22:t1"
+     ],
+     "records": 1,
+     "table_no": null,
+     "caption": null,
+     "section_no": "2",
+     "section_title": "2 重要概念",
+     "physical_page": 22,
+     "rows": 16,
+     "cols": 6,
+     "headers": [
+      "比赛时刻说明",
+      "全文所提及的“X分钟Y秒”，即倒计时为（6-X）:（59-Y）；“X分钟Y秒至M"
+     ],
+     "missing": 0
+    },
+    "table_2027": {
+     "id": "RMUC2027:2:p19:t1",
+     "ids": [
+      "RMUC2027:2:p19:t1",
+      "RMUC2027:2:p19:t2",
+      "RMUC2027:2:p20:t0",
+      "RMUC2027:2:p20:t1"
+     ],
+     "records": 4,
+     "table_no": null,
+     "caption": null,
+     "section_no": "2",
+     "section_title": "2 重要概念",
+     "physical_page": 19,
+     "rows": 32,
+     "cols": 6,
+     "headers": [
+      "增益点",
+      "比赛过程中，一方机器人激活后会产生一定特殊效果的区域。"
+     ],
+     "missing": 0
+    },
+    "pair_score": 0.42,
+    "pair_detail": {
+     "caption": 0.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.803,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:2:p19:t1",
+    "verdict": "参数变化候选",
+    "evidence": {
+     "shape": {
+      "2026": [
+       16,
+       6
+      ],
+      "2027": [
+       32,
+       6
+      ]
+     },
+     "units": {
+      "added": [],
+      "removed": []
+     },
+     "column_headers": {
+      "added": [
+       "增益点",
+       "比赛过程中，一方机器人激活后会产生一定特殊效果的区域。"
+      ],
+      "removed": [
+       "全文所提及的“X分钟Y秒”，即倒计时为（6-X）:（59-Y）；“X分钟Y秒至M",
+       "比赛时刻说明"
+      ]
+     },
+     "row_labels": {
+      "added": [
+       "主裁判",
+       "参赛队伍",
+       "场地人员",
+       "操作手",
+       "禁区",
+       "裁判",
+       "违规方"
+      ],
+      "removed": [
+       "基地净胜血量"
+      ]
+     },
+     "cells": {
+      "added": [
+       "增益点",
+       "比赛过程中，一方机器人激活后会产生一定特殊效果的区域。",
+       "禁区",
+       "禁止机器人进入的区域。",
+       "场地道具",
+       "战场的组成元素，包括但不限于：基地、前哨站、能量机关。",
+       "仲裁委员会",
+       "由裁判长以及其他组委会相关负责人组成，负责处理申诉等事项。",
+       "裁判",
+       "维持赛场秩序、执行比赛规则的人员。"
+      ],
+      "removed": [
+       "一方机器人或基地、前哨站受到弹丸或飞镖打击产生的血量扣除。注：一方机器人、基地、前哨站因违规判罚导致的扣血计入对方攻击伤害。",
+       "基地净胜血量",
+       "每局比赛结束，己方基地剩余血量减去对方基地剩余血量。"
+      ]
+     }
+    },
+    "grid_reliable": true,
+    "needs_manual": true
+   },
+   {
+    "table_2026": {
+     "id": "RMUC2026:5.6.4:p116:t0",
+     "ids": [
+      "RMUC2026:5.6.4:p116:t0"
+     ],
+     "records": 1,
+     "table_no": null,
+     "caption": null,
+     "section_no": "5.6.4",
+     "section_title": "5.6.4 哨兵机器人特殊机制",
+     "physical_page": 116,
+     "rows": 10,
+     "cols": 12,
+     "headers": [
+      "姿态",
+      "强化姿态的效果",
+      "默认效果",
+      "下降后的效果"
+     ],
+     "missing": 5
+    },
+    "table_2027": {
+     "id": "RMUC2027:5.7.2:p110:t0",
+     "ids": [
+      "RMUC2027:5.7.2:p110:t0"
+     ],
+     "records": 1,
+     "table_no": "表5-28",
+     "caption": "表 5-28 哨兵机器人姿态效果表",
+     "section_no": "5.7.2",
+     "section_title": "5.7.2 哨兵机器人特殊机制",
+     "physical_page": 110,
+     "rows": 11,
+     "cols": 12,
+     "headers": [
+      "姿态",
+      "强化姿态的效果",
+      "默认效果",
+      "下降后的效果"
+     ],
+     "missing": 6
+    },
+    "pair_score": 0.418,
+    "pair_detail": {
+     "caption": 0.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.787,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "哨兵机器人"
+     ]
+    },
+    "same_as_b2": true,
+    "b2_partner": "RMUC2027:5.7.2:p110:t0",
+    "verdict": "表主题已变（可能是不同的表）",
+    "evidence": {
+     "shape": {
+      "2026": [
+       10,
+       12
+      ],
+      "2027": [
+       11,
+       12
+      ]
+     },
+     "cells": {
+      "added": [
+       "获得3倍热量冷却增益，底",
+       "不增加热量，底盘功率上限降",
+       "1盘功率上限降为原来的，获",
+       "底盘功率上限降为原来的",
+       "1为原来的，获得25%易伤2",
+       "2得25%易伤",
+       "1，获得25%易伤2",
+       "获得99%防御增益，底盘功1率上限降为原来的，热量冷21却速率降为原来的3",
+       "获得99%防御增益，底盘功",
+       "获得50%防御增益，底盘功1率上限降为原来的，热量冷21却速率降为原来的3"
+      ],
+      "removed": [
+       "，",
+       "获得3倍热量冷却增益，底盘1功率降为，获得25%易伤2",
+       "1不增加热量，底盘功率降为2",
+       "1底盘功率降为，获得2",
+       "获得25%易伤",
+       "25%易伤",
+       "获得99%防御增益，底盘功率11降为，热量冷却速率降为23",
+       "获得99%防御增益，底盘功率",
+       "获得50%防御增益，底盘功率11降为，热量冷却速率降为23",
+       "11降为，热量冷却速率降为23"
+      ]
+     }
+    },
+    "grid_reliable": false,
+    "needs_manual": true
+   }
+  ],
+  "unmatched_2026": [
+   {
+    "id": "RMUC2026:场地图纸图例说明:p3:t0",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "场地图纸图例说明",
+    "physical_page": 3
+   },
+   {
+    "id": "RMUC2026:修改日志:p3:t1",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "修改日志",
+    "physical_page": 3
+   },
+   {
+    "id": "RMUC2026:2:p21:t1",
+    "table_no": null,
+    "caption": null,
+    "section_no": "2",
+    "section_title": "2 重要概念",
+    "physical_page": 21
+   },
+   {
+    "id": "RMUC2026:3.1:p25:t0",
+    "table_no": "表3-3",
+    "caption": "表 3-3 英雄机器人关键特征",
+    "section_no": "3.1",
+    "section_title": "3.1 英雄机器人",
+    "physical_page": 25
+   },
+   {
+    "id": "RMUC2026:3.2:p26:t1",
+    "table_no": "表3-4",
+    "caption": "表 3-4 工程机器人关键特征",
+    "section_no": "3.2",
+    "section_title": "3.2 工程机器人",
+    "physical_page": 26
+   },
+   {
+    "id": "RMUC2026:3.4:p29:t1",
+    "table_no": "表3-6",
+    "caption": "表 3-6 空中机器人的关键特征",
+    "section_no": "3.4",
+    "section_title": "3.4 空中机器人",
+    "physical_page": 29
+   },
+   {
+    "id": "RMUC2026:5.3.2:p79:t0",
+    "table_no": "表5-7",
+    "caption": "表 5-7 机器人允许发弹量一览",
+    "section_no": "5.3.2",
+    "section_title": "5.3.2 允许发弹量机制",
+    "physical_page": 79
+   },
+   {
+    "id": "RMUC2026:5.4.1:p93:t1",
+    "table_no": "表5-12",
+    "caption": "表 5-12 英雄、步兵、空中机器人的等级和经验",
+    "section_no": "5.4.1",
+    "section_title": "5.4.1 经验体系",
+    "physical_page": 93
+   },
+   {
+    "id": "RMUC2026:5.4.2:p94:t1",
+    "table_no": "表5-13",
+    "caption": "表 5-13 英雄机器人整机属性",
+    "section_no": "5.4.2",
+    "section_title": "5.4.2 性能体系",
+    "physical_page": 94
+   },
+   {
+    "id": "RMUC2026:5.4.2:p97:t1",
+    "table_no": "表5-16",
+    "caption": "表 5-16 空中机器人17mm 发射机构属性",
+    "section_no": "5.4.2",
+    "section_title": "5.4.2 性能体系",
+    "physical_page": 97
+   },
+   {
+    "id": "RMUC2026:5.6.3:p114:t0",
+    "table_no": "表5-20",
+    "caption": "表 5-20 反制状态与被瞄准难度对应表",
+    "section_no": "5.6.3",
+    "section_title": "5.6.3 空中机器人特殊机制",
+    "physical_page": 114
+   },
+   {
+    "id": "RMUC2026:5.6.6:p120:t1",
+    "table_no": "表5-23",
+    "caption": "表 5-23 电磁波参数",
+    "section_no": "5.6.6",
+    "section_title": "5.6.6 雷达特殊机制",
+    "physical_page": 120
+   },
+   {
+    "id": "RMUC2026:5.6.6:p121:t0",
+    "table_no": null,
+    "caption": null,
+    "section_no": "5.6.6",
+    "section_title": "5.6.6 雷达特殊机制",
+    "physical_page": 121
+   },
+   {
+    "id": "RMUC2026:6.3.2:p130:t2",
+    "table_no": "表6-3",
+    "caption": "表 6-3 全国赛技术暂停安排",
+    "section_no": "6.3.2",
+    "section_title": "6.3.2 参赛队伍技术暂停",
+    "physical_page": 130
+   },
+   {
+    "id": "RMUC2026:附录1 雷达信息波特性:p153:t0",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "附录1 雷达信息波特性",
+    "physical_page": 153
+   },
+   {
+    "id": "RMUC2026:附录1 雷达信息波特性:p154:t0",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "附录1 雷达信息波特性",
+    "physical_page": 154
+   },
+   {
+    "id": "RMUC2026:附录1 雷达信息波特性:p154:t1",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "附录1 雷达信息波特性",
+    "physical_page": 154
+   },
+   {
+    "id": "RMUC2026:附录1 雷达信息波特性:p154:t2",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "附录1 雷达信息波特性",
+    "physical_page": 154
+   },
+   {
+    "id": "RMUC2026:附录3 未来规则规划:p157:t0",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "附录3 未来规则规划",
+    "physical_page": 157
+   }
+  ],
+  "unmatched_2027": [
+   {
+    "id": "RMUC2027:修改日志:p3:t0",
+    "table_no": null,
+    "caption": null,
+    "section_no": "",
+    "section_title": "修改日志",
+    "physical_page": 3
+   },
+   {
+    "id": "RMUC2027:3.1.1:p23:t0",
+    "table_no": "表3-3",
+    "caption": "表 3-3 重装机器人的关键特征",
+    "section_no": "3.1.1",
+    "section_title": "3.1.1 重装机器人",
+    "physical_page": 23
+   },
+   {
+    "id": "RMUC2027:3.1.1:p24:t1",
+    "table_no": "表3-4",
+    "caption": "表 3-4 模块化42mm 发射机构的关键特征",
+    "section_no": "3.1.1",
+    "section_title": "3.1.1 重装机器人",
+    "physical_page": 24
+   },
+   {
+    "id": "RMUC2027:3.2.1:p28:t0",
+    "table_no": "表3-7",
+    "caption": "表 3-7 空中机器人的关键特征",
+    "section_no": "3.2.1",
+    "section_title": "3.2.1 空中系统",
+    "physical_page": 28
+   },
+   {
+    "id": "RMUC2027:3.2.1:p28:t1",
+    "table_no": "表3-8",
+    "caption": "表 3-8 机库的关键特征",
+    "section_no": "3.2.1",
+    "section_title": "3.2.1 空中系统",
+    "physical_page": 28
+   },
+   {
+    "id": "RMUC2027:5.2:p73:t0",
+    "table_no": "表5-5",
+    "caption": "表 5-5 装甲模块各区域伤害倍率对照表",
+    "section_no": "5.2",
+    "section_title": "5.2 自适应装甲机制",
+    "physical_page": 73
+   },
+   {
+    "id": "RMUC2027:5.4.2:p78:t1",
+    "table_no": "表5-9",
+    "caption": "表 5-9 （远程兑换时）不同类型弹丸允许发弹量的最小兑换单位",
+    "section_no": "5.4.2",
+    "section_title": "5.4.2 允许发弹量机制",
+    "physical_page": 78
+   },
+   {
+    "id": "RMUC2027:5.5.1:p92:t0",
+    "table_no": "表5-15",
+    "caption": "表 5-15 步兵机器人的等级和经验",
+    "section_no": "5.5.1",
+    "section_title": "5.5.1 经验体系",
+    "physical_page": 92
+   },
+   {
+    "id": "RMUC2027:5.5.2:p92:t1",
+    "table_no": "表5-16",
+    "caption": "表 5-16 重装机器人整机属性",
+    "section_no": "5.5.2",
+    "section_title": "5.5.2 性能体系",
+    "physical_page": 92
+   },
+   {
+    "id": "RMUC2027:5.6.1:p96:t0",
+    "table_no": "表5-19",
+    "caption": "表 5-19 后勤能力参数计算逻辑",
+    "section_no": "5.6.1",
+    "section_title": "5.6.1 基地及前哨站机制",
+    "physical_page": 96
+   },
+   {
+    "id": "RMUC2027:5.6.2:p97:t0",
+    "table_no": "表5-20",
+    "caption": "表 5-20 阵地与控制关系",
+    "section_no": "5.6.2",
+    "section_title": "5.6.2 战场控制机制",
+    "physical_page": 97
+   },
+   {
+    "id": "RMUC2027:5.6.2:p97:t1",
+    "table_no": "表5-21",
+    "caption": "表 5-21 阵地控制状态转化机制",
+    "section_no": "5.6.2",
+    "section_title": "5.6.2 战场控制机制",
+    "physical_page": 97
+   },
+   {
+    "id": "RMUC2027:5.6.4.1:p105:t0",
+    "table_no": "表5-26",
+    "caption": "表 5-26 增益来源类型与行为表",
+    "section_no": "5.6.4.1",
+    "section_title": "5.6.4.1 场地增益点概述",
+    "physical_page": 105
+   },
+   {
+    "id": "RMUC2027:5.6.4.5:p107:t0",
+    "table_no": "表5-27",
+    "caption": "表 5-27 隧道增益触发逻辑与效果",
+    "section_no": "5.6.4.5",
+    "section_title": "5.6.4.5 地形跨越增益点机制",
+    "physical_page": 107
+   },
+   {
+    "id": "RMUC2027:5.7.2:p111:t0",
+    "table_no": null,
+    "caption": null,
+    "section_no": "5.7.2",
+    "section_title": "5.7.2 哨兵机器人特殊机制",
+    "physical_page": 111
+   }
+  ],
+  "changed_pairing": [
+   {
+    "table_2026": "RMUC2026:5.3.3:p87:t0",
+    "old_partner": "RMUC2027:5.4.3:p83:t1",
+    "new_partner": "RMUC2027:5.4.3:p85:t0",
+    "score": 0.9,
+    "detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 1.0,
+     "subject_conflict": false,
+     "subjects": [
+      "科技核心",
+      "科技核心"
+     ]
+    }
+   },
+   {
+    "table_2026": "RMUC2026:5.3.1:p78:t1",
+    "old_partner": "RMUC2027:5.4.1:p76:t0",
+    "new_partner": "RMUC2027:5.4.1:p77:t1",
+    "score": 0.8982740464055176,
+    "detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.988,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    }
+   },
+   {
+    "table_2026": "RMUC2026:5.3.1:p78:t0",
+    "old_partner": "RMUC2027:5.4.1:p77:t1",
+    "new_partner": "RMUC2027:5.4.1:p76:t0",
+    "score": 0.8400634262305147,
+    "detail": {
+     "caption": 1.0,
+     "same_unit": true,
+     "same_table_no": false,
+     "content": 0.6,
+     "subject_conflict": false,
+     "subjects": [
+      "-",
+      "-"
+     ]
+    }
+   }
+  ],
+  "by_verdict": {
+   "未发现文本层差异": 9,
+   "结构/文字变化候选": 5,
+   "参数变化候选": 21,
+   "表主题已变（可能是不同的表）": 3
+  }
+ },
+ "figures": {
+  "rows": [
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.4.2:p063:i002",
+     "physical_page": 63,
+     "w": 1050,
+     "h": 841,
+     "caption": "图 4-38 飞坡示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.4.2:p060:i002",
+     "physical_page": 60,
+     "w": 1486,
+     "h": 734,
+     "caption": "图 4-38 远高地隧道示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.3008,
+    "hist_distance": 0.1606,
+    "caption_similarity": 0.696,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 30.1%、色彩分布差异 0.161，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C13",
+     "page_2026": 63,
+     "page_2027": 60,
+     "label": "图 4-38 飞坡示意图 → 图 4-38 远高地隧道示意图",
+     "image_2026": "compare/C13_2026_p063.png",
+     "image_2027": "compare/C13_2027_p060.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.3.2:p056:i002",
+     "physical_page": 56,
+     "w": 2442,
+     "h": 1077,
+     "caption": "图 4-28 中央高地示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2:p051:i002",
+     "physical_page": 51,
+     "w": 1469,
+     "h": 901,
+     "caption": "图 4-27 中央高地示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.125,
+    "hist_distance": 0.1953,
+    "caption_similarity": 0.917,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 12.5%、色彩分布差异 0.195，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.6.3:p067:i003",
+     "physical_page": 67,
+     "w": 1341,
+     "h": 715,
+     "caption": "图 4-40 主操作间布局示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.5.3:p063:i007",
+     "physical_page": 63,
+     "w": 1512,
+     "h": 865,
+     "caption": "图 4-40 操作间布局示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.2539,
+    "hist_distance": 0.0712,
+    "caption_similarity": 0.963,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 25.4%、色彩分布差异 0.071，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:1.1:p016:i003",
+     "physical_page": 16,
+     "w": 1137,
+     "h": 1259,
+     "caption": "图 1-1 人才培养理念"
+    },
+    "f2027": {
+     "id": "RMUC2027:1.1:p013:i004",
+     "physical_page": 13,
+     "w": 1137,
+     "h": 1259,
+     "caption": "图 1-1 人才培养理念"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.1:p040:i002",
+     "physical_page": 40,
+     "w": 881,
+     "h": 705,
+     "caption": "图 4-9 机器人启动区示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.1:p037:i002",
+     "physical_page": 37,
+     "w": 1378,
+     "h": 1507,
+     "caption": "图 4-9 机器人启动区示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1055,
+    "hist_distance": 0.3403,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 10.5%、色彩分布差异 0.340，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C03",
+     "page_2026": 40,
+     "page_2027": 37,
+     "label": "图 4-9 机器人启动区示意图 → 图 4-9 机器人启动区示意图",
+     "image_2026": "compare/C03_2026_p040.png",
+     "image_2027": "compare/C03_2027_p037.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2:p102:i017",
+     "physical_page": 102,
+     "w": 793,
+     "h": 639,
+     "caption": "图 5-18 能量机关击打区域示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3:p099:i017",
+     "physical_page": 99,
+     "w": 793,
+     "h": 639,
+     "caption": "图 5-17 能量机关击打区域示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.938,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:附录3 未来规则规划:p159:i002",
+     "physical_page": 159,
+     "w": 1701,
+     "h": 2386,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:附录2 未来规则规划:p144:i002",
+     "physical_page": 144,
+     "w": 1701,
+     "h": 2386,
+     "caption": ""
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0195,
+    "hist_distance": 0.0283,
+    "caption_similarity": 0.0,
+    "verdict": "纯样式变化候选",
+    "reason": "结构哈希差异 2.0%、色彩分布差异 0.028，图像结构高度一致，差异可能仅来自重绘/压缩/配色",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:场地图纸图例说明:p003:i006",
+     "physical_page": 3,
+     "w": 479,
+     "h": 190,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:场地图纸图例说明:p003:i009",
+     "physical_page": 3,
+     "w": 479,
+     "h": 190,
+     "caption": ""
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:场地图纸图例说明:p003:i005",
+     "physical_page": 3,
+     "w": 319,
+     "h": 137,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:场地图纸图例说明:p003:i008",
+     "physical_page": 3,
+     "w": 319,
+     "h": 137,
+     "caption": ""
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:场地图纸图例说明:p003:i004",
+     "physical_page": 3,
+     "w": 133,
+     "h": 169,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:场地图纸图例说明:p003:i007",
+     "physical_page": 3,
+     "w": 133,
+     "h": 169,
+     "caption": ""
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:场地图纸图例说明:p003:i003",
+     "physical_page": 3,
+     "w": 317,
+     "h": 137,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:场地图纸图例说明:p003:i003",
+     "physical_page": 3,
+     "w": 317,
+     "h": 137,
+     "caption": ""
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:场地图纸图例说明:p003:i002",
+     "physical_page": 3,
+     "w": 318,
+     "h": 137,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:场地图纸图例说明:p003:i002",
+     "physical_page": 3,
+     "w": 318,
+     "h": 137,
+     "caption": ""
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:场地图纸图例说明:p003:i001",
+     "physical_page": 3,
+     "w": 318,
+     "h": 136,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:场地图纸图例说明:p003:i001",
+     "physical_page": 3,
+     "w": 318,
+     "h": 136,
+     "caption": ""
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:6.3:p128:i012",
+     "physical_page": 128,
+     "w": 1064,
+     "h": 624,
+     "caption": "图 6-3 准备阶段调试区域示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:6.3:p120:i005",
+     "physical_page": 120,
+     "w": 1208,
+     "h": 745,
+     "caption": "图 6-3 准备阶段调试区域示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0391,
+    "hist_distance": 0.3506,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 3.9%、色彩分布差异 0.351，图形信息很可能已改变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.3:p044:i008",
+     "physical_page": 44,
+     "w": 777,
+     "h": 531,
+     "caption": "图 4-16 滑台尺寸图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.3:p042:i007",
+     "physical_page": 42,
+     "w": 777,
+     "h": 531,
+     "caption": "图 4-16 滑台尺寸图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.3:p044:i006",
+     "physical_page": 44,
+     "w": 1241,
+     "h": 755,
+     "caption": "图 4-15 滑台滑出示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.3:p041:i005",
+     "physical_page": 41,
+     "w": 860,
+     "h": 452,
+     "caption": "图 4-15 滑台滑出示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.3125,
+    "hist_distance": 0.1052,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 31.2%、色彩分布差异 0.105，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C05",
+     "page_2026": 44,
+     "page_2027": 41,
+     "label": "图 4-15 滑台滑出示意图 → 图 4-15 滑台滑出示意图",
+     "image_2026": "compare/C05_2026_p044.png",
+     "image_2027": "compare/C05_2027_p041.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.3:p043:i002",
+     "physical_page": 43,
+     "w": 1540,
+     "h": 832,
+     "caption": "图 4-14 飞镖发射站示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.3:p041:i002",
+     "physical_page": 41,
+     "w": 851,
+     "h": 484,
+     "caption": "图 4-14 飞镖发射站示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.2188,
+    "hist_distance": 0.1359,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 21.9%、色彩分布差异 0.136，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.7:p054:i002",
+     "physical_page": 54,
+     "w": 1526,
+     "h": 1435,
+     "caption": "图 4-26 堡垒示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.7:p049:i002",
+     "physical_page": 49,
+     "w": 683,
+     "h": 821,
+     "caption": "图 4-25 堡垒示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0977,
+    "hist_distance": 0.0923,
+    "caption_similarity": 0.9,
+    "verdict": "纯样式变化候选",
+    "reason": "结构哈希差异 9.8%、色彩分布差异 0.092，图像结构高度一致，差异可能仅来自重绘/压缩/配色",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:7.2.3.2:p144:i002",
+     "physical_page": 144,
+     "w": 1128,
+     "h": 687,
+     "caption": "图 7-2 战场禁区示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:7.2.3.2:p134:i002",
+     "physical_page": 134,
+     "w": 1231,
+     "h": 708,
+     "caption": "图 7-1 战场禁区示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0625,
+    "hist_distance": 0.3997,
+    "caption_similarity": 0.909,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 6.2%、色彩分布差异 0.400，图形信息很可能已改变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p090:i057",
+     "physical_page": 90,
+     "w": 978,
+     "h": 1062,
+     "caption": "图 5-15 步骤5 科技核心灯效示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p088:i058",
+     "physical_page": 88,
+     "w": 978,
+     "h": 1062,
+     "caption": "图 5-15 步骤5 科技核心灯效示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p090:i056",
+     "physical_page": 90,
+     "w": 553,
+     "h": 684,
+     "caption": "图 5-15 步骤5 科技核心灯效示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p088:i057",
+     "physical_page": 88,
+     "w": 553,
+     "h": 684,
+     "caption": "图 5-15 步骤5 科技核心灯效示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p089:i053",
+     "physical_page": 89,
+     "w": 961,
+     "h": 1061,
+     "caption": "图 5-14 步骤4 示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p088:i054",
+     "physical_page": 88,
+     "w": 961,
+     "h": 1061,
+     "caption": "图 5-14 步骤4 示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p089:i050",
+     "physical_page": 89,
+     "w": 757,
+     "h": 660,
+     "caption": "图 5-13 步骤3 示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p087:i051",
+     "physical_page": 87,
+     "w": 757,
+     "h": 660,
+     "caption": "图 5-13 步骤3 示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p088:i043",
+     "physical_page": 88,
+     "w": 607,
+     "h": 699,
+     "caption": "图 5-12 步骤2 示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p087:i044",
+     "physical_page": 87,
+     "w": 607,
+     "h": 699,
+     "caption": "图 5-12 步骤2 示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p086:i035",
+     "physical_page": 86,
+     "w": 645,
+     "h": 577,
+     "caption": "图 5-11 科技核心灯效示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p085:i035",
+     "physical_page": 85,
+     "w": 645,
+     "h": 577,
+     "caption": "图 5-11 科技核心灯效示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p084:i016",
+     "physical_page": 84,
+     "w": 843,
+     "h": 826,
+     "caption": "图 5-10 球坐标系示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p082:i016",
+     "physical_page": 82,
+     "w": 843,
+     "h": 826,
+     "caption": "图 5-10 球坐标系示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p083:i014",
+     "physical_page": 83,
+     "w": 810,
+     "h": 882,
+     "caption": "图 5-9 科技核心尺寸示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p082:i014",
+     "physical_page": 82,
+     "w": 810,
+     "h": 882,
+     "caption": "图 5-9 科技核心尺寸示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p083:i012",
+     "physical_page": 83,
+     "w": 736,
+     "h": 758,
+     "caption": "图 5-8 科技核心MARK 灯尺寸示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p081:i012",
+     "physical_page": 81,
+     "w": 736,
+     "h": 758,
+     "caption": "图 5-8 科技核心MARK 灯尺寸示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p082:i009",
+     "physical_page": 82,
+     "w": 1913,
+     "h": 1869,
+     "caption": "图 5-7 科技核心坐标示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p081:i009",
+     "physical_page": 81,
+     "w": 1913,
+     "h": 1869,
+     "caption": "图 5-7 科技核心坐标示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p081:i004",
+     "physical_page": 81,
+     "w": 961,
+     "h": 641,
+     "caption": "图 5-6 科技核心示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p079:i004",
+     "physical_page": 79,
+     "w": 1414,
+     "h": 889,
+     "caption": "图 5-6 科技核心示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.25,
+    "hist_distance": 0.039,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 25.0%、色彩分布差异 0.039，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p082:i008",
+     "physical_page": 82,
+     "w": 1145,
+     "h": 935,
+     "caption": "图 5-7 科技核心坐标示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p080:i008",
+     "physical_page": 80,
+     "w": 1145,
+     "h": 935,
+     "caption": ""
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:5.3.3:p081:i007",
+     "physical_page": 81,
+     "w": 1766,
+     "h": 994,
+     "caption": ""
+    },
+    "f2027": {
+     "id": "RMUC2027:5.4.3:p080:i007",
+     "physical_page": 80,
+     "w": 1184,
+     "h": 748,
+     "caption": ""
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0977,
+    "hist_distance": 0.3643,
+    "caption_similarity": 0.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 9.8%、色彩分布差异 0.364，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C14",
+     "page_2026": 81,
+     "page_2027": 80,
+     "label": "无图注 → 无图注",
+     "image_2026": "compare/C14_2026_p081.png",
+     "image_2027": "compare/C14_2027_p080.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p105:i025",
+     "physical_page": 105,
+     "w": 401,
+     "h": 335,
+     "caption": "图 5-21 大能量机关正在激活状态示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p101:i024",
+     "physical_page": 101,
+     "w": 401,
+     "h": 335,
+     "caption": "图 5-20 大能量机关正在激活状态示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.947,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p105:i024",
+     "physical_page": 105,
+     "w": 416,
+     "h": 344,
+     "caption": "图 5-21 大能量机关正在激活状态示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p101:i023",
+     "physical_page": 101,
+     "w": 416,
+     "h": 344,
+     "caption": "图 5-20 大能量机关正在激活状态示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.947,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p105:i023",
+     "physical_page": 105,
+     "w": 418,
+     "h": 360,
+     "caption": "图 5-21 大能量机关正在激活状态示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p101:i022",
+     "physical_page": 101,
+     "w": 418,
+     "h": 360,
+     "caption": "图 5-20 大能量机关正在激活状态示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.947,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p106:i036",
+     "physical_page": 106,
+     "w": 749,
+     "h": 532,
+     "caption": "图 5-23 能量机关已激活状态示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p102:i035",
+     "physical_page": 102,
+     "w": 749,
+     "h": 532,
+     "caption": "图 5-22 能量机关已激活状态示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.941,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p105:i029",
+     "physical_page": 105,
+     "w": 768,
+     "h": 650,
+     "caption": "图 5-22 能量机关可激活标识示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p102:i028",
+     "physical_page": 102,
+     "w": 768,
+     "h": 650,
+     "caption": "图 5-21 能量机关可激活标识示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.941,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p104:i005",
+     "physical_page": 104,
+     "w": 750,
+     "h": 538,
+     "caption": "图 5-19 能量机关未激活状态示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p100:i004",
+     "physical_page": 100,
+     "w": 750,
+     "h": 538,
+     "caption": "图 5-18 能量机关未激活状态示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.941,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p104:i012",
+     "physical_page": 104,
+     "w": 633,
+     "h": 459,
+     "caption": "图 5-20 小能量机关正在激活状态示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p101:i011",
+     "physical_page": 101,
+     "w": 633,
+     "h": 459,
+     "caption": "图 5-19 小能量机关正在激活状态示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.895,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.2.1:p104:i011",
+     "physical_page": 104,
+     "w": 701,
+     "h": 500,
+     "caption": "图 5-20 小能量机关正在激活状态示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.3.1:p101:i010",
+     "physical_page": 101,
+     "w": 701,
+     "h": 500,
+     "caption": "图 5-19 小能量机关正在激活状态示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.895,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.2:p042:i016",
+     "physical_page": 42,
+     "w": 1039,
+     "h": 601,
+     "caption": "图 4-13 飞镖检测模块示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.2:p040:i016",
+     "physical_page": 40,
+     "w": 1039,
+     "h": 601,
+     "caption": "图 4-13 飞镖检测模块示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.2:p042:i014",
+     "physical_page": 42,
+     "w": 1116,
+     "h": 778,
+     "caption": "图 4-13 飞镖检测模块示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.2:p040:i014",
+     "physical_page": 40,
+     "w": 1116,
+     "h": 778,
+     "caption": "图 4-13 飞镖检测模块示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.2:p041:i008",
+     "physical_page": 41,
+     "w": 1217,
+     "h": 626,
+     "caption": "图 4-12 基地护甲展开形态尺寸图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.2:p039:i008",
+     "physical_page": 39,
+     "w": 1217,
+     "h": 626,
+     "caption": "图 4-12 基地护甲展开形态尺寸图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.2:p041:i005",
+     "physical_page": 41,
+     "w": 1035,
+     "h": 764,
+     "caption": "图 4-11 基地护甲闭合形态尺寸图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.2:p038:i005",
+     "physical_page": 38,
+     "w": 1035,
+     "h": 764,
+     "caption": "图 4-11 基地护甲闭合形态尺寸图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.2:p040:i003",
+     "physical_page": 40,
+     "w": 565,
+     "h": 569,
+     "caption": "图 4-10 基地底座示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.2:p038:i003",
+     "physical_page": 38,
+     "w": 1007,
+     "h": 979,
+     "caption": "图 4-10 基地底座示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1914,
+    "hist_distance": 0.3498,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 19.1%、色彩分布差异 0.350，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C04",
+     "page_2026": 40,
+     "page_2027": 38,
+     "label": "图 4-10 基地底座示意图 → 图 4-10 基地底座示意图",
+     "image_2026": "compare/C04_2026_p040.png",
+     "image_2027": "compare/C04_2027_p038.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p051:i019",
+     "physical_page": 51,
+     "w": 576,
+     "h": 550,
+     "caption": "图 4-23 视觉标签示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.6:p048:i020",
+     "physical_page": 48,
+     "w": 576,
+     "h": 550,
+     "caption": "图 4-24 视觉标签示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.917,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p051:i017",
+     "physical_page": 51,
+     "w": 569,
+     "h": 555,
+     "caption": "图 4-23 视觉标签示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.6:p048:i018",
+     "physical_page": 48,
+     "w": 569,
+     "h": 555,
+     "caption": "图 4-24 视觉标签示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.917,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p051:i015",
+     "physical_page": 51,
+     "w": 903,
+     "h": 372,
+     "caption": "图 4-23 视觉标签示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.6:p048:i016",
+     "physical_page": 48,
+     "w": 903,
+     "h": 372,
+     "caption": "图 4-24 视觉标签示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.917,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p050:i012",
+     "physical_page": 50,
+     "w": 1255,
+     "h": 592,
+     "caption": "图 4-22 能量单元放置区示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.6:p047:i011",
+     "physical_page": 47,
+     "w": 1191,
+     "h": 1089,
+     "caption": "图 4-22 能量单元放置区示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.3164,
+    "hist_distance": 0.0676,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 31.6%、色彩分布差异 0.068，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C07",
+     "page_2026": 50,
+     "page_2027": 47,
+     "label": "图 4-22 能量单元放置区示意图 → 图 4-22 能量单元放置区示意图",
+     "image_2026": "compare/C07_2026_p050.png",
+     "image_2027": "compare/C07_2027_p047.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p049:i006",
+     "physical_page": 49,
+     "w": 2139,
+     "h": 1684,
+     "caption": "图 4-21 资源站示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.6:p046:i006",
+     "physical_page": 46,
+     "w": 2073,
+     "h": 1362,
+     "caption": "图 4-21 资源站示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.2305,
+    "hist_distance": 0.243,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 23.0%、色彩分布差异 0.243，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p048:i002",
+     "physical_page": 48,
+     "w": 2659,
+     "h": 1075,
+     "caption": "图 4-20 补给区示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.6:p045:i002",
+     "physical_page": 45,
+     "w": 2207,
+     "h": 1464,
+     "caption": "图 4-20 补给区示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.2969,
+    "hist_distance": 0.231,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 29.7%、色彩分布差异 0.231，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p053:i028",
+     "physical_page": 53,
+     "w": 2292,
+     "h": 1846,
+     "caption": "图 4-25 无线充电装置示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.6:p047:i014",
+     "physical_page": 47,
+     "w": 2194,
+     "h": 1322,
+     "caption": "图 4-23 工作台示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.4961,
+    "hist_distance": 0.1795,
+    "caption_similarity": 0.56,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 49.6%、色彩分布差异 0.180，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C08",
+     "page_2026": 53,
+     "page_2027": 47,
+     "label": "图 4-25 无线充电装置示意图 → 图 4-23 工作台示意图",
+     "image_2026": "compare/C08_2026_p053.png",
+     "image_2027": "compare/C08_2027_p047.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.1:p038:i052",
+     "physical_page": 38,
+     "w": 991,
+     "h": 879,
+     "caption": "图 4-7 风机示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.1:p035:i052",
+     "physical_page": 35,
+     "w": 991,
+     "h": 879,
+     "caption": "图 4-7 风机示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.1:p037:i049",
+     "physical_page": 37,
+     "w": 2128,
+     "h": 1294,
+     "caption": "图 4-6 战场倾斜示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.1:p034:i049",
+     "physical_page": 34,
+     "w": 771,
+     "h": 484,
+     "caption": "图 4-6 战场倾斜示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0703,
+    "hist_distance": 0.3236,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 7.0%、色彩分布差异 0.324，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C02",
+     "page_2026": 37,
+     "page_2027": 34,
+     "label": "图 4-6 战场倾斜示意图 → 图 4-6 战场倾斜示意图",
+     "image_2026": "compare/C02_2026_p037.png",
+     "image_2027": "compare/C02_2027_p034.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.1:p036:i043",
+     "physical_page": 36,
+     "w": 2314,
+     "h": 1243,
+     "caption": "图 4-5 战场模块定位尺寸图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.1:p033:i043",
+     "physical_page": 33,
+     "w": 979,
+     "h": 624,
+     "caption": "图 4-5 战场模块定位尺寸图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1602,
+    "hist_distance": 0.2947,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 16.0%、色彩分布差异 0.295，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C01",
+     "page_2026": 36,
+     "page_2027": 33,
+     "label": "图 4-5 战场模块定位尺寸图 → 图 4-5 战场模块定位尺寸图",
+     "image_2026": "compare/C01_2026_p036.png",
+     "image_2027": "compare/C01_2027_p033.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.1:p035:i013",
+     "physical_page": 35,
+     "w": 1828,
+     "h": 1048,
+     "caption": "图 4-4 战场模块示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.1:p032:i013",
+     "physical_page": 32,
+     "w": 990,
+     "h": 585,
+     "caption": "图 4-4 战场模块示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0742,
+    "hist_distance": 0.2481,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 7.4%、色彩分布差异 0.248，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.1:p034:i011",
+     "physical_page": 34,
+     "w": 2008,
+     "h": 1131,
+     "caption": "图 4-3 战场轴测渲染图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.1:p031:i011",
+     "physical_page": 31,
+     "w": 1044,
+     "h": 615,
+     "caption": "图 4-3 战场轴测渲染图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.082,
+    "hist_distance": 0.1125,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 8.2%、色彩分布差异 0.113，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.1:p034:i009",
+     "physical_page": 34,
+     "w": 1922,
+     "h": 775,
+     "caption": "图 4-2 战场斜视渲染图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.1:p031:i009",
+     "physical_page": 31,
+     "w": 1085,
+     "h": 469,
+     "caption": "图 4-2 战场斜视渲染图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1719,
+    "hist_distance": 0.1069,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 17.2%、色彩分布差异 0.107，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.1:p033:i007",
+     "physical_page": 33,
+     "w": 1683,
+     "h": 938,
+     "caption": "图 4-1 战场俯视渲染图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.1:p030:i007",
+     "physical_page": 30,
+     "w": 981,
+     "h": 559,
+     "caption": "图 4-1 战场俯视渲染图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0742,
+    "hist_distance": 0.1656,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 7.4%、色彩分布差异 0.166，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.2.5:p047:i012",
+     "physical_page": 47,
+     "w": 1044,
+     "h": 924,
+     "caption": "图 4-19 雷达基座的相对位置示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.5:p044:i012",
+     "physical_page": 44,
+     "w": 1044,
+     "h": 924,
+     "caption": "图 4-19 雷达基座的相对位置示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.5:p046:i006",
+     "physical_page": 46,
+     "w": 1473,
+     "h": 1049,
+     "caption": "图 4-18 雷达基座示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2.5:p043:i006",
+     "physical_page": 43,
+     "w": 1015,
+     "h": 719,
+     "caption": "图 4-18 雷达基座示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1484,
+    "hist_distance": 0.0327,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 14.8%、色彩分布差异 0.033，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.3.2.3:p060:i002",
+     "physical_page": 60,
+     "w": 1188,
+     "h": 1582,
+     "caption": "图 4-34 前哨站示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2.4:p057:i002",
+     "physical_page": 57,
+     "w": 1188,
+     "h": 1582,
+     "caption": "图 4-34 前哨站示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.3.1:p055:i002",
+     "physical_page": 55,
+     "w": 2018,
+     "h": 1147,
+     "caption": "图 4-27 梯形高地示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.1:p050:i002",
+     "physical_page": 50,
+     "w": 1446,
+     "h": 751,
+     "caption": "图 4-26 梯形高地示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.2969,
+    "hist_distance": 0.187,
+    "caption_similarity": 0.917,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 29.7%、色彩分布差异 0.187，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:5.5.1:p098:i005",
+     "physical_page": 98,
+     "w": 857,
+     "h": 767,
+     "caption": "图 5-16 矩形区域示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.1:p096:i015",
+     "physical_page": 96,
+     "w": 1920,
+     "h": 620,
+     "caption": "图 5-16 λ=1、0.75、0.5 时的图传画面清晰度示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.4219,
+    "hist_distance": 0.3764,
+    "caption_similarity": 0.39,
+    "verdict": "信息变化",
+    "reason": "图注（去掉图号后）已明显不同，图形内容应视为变化",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.4.1:p062:i005",
+     "physical_page": 62,
+     "w": 416,
+     "h": 786,
+     "caption": "图 4-37 凸起示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.4.1:p059:i005",
+     "physical_page": 59,
+     "w": 416,
+     "h": 786,
+     "caption": "图 4-37 凸起示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.4.1:p062:i002",
+     "physical_page": 62,
+     "w": 2069,
+     "h": 1198,
+     "caption": "图 4-36 起伏路段示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.4.1:p059:i002",
+     "physical_page": 59,
+     "w": 1203,
+     "h": 731,
+     "caption": "图 4-36 起伏路段示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0664,
+    "hist_distance": 0.3477,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 6.6%、色彩分布差异 0.348，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C12",
+     "page_2026": 62,
+     "page_2027": 59,
+     "label": "图 4-36 起伏路段示意图 → 图 4-36 起伏路段示意图",
+     "image_2026": "compare/C12_2026_p062.png",
+     "image_2027": "compare/C12_2027_p059.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.6.1:p065:i005",
+     "physical_page": 65,
+     "w": 695,
+     "h": 441,
+     "caption": "图 4-39 能量单元示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.5.1:p061:i005",
+     "physical_page": 61,
+     "w": 554,
+     "h": 352,
+     "caption": "图 4-39 能量单元示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0117,
+    "hist_distance": 0.0411,
+    "caption_similarity": 1.0,
+    "verdict": "纯样式变化候选",
+    "reason": "结构哈希差异 1.2%、色彩分布差异 0.041，图像结构高度一致，差异可能仅来自重绘/压缩/配色",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.6.1:p065:i004",
+     "physical_page": 65,
+     "w": 844,
+     "h": 1129,
+     "caption": "图 4-39 能量单元示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.5.1:p061:i004",
+     "physical_page": 61,
+     "w": 761,
+     "h": 1018,
+     "caption": "图 4-39 能量单元示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0156,
+    "hist_distance": 0.0313,
+    "caption_similarity": 1.0,
+    "verdict": "纯样式变化候选",
+    "reason": "结构哈希差异 1.6%、色彩分布差异 0.031，图像结构高度一致，差异可能仅来自重绘/压缩/配色",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.2:p039:i002",
+     "physical_page": 39,
+     "w": 596,
+     "h": 644,
+     "caption": "图 4-8 基地区示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.2:p036:i002",
+     "physical_page": 36,
+     "w": 753,
+     "h": 788,
+     "caption": "图 4-8 基地区示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1133,
+    "hist_distance": 0.3604,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 11.3%、色彩分布差异 0.360，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C09",
+     "page_2026": 39,
+     "page_2027": 36,
+     "label": "图 4-8 基地区示意图 → 图 4-8 基地区示意图",
+     "image_2026": "compare/C09_2026_p039.png",
+     "image_2027": "compare/C09_2027_p036.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:5.5.3.1:p108:i030",
+     "physical_page": 108,
+     "w": 950,
+     "h": 517,
+     "caption": "图 5-25 场地交互模块卡铺设示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.4.1:p104:i028",
+     "physical_page": 104,
+     "w": 950,
+     "h": 517,
+     "caption": "图 5-24 场地交互模块卡铺设示意图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 0.941,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:5.5.3.1:p107:i002",
+     "physical_page": 107,
+     "w": 1410,
+     "h": 1017,
+     "caption": "图 5-24 战场增益点分布示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.6.4.1:p103:i002",
+     "physical_page": 103,
+     "w": 1220,
+     "h": 743,
+     "caption": "图 5-23 战场增益点分布示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0586,
+    "hist_distance": 0.3757,
+    "caption_similarity": 0.933,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 5.9%、色彩分布差异 0.376，图形信息很可能已改变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.3.2.1:p057:i002",
+     "physical_page": 57,
+     "w": 2528,
+     "h": 1198,
+     "caption": "图 4-29 装配区轴测图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2.1:p052:i002",
+     "physical_page": 52,
+     "w": 1540,
+     "h": 1099,
+     "caption": "图 4-28 装配区轴测图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.2383,
+    "hist_distance": 0.184,
+    "caption_similarity": 0.909,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 23.8%、色彩分布差异 0.184，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.3.2.1:p057:i009",
+     "physical_page": 57,
+     "w": 1694,
+     "h": 1155,
+     "caption": "图 4-30 装配区尺寸图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2.1:p053:i009",
+     "physical_page": 53,
+     "w": 1226,
+     "h": 1101,
+     "caption": "图 4-29 装配区尺寸图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1719,
+    "hist_distance": 0.4113,
+    "caption_similarity": 0.818,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 17.2%、色彩分布差异 0.411，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C10",
+     "page_2026": 57,
+     "page_2027": 53,
+     "label": "图 4-30 装配区尺寸图 → 图 4-29 装配区尺寸图",
+     "image_2026": "compare/C10_2026_p057.png",
+     "image_2027": "compare/C10_2027_p053.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "内容一致",
+    "f2026": {
+     "id": "RMUC2026:4.3.2.2:p059:i012",
+     "physical_page": 59,
+     "w": 431,
+     "h": 374,
+     "caption": "图 4-33 能量机关中心标识尺寸图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2.3:p056:i012",
+     "physical_page": 56,
+     "w": 431,
+     "h": 374,
+     "caption": "图 4-33 能量机关中心标识尺寸图"
+    },
+    "pixel_identical": true,
+    "ahash_distance": 0.0,
+    "hist_distance": 0.0,
+    "caption_similarity": 1.0,
+    "verdict": "像素完全一致",
+    "reason": "解码像素哈希相同，可判定图像未变",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.3.2.2:p059:i008",
+     "physical_page": 59,
+     "w": 1042,
+     "h": 720,
+     "caption": "图 4-32 能量机关灯臂尺寸示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2.3:p055:i008",
+     "physical_page": 55,
+     "w": 1019,
+     "h": 704,
+     "caption": "图 4-32 能量机关灯臂尺寸示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0391,
+    "hist_distance": 0.0332,
+    "caption_similarity": 1.0,
+    "verdict": "纯样式变化候选",
+    "reason": "结构哈希差异 3.9%、色彩分布差异 0.033，图像结构高度一致，差异可能仅来自重绘/压缩/配色",
+    "needs_manual": false
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.3.2.2:p058:i006",
+     "physical_page": 58,
+     "w": 1016,
+     "h": 1180,
+     "caption": "图 4-31 能量机关示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2.3:p055:i006",
+     "physical_page": 55,
+     "w": 1128,
+     "h": 539,
+     "caption": "图 4-31 能量机关示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.3203,
+    "hist_distance": 0.0934,
+    "caption_similarity": 1.0,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 32.0%、色彩分布差异 0.093，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C11",
+     "page_2026": 58,
+     "page_2027": 55,
+     "label": "图 4-31 能量机关示意图 → 图 4-31 能量机关示意图",
+     "image_2026": "compare/C11_2026_p058.png",
+     "image_2027": "compare/C11_2027_p055.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:4.4:p061:i002",
+     "physical_page": 61,
+     "w": 2263,
+     "h": 1394,
+     "caption": "图 4-35 公路区示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.4:p058:i002",
+     "physical_page": 58,
+     "w": 1529,
+     "h": 984,
+     "caption": "图 4-35 公路区示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.0898,
+    "hist_distance": 0.2263,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 9.0%、色彩分布差异 0.226，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "文字调整候选",
+    "f2026": {
+     "id": "RMUC2026:5.2.1:p076:i009",
+     "physical_page": 76,
+     "w": 1474,
+     "h": 1241,
+     "caption": "图 5-5 机器人图传模块与视觉标签的相对位置示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:5.3.1:p075:i011",
+     "physical_page": 75,
+     "w": 903,
+     "h": 662,
+     "caption": "图 5-5 机器人图传模块与视觉标签的相对位置示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.1328,
+    "hist_distance": 0.1132,
+    "caption_similarity": 1.0,
+    "verdict": "无法判断",
+    "reason": "结构哈希差异 13.3%、色彩分布差异 0.113，介于纯样式与信息变化之间，需目视",
+    "needs_manual": true
+   },
+   {
+    "kind": "figure",
+    "status": "双侧",
+    "diff_type": "迁移或重组候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.4:p045:i002",
+     "physical_page": 45,
+     "w": 963,
+     "h": 755,
+     "caption": "图 4-17 停机坪示意图"
+    },
+    "f2027": {
+     "id": "RMUC2027:4.3.2.2:p054:i002",
+     "physical_page": 54,
+     "w": 1551,
+     "h": 1099,
+     "caption": "图 4-30 机库平台示意图"
+    },
+    "pixel_identical": false,
+    "ahash_distance": 0.4219,
+    "hist_distance": 0.1306,
+    "caption_similarity": 0.609,
+    "verdict": "信息变化",
+    "reason": "结构哈希差异 42.2%、色彩分布差异 0.131，图形信息很可能已改变",
+    "needs_manual": false,
+    "compare": {
+     "tag": "C06",
+     "page_2026": 45,
+     "page_2027": 54,
+     "label": "图 4-17 停机坪示意图 → 图 4-30 机库平台示意图",
+     "image_2026": "compare/C06_2026_p045.png",
+     "image_2027": "compare/C06_2027_p054.png"
+    }
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p050:i011",
+     "section_no": "4.2.6",
+     "section_title": "4.2.6 补给区",
+     "physical_page": 50,
+     "printed_page": 49,
+     "w": 1474,
+     "h": 1046,
+     "caption": "图 4-22 能量单元放置区示意图"
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:4.2.6:p052:i023",
+     "section_no": "4.2.6",
+     "section_title": "4.2.6 补给区",
+     "physical_page": 52,
+     "printed_page": 51,
+     "w": 1325,
+     "h": 1185,
+     "caption": "图 4-24 无线充电装置放置区示意图"
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:5.5.1:p099:i008",
+     "section_no": "5.5.1",
+     "section_title": "5.5.1 基地及前哨站机制",
+     "physical_page": 99,
+     "printed_page": 98,
+     "w": 1040,
+     "h": 1040,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:5.5.1:p099:i009",
+     "section_no": "5.5.1",
+     "section_title": "5.5.1 基地及前哨站机制",
+     "physical_page": 99,
+     "printed_page": 98,
+     "w": 1040,
+     "h": 957,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:5.5.1:p100:i010",
+     "section_no": "5.5.1",
+     "section_title": "5.5.1 基地及前哨站机制",
+     "physical_page": 100,
+     "printed_page": 99,
+     "w": 1040,
+     "h": 1040,
+     "caption": "图 5-17 基地、前哨站装甲模块示意图"
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:5.5.1:p100:i011",
+     "section_no": "5.5.1",
+     "section_title": "5.5.1 基地及前哨站机制",
+     "physical_page": 100,
+     "printed_page": 99,
+     "w": 1040,
+     "h": 951,
+     "caption": "图 5-17 基地、前哨站装甲模块示意图"
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:5.6.1:p112:i004",
+     "section_no": "5.6.1",
+     "section_title": "5.6.1 英雄机器人特殊机制",
+     "physical_page": 112,
+     "printed_page": 111,
+     "w": 1078,
+     "h": 605,
+     "caption": "图 5-26 己方可部署区域示意图"
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:5.6.3:p114:i018",
+     "section_no": "5.6.3",
+     "section_title": "5.6.3 空中机器人特殊机制",
+     "physical_page": 114,
+     "printed_page": 113,
+     "w": 1291,
+     "h": 842,
+     "caption": "图 5-27 激光检测模块缩小区域示意图"
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:7.2.2.3:p141:i008",
+     "section_no": "7.2.2.3",
+     "section_title": "7.2.2.3 空中机器人",
+     "physical_page": 141,
+     "printed_page": 140,
+     "w": 1380,
+     "h": 360,
+     "caption": "图 7-1 飞行高度限制示意图"
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:附录1 雷达信息波特性:p151:i003",
+     "section_no": "",
+     "section_title": "附录1 雷达信息波特性",
+     "physical_page": 151,
+     "printed_page": 150,
+     "w": 1480,
+     "h": 658,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:附录1 雷达信息波特性:p151:i005",
+     "section_no": "",
+     "section_title": "附录1 雷达信息波特性",
+     "physical_page": 151,
+     "printed_page": 150,
+     "w": 1480,
+     "h": 658,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:附录1 雷达信息波特性:p152:i006",
+     "section_no": "",
+     "section_title": "附录1 雷达信息波特性",
+     "physical_page": 152,
+     "printed_page": 151,
+     "w": 1480,
+     "h": 658,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:附录1 雷达信息波特性:p152:i008",
+     "section_no": "",
+     "section_title": "附录1 雷达信息波特性",
+     "physical_page": 152,
+     "printed_page": 151,
+     "w": 1480,
+     "h": 658,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:附录1 雷达信息波特性:p152:i010",
+     "section_no": "",
+     "section_title": "附录1 雷达信息波特性",
+     "physical_page": 152,
+     "printed_page": 151,
+     "w": 1480,
+     "h": 658,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:附录1 雷达信息波特性:p153:i011",
+     "section_no": "",
+     "section_title": "附录1 雷达信息波特性",
+     "physical_page": 153,
+     "printed_page": 152,
+     "w": 1480,
+     "h": 658,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "删除候选",
+    "f2026": {
+     "id": "RMUC2026:附录1 雷达信息波特性:p153:i014",
+     "section_no": "",
+     "section_title": "附录1 雷达信息波特性",
+     "physical_page": 153,
+     "printed_page": 152,
+     "w": 1785,
+     "h": 586,
+     "caption": null
+    },
+    "f2027": null,
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "新增候选",
+    "f2026": null,
+    "f2027": {
+     "id": "RMUC2027:4.2.4:p042:i002",
+     "section_no": "4.2.4",
+     "section_title": "4.2.4 制高点",
+     "physical_page": 42,
+     "printed_page": 41,
+     "w": 2636,
+     "h": 1783,
+     "caption": "图 4-17 制高点示意图"
+    },
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   },
+   {
+    "kind": "figure",
+    "status": "单侧（新增/删除）",
+    "diff_type": "新增候选",
+    "f2026": null,
+    "f2027": {
+     "id": "RMUC2027:4.5.3:p063:i005",
+     "section_no": "4.5.3",
+     "section_title": "4.5.3 操作间",
+     "physical_page": 63,
+     "printed_page": 62,
+     "w": 1360,
+     "h": 784,
+     "caption": "图 4-40 操作间布局示意图"
+    },
+    "verdict": "信息变化",
+    "reason": "该图只在一侧存在"
+   }
+  ],
+  "by_verdict": {
+   "信息变化": 36,
+   "无法判断": 15,
+   "像素完全一致": 41,
+   "纯样式变化候选": 5
+  },
+  "rendered": [
+   {
+    "tag": "C01",
+    "page_2026": 36,
+    "page_2027": 33,
+    "label": "图 4-5 战场模块定位尺寸图 → 图 4-5 战场模块定位尺寸图",
+    "image_2026": "compare/C01_2026_p036.png",
+    "image_2027": "compare/C01_2027_p033.png"
+   },
+   {
+    "tag": "C02",
+    "page_2026": 37,
+    "page_2027": 34,
+    "label": "图 4-6 战场倾斜示意图 → 图 4-6 战场倾斜示意图",
+    "image_2026": "compare/C02_2026_p037.png",
+    "image_2027": "compare/C02_2027_p034.png"
+   },
+   {
+    "tag": "C03",
+    "page_2026": 40,
+    "page_2027": 37,
+    "label": "图 4-9 机器人启动区示意图 → 图 4-9 机器人启动区示意图",
+    "image_2026": "compare/C03_2026_p040.png",
+    "image_2027": "compare/C03_2027_p037.png"
+   },
+   {
+    "tag": "C04",
+    "page_2026": 40,
+    "page_2027": 38,
+    "label": "图 4-10 基地底座示意图 → 图 4-10 基地底座示意图",
+    "image_2026": "compare/C04_2026_p040.png",
+    "image_2027": "compare/C04_2027_p038.png"
+   },
+   {
+    "tag": "C05",
+    "page_2026": 44,
+    "page_2027": 41,
+    "label": "图 4-15 滑台滑出示意图 → 图 4-15 滑台滑出示意图",
+    "image_2026": "compare/C05_2026_p044.png",
+    "image_2027": "compare/C05_2027_p041.png"
+   },
+   {
+    "tag": "C06",
+    "page_2026": 45,
+    "page_2027": 54,
+    "label": "图 4-17 停机坪示意图 → 图 4-30 机库平台示意图",
+    "image_2026": "compare/C06_2026_p045.png",
+    "image_2027": "compare/C06_2027_p054.png"
+   },
+   {
+    "tag": "C07",
+    "page_2026": 50,
+    "page_2027": 47,
+    "label": "图 4-22 能量单元放置区示意图 → 图 4-22 能量单元放置区示意图",
+    "image_2026": "compare/C07_2026_p050.png",
+    "image_2027": "compare/C07_2027_p047.png"
+   },
+   {
+    "tag": "C08",
+    "page_2026": 53,
+    "page_2027": 47,
+    "label": "图 4-25 无线充电装置示意图 → 图 4-23 工作台示意图",
+    "image_2026": "compare/C08_2026_p053.png",
+    "image_2027": "compare/C08_2027_p047.png"
+   },
+   {
+    "tag": "C09",
+    "page_2026": 39,
+    "page_2027": 36,
+    "label": "图 4-8 基地区示意图 → 图 4-8 基地区示意图",
+    "image_2026": "compare/C09_2026_p039.png",
+    "image_2027": "compare/C09_2027_p036.png"
+   },
+   {
+    "tag": "C10",
+    "page_2026": 57,
+    "page_2027": 53,
+    "label": "图 4-30 装配区尺寸图 → 图 4-29 装配区尺寸图",
+    "image_2026": "compare/C10_2026_p057.png",
+    "image_2027": "compare/C10_2027_p053.png"
+   },
+   {
+    "tag": "C11",
+    "page_2026": 58,
+    "page_2027": 55,
+    "label": "图 4-31 能量机关示意图 → 图 4-31 能量机关示意图",
+    "image_2026": "compare/C11_2026_p058.png",
+    "image_2027": "compare/C11_2027_p055.png"
+   },
+   {
+    "tag": "C12",
+    "page_2026": 62,
+    "page_2027": 59,
+    "label": "图 4-36 起伏路段示意图 → 图 4-36 起伏路段示意图",
+    "image_2026": "compare/C12_2026_p062.png",
+    "image_2027": "compare/C12_2027_p059.png"
+   },
+   {
+    "tag": "C13",
+    "page_2026": 63,
+    "page_2027": 60,
+    "label": "图 4-38 飞坡示意图 → 图 4-38 远高地隧道示意图",
+    "image_2026": "compare/C13_2026_p063.png",
+    "image_2027": "compare/C13_2027_p060.png"
+   },
+   {
+    "tag": "C14",
+    "page_2026": 81,
+    "page_2027": 80,
+    "label": "无图注 → 无图注",
+    "image_2026": "compare/C14_2026_p081.png",
+    "image_2027": "compare/C14_2027_p080.png"
+   }
+  ]
+ },
+ "formulas": [
+  {
+   "kind": "formula_fraction",
+   "diff_type": "实质修改候选",
+   "f2026": {
+    "id": "RMUC2026:5.5.3.9:p111:f0",
+    "section_no": "5.5.3.9",
+    "physical_page": 111,
+    "numerator": "∆",
+    "denominator": "40（向下取整），w 的上限为75。该射击热量冷却增益与其他来源的射击热量冷却增益的效",
+    "parts": 3
+   },
+   "f2027": {
+    "id": "RMUC2027:5.6.4.9:p108:f0",
+    "section_no": "5.6.4.9",
+    "physical_page": 108,
+    "numerator": "∆",
+    "denominator": "80（向下取整），w 的上限为75。该射击热量冷却增益与其他来源的射击热量冷却增益的效",
+    "parts": 3
+   },
+   "evidence": {
+    "note": "分式按分子/分母文本比对；分式由多个文本对象拼成，上下标方向可能失真，需人工核验",
+    "parts_2026": 3,
+    "parts_2027": 3
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "实质修改候选",
+   "f2026": {
+    "id": "RMUC2026:5.5.3.9:p111:f1",
+    "section_no": "5.5.3.9",
+    "physical_page": 111,
+    "numerator": "∆",
+    "denominator": "N=100+2*",
+    "parts": 3
+   },
+   "f2027": {
+    "id": "RMUC2027:5.6.4.9:p108:f1",
+    "section_no": "5.6.4.9",
+    "physical_page": 108,
+    "numerator": "∆",
+    "denominator": "N=100+",
+    "parts": 3
+   },
+   "evidence": {
+    "note": "分式按分子/分母文本比对；分式由多个文本对象拼成，上下标方向可能失真，需人工核验",
+    "parts_2026": 3,
+    "parts_2027": 3
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.3:p114:f0",
+    "section_no": "5.6.3",
+    "physical_page": 114,
+    "numerator": "3",
+    "denominator": "难度二：激光检测模块的可检测区域纵向缩减为原面积的",
+    "parts": 4
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.3:p114:f1",
+    "section_no": "5.6.3",
+    "physical_page": 114,
+    "numerator": "1",
+    "denominator": "难度三：激光检测模块的可检测区域纵向缩减为原面积的",
+    "parts": 3
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.4:p116:f0",
+    "section_no": "5.6.4",
+    "physical_page": 116,
+    "numerator": "𝟏𝟏",
+    "denominator": "30+75=105，随后再乘算防御姿态对应的冷却速率衰减系数（",
+    "parts": 4
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p73:f0",
+    "section_no": "5.2",
+    "physical_page": 73,
+    "numerator": "对方被命中的所有弹丸数",
+    "denominator": "己方发射的所有弹丸数",
+    "parts": 4
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p74:f0",
+    "section_no": "5.2",
+    "physical_page": 74,
+    "numerator": "Λ",
+    "denominator": "，其中Λ为准确率，Λ =",
+    "parts": 10
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p74:f1",
+    "section_no": "5.2",
+    "physical_page": 74,
+    "numerator": "η",
+    "denominator": "σ",
+    "parts": 10
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p74:f2",
+    "section_no": "5.2",
+    "physical_page": 74,
+    "numerator": "ρ",
+    "denominator": "2+ρ",
+    "parts": 5
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.6.1:p95:f0",
+    "section_no": "5.6.1",
+    "physical_page": 95,
+    "numerator": "∆",
+    "denominator": "20000 ，下表中所述项目原参数均以x 代指：",
+    "parts": 3
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.7.1:p109:f0",
+    "section_no": "5.7.1",
+    "physical_page": 109,
+    "numerator": "M",
+    "denominator": "50 −",
+    "parts": 6
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "formula_fraction",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.7.1:p109:f1",
+    "section_no": "5.7.1",
+    "physical_page": 109,
+    "numerator": "2N",
+    "denominator": "3 )秒后。其中M 为本局对方基地血量与己方基地血量之差的最高值，N 为本局",
+    "parts": 6
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应分式"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "实质修改候选",
+   "f2026": {
+    "id": "RMUC2026:5.5.3.9:p111:p004",
+    "section_no": "5.5.3.9",
+    "physical_page": 111,
+    "text": "占领堡垒增益点的己方机器人获得50%防御增益，且获得值为w 的射击热量冷却增益，w 与Δ相关，具体40（向下取整），w 的上限为75。该射击热量冷却增益与其他来源的射击热量冷却增益的效",
+    "spans": [
+     [
+      "40",
+      "subscript",
+      7.56
+     ]
+    ]
+   },
+   "f2027": {
+    "id": "RMUC2027:5.6.4.9:p108:p005",
+    "section_no": "5.6.4.9",
+    "physical_page": 108,
+    "text": "激活堡垒增益点的己方机器人获得50%防御增益，且获得值为w 的射击热量冷却增益，w 与Δ相关，具体80（向下取整），w 的上限为75。该射击热量冷却增益与其他来源的射击热量冷却增益的效",
+    "spans": [
+     [
+      "80",
+      "subscript",
+      7.56
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "上下标片段按文本相似度配对；上下标方向由基线偏移判定，可能失真",
+    "kinds_2026": {
+     "subscript": 1
+    },
+    "kinds_2027": {
+     "subscript": 1
+    }
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.3:p113:p006",
+    "section_no": "5.6.3",
+    "physical_page": 113,
+    "text": "雷达系统上可安装激光发射装置，用于瞄准和照射空中机器人上的激光检测模块。仅在对方空中机器人发起空中支援时，己方雷达系统上的激光发射装置及其执行机构上电。空中机器人具有“被瞄准进度”P，取值范围为0（初始及最小值）至100（最大值）。当P 达",
+    "spans": [
+     [
+      "0",
+      "subscript",
+      6.48
+     ]
+    ]
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.3:p114:p008",
+    "section_no": "5.6.3",
+    "physical_page": 114,
+    "text": "难度一：激光检测模块无特殊变化，P0 为50；",
+    "spans": [
+     [
+      "0",
+      "subscript",
+      6.48
+     ]
+    ]
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.3:p114:s011",
+    "section_no": "5.6.3",
+    "physical_page": 114,
+    "text": "5，P0为100。",
+    "spans": [
+     [
+      "0",
+      "subscript",
+      6.48
+     ]
+    ]
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.3:p114:s014",
+    "section_no": "5.6.3",
+    "physical_page": 114,
+    "text": "5，且不再主动发光，P0 为100。",
+    "spans": [
+     [
+      "0",
+      "subscript",
+      6.48
+     ]
+    ]
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "删除候选",
+   "f2026": {
+    "id": "RMUC2026:5.6.4:p116:s020",
+    "section_no": "5.6.4",
+    "physical_page": 116,
+    "text": "𝟑𝟑= 𝟑𝟑𝟑𝟑。",
+    "spans": [
+     [
+      "𝟑𝟑",
+      "subscript",
+      8.52
+     ]
+    ]
+   },
+   "f2027": {},
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p073:s012",
+    "section_no": "5.2",
+    "physical_page": 73,
+    "text": "己方发射的所有弹丸数",
+    "spans": [
+     [
+      "己方发射的所有弹丸数",
+      "subscript",
+      7.56
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p073:p013",
+    "section_no": "5.2",
+    "physical_page": 73,
+    "text": "• 散布圆半径σ：所有装甲板使用统一装甲模块坐标系。每发命中的弹丸均会产生一组命中坐标(𝑥𝑥, 𝑦𝑦)。取所有命中弹丸横、纵坐标各自的中位数𝑥𝑥0与𝑦𝑦0，则σ = 各命中点到(𝑥𝑥0, 𝑦𝑦0)点距离的中位数。",
+    "spans": [
+     [
+      "0",
+      "subscript",
+      7.56
+     ],
+     [
+      "0",
+      "subscript",
+      7.56
+     ],
+     [
+      "0",
+      "subscript",
+      7.56
+     ],
+     [
+      "0",
+      "subscript",
+      7.56
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p074:s023",
+    "section_no": "5.2",
+    "physical_page": 74,
+    "text": "σ",
+    "spans": [
+     [
+      "σ",
+      "subscript",
+      7.56
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.2:p074:s029",
+    "section_no": "5.2",
+    "physical_page": 74,
+    "text": "2",
+    "spans": [
+     [
+      "2",
+      "subscript",
+      6.0
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.6.1:p095:s010",
+    "section_no": "5.6.1",
+    "physical_page": 95,
+    "text": "20000 ，下表中所述项目原参数均以x 代指：",
+    "spans": [
+     [
+      "20000",
+      "subscript",
+      7.56
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.7.1:p109:s016",
+    "section_no": "5.7.1",
+    "physical_page": 109,
+    "text": "50 −",
+    "spans": [
+     [
+      "50",
+      "small",
+      7.56
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  },
+  {
+   "kind": "script_spans",
+   "diff_type": "新增候选",
+   "f2026": {},
+   "f2027": {
+    "id": "RMUC2027:5.7.1:p109:p017",
+    "section_no": "5.7.1",
+    "physical_page": 109,
+    "text": "3 )秒后。其中M 为本局对方基地血量与己方基地血量之差的最高值，N 为本局",
+    "spans": [
+     [
+      "3",
+      "small",
+      7.56
+     ]
+    ]
+   },
+   "evidence": {
+    "note": "所在对齐单元内未找到对应上下标记录"
+   },
+   "needs_manual": true
+  }
+ ]
+}
