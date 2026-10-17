@@ -1,0 +1,519 @@
+[
+ {
+  "doc": "2026",
+  "page": 94,
+  "pymupdf_tables": [
+   {
+    "rows": 2,
+    "cols": 6,
+    "cells": 12,
+    "blank": 8,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 13,
+    "cols": 16,
+    "cells": 208,
+    "blank": 140,
+    "blank_ratio": 0.67
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 1,
+    "cols": 6,
+    "cells": 6,
+    "blank": 4,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 13,
+    "cols": 16,
+    "cells": 208,
+    "blank": 146,
+    "blank_ratio": 0.7
+   }
+  ]
+ },
+ {
+  "doc": "2026",
+  "page": 95,
+  "pymupdf_tables": [
+   {
+    "rows": 9,
+    "cols": 14,
+    "cells": 126,
+    "blank": 80,
+    "blank_ratio": 0.63
+   },
+   {
+    "rows": 11,
+    "cols": 10,
+    "cells": 110,
+    "blank": 75,
+    "blank_ratio": 0.68
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 9,
+    "cols": 14,
+    "cells": 126,
+    "blank": 84,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 11,
+    "cols": 10,
+    "cells": 110,
+    "blank": 86,
+    "blank_ratio": 0.78
+   }
+  ]
+ },
+ {
+  "doc": "2026",
+  "page": 96,
+  "pymupdf_tables": [
+   {
+    "rows": 11,
+    "cols": 12,
+    "cells": 132,
+    "blank": 97,
+    "blank_ratio": 0.73
+   },
+   {
+    "rows": 9,
+    "cols": 12,
+    "cells": 108,
+    "blank": 79,
+    "blank_ratio": 0.73
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 11,
+    "cols": 12,
+    "cells": 132,
+    "blank": 108,
+    "blank_ratio": 0.82
+   },
+   {
+    "rows": 9,
+    "cols": 12,
+    "cells": 108,
+    "blank": 88,
+    "blank_ratio": 0.81
+   }
+  ]
+ },
+ {
+  "doc": "2026",
+  "page": 97,
+  "pymupdf_tables": [
+   {
+    "rows": 13,
+    "cols": 12,
+    "cells": 156,
+    "blank": 115,
+    "blank_ratio": 0.74
+   },
+   {
+    "rows": 7,
+    "cols": 9,
+    "cells": 63,
+    "blank": 42,
+    "blank_ratio": 0.67
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 13,
+    "cols": 12,
+    "cells": 156,
+    "blank": 128,
+    "blank_ratio": 0.82
+   },
+   {
+    "rows": 7,
+    "cols": 9,
+    "cells": 63,
+    "blank": 54,
+    "blank_ratio": 0.86
+   }
+  ]
+ },
+ {
+  "doc": "2026",
+  "page": 103,
+  "pymupdf_tables": [
+   {
+    "rows": 6,
+    "cols": 12,
+    "cells": 72,
+    "blank": 48,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 7,
+    "cols": 6,
+    "cells": 42,
+    "blank": 28,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 3,
+    "cols": 6,
+    "cells": 18,
+    "blank": 12,
+    "blank_ratio": 0.67
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 6,
+    "cols": 12,
+    "cells": 72,
+    "blank": 58,
+    "blank_ratio": 0.81
+   },
+   {
+    "rows": 1,
+    "cols": 6,
+    "cells": 6,
+    "blank": 4,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 1,
+    "cols": 6,
+    "cells": 6,
+    "blank": 3,
+    "blank_ratio": 0.5
+   }
+  ]
+ },
+ {
+  "doc": "2026",
+  "page": 120,
+  "pymupdf_tables": [
+   {
+    "rows": 5,
+    "cols": 10,
+    "cells": 50,
+    "blank": 33,
+    "blank_ratio": 0.66
+   },
+   {
+    "rows": 2,
+    "cols": 13,
+    "cells": 26,
+    "blank": 15,
+    "blank_ratio": 0.58
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 5,
+    "cols": 10,
+    "cells": 50,
+    "blank": 38,
+    "blank_ratio": 0.76
+   },
+   {
+    "rows": 2,
+    "cols": 13,
+    "cells": 26,
+    "blank": 17,
+    "blank_ratio": 0.65
+   }
+  ]
+ },
+ {
+  "doc": "2026",
+  "page": 130,
+  "pymupdf_tables": [
+   {
+    "rows": 2,
+    "cols": 6,
+    "cells": 12,
+    "blank": 8,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 3,
+    "cols": 6,
+    "cells": 18,
+    "blank": 12,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 2,
+    "cols": 6,
+    "cells": 12,
+    "blank": 8,
+    "blank_ratio": 0.67
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 1,
+    "cols": 6,
+    "cells": 6,
+    "blank": 4,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 1,
+    "cols": 6,
+    "cells": 6,
+    "blank": 4,
+    "blank_ratio": 0.67
+   },
+   {
+    "rows": 1,
+    "cols": 6,
+    "cells": 6,
+    "blank": 4,
+    "blank_ratio": 0.67
+   }
+  ]
+ },
+ {
+  "doc": "2027-official",
+  "page": 93,
+  "pymupdf_tables": [
+   {
+    "rows": 7,
+    "cols": 10,
+    "cells": 70,
+    "blank": 43,
+    "blank_ratio": 0.61
+   },
+   {
+    "rows": 13,
+    "cols": 12,
+    "cells": 156,
+    "blank": 114,
+    "blank_ratio": 0.73
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 7,
+    "cols": 10,
+    "cells": 70,
+    "blank": 45,
+    "blank_ratio": 0.64
+   },
+   {
+    "rows": 13,
+    "cols": 12,
+    "cells": 156,
+    "blank": 128,
+    "blank_ratio": 0.82
+   }
+  ]
+ },
+ {
+  "doc": "2027-official",
+  "page": 94,
+  "pymupdf_tables": [
+   {
+    "rows": 9,
+    "cols": 12,
+    "cells": 108,
+    "blank": 80,
+    "blank_ratio": 0.74
+   },
+   {
+    "rows": 11,
+    "cols": 12,
+    "cells": 132,
+    "blank": 97,
+    "blank_ratio": 0.73
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 9,
+    "cols": 12,
+    "cells": 108,
+    "blank": 88,
+    "blank_ratio": 0.81
+   },
+   {
+    "rows": 11,
+    "cols": 12,
+    "cells": 132,
+    "blank": 108,
+    "blank_ratio": 0.82
+   }
+  ]
+ },
+ {
+  "doc": "2027-official",
+  "page": 83,
+  "pymupdf_tables": [
+   {
+    "rows": 14,
+    "cols": 25,
+    "cells": 350,
+    "blank": 297,
+    "blank_ratio": 0.85
+   },
+   {
+    "rows": 2,
+    "cols": 4,
+    "cells": 8,
+    "blank": 4,
+    "blank_ratio": 0.5
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 14,
+    "cols": 25,
+    "cells": 350,
+    "blank": 301,
+    "blank_ratio": 0.86
+   },
+   {
+    "rows": 2,
+    "cols": 1,
+    "cells": 2,
+    "blank": 1,
+    "blank_ratio": 0.5
+   },
+   {
+    "rows": 2,
+    "cols": 4,
+    "cells": 8,
+    "blank": 4,
+    "blank_ratio": 0.5
+   }
+  ]
+ },
+ {
+  "doc": "2027-official",
+  "page": 21,
+  "pymupdf_tables": [
+   {
+    "rows": 9,
+    "cols": 12,
+    "cells": 108,
+    "blank": 60,
+    "blank_ratio": 0.56
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 9,
+    "cols": 12,
+    "cells": 108,
+    "blank": 65,
+    "blank_ratio": 0.6
+   },
+   {
+    "rows": 2,
+    "cols": 1,
+    "cells": 2,
+    "blank": 1,
+    "blank_ratio": 0.5
+   },
+   {
+    "rows": 2,
+    "cols": 1,
+    "cells": 2,
+    "blank": 1,
+    "blank_ratio": 0.5
+   }
+  ]
+ },
+ {
+  "doc": "2027-official",
+  "page": 117,
+  "pymupdf_tables": [
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 0,
+    "blank_ratio": 0.0
+   },
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 0,
+    "blank_ratio": 0.0
+   },
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 0,
+    "blank_ratio": 0.0
+   },
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 0,
+    "blank_ratio": 0.0
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 2,
+    "blank_ratio": 1.0
+   },
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 2,
+    "blank_ratio": 1.0
+   },
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 2,
+    "blank_ratio": 1.0
+   },
+   {
+    "rows": 1,
+    "cols": 2,
+    "cells": 2,
+    "blank": 2,
+    "blank_ratio": 1.0
+   }
+  ]
+ },
+ {
+  "doc": "2027-official",
+  "page": 95,
+  "pymupdf_tables": [
+   {
+    "rows": 11,
+    "cols": 12,
+    "cells": 132,
+    "blank": 97,
+    "blank_ratio": 0.73
+   }
+  ],
+  "pdfplumber_tables": [
+   {
+    "rows": 11,
+    "cols": 12,
+    "cells": 132,
+    "blank": 108,
+    "blank_ratio": 0.82
+   }
+  ]
+ }
+]

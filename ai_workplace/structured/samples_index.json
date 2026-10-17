@@ -1,0 +1,479 @@
+{
+ "generated": "2026-10-17T02:35:11",
+ "normalization_rules": [
+  "join_visual_linebreaks",
+  "map_pua_bullets",
+  "collapse_whitespace"
+ ],
+ "normalization_guarantee": "规范化只改动空白与 Wingdings 私用区符号；数值、单位、公式、条件表达逐字符保持不变（由逐记录字符合并校验断言）。",
+ "samples": [
+  {
+   "doc_id": "RMUC2026",
+   "sample": "body_text",
+   "description": "普通正文（项目符号 / URL / 同页多章节）",
+   "sections": [
+    "1.2",
+    "1.3"
+   ],
+   "section_titles": [
+    "1.2 关于比赛规则文件",
+    "1.3 关于答疑"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2026_body_text.jsonl",
+   "records": 29,
+   "block_kinds": {
+    "heading": 2,
+    "paragraph": 25,
+    "figure": 2
+   },
+   "paragraphs": 25,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    17,
+    18
+   ],
+   "printed_pages": [
+    16,
+    17
+   ],
+   "chars": 989
+  },
+  {
+   "doc_id": "RMUC2026",
+   "sample": "cross_page",
+   "description": "跨页章节（章节内容跨 2 个物理页）",
+   "sections": [
+    "5.2.2"
+   ],
+   "section_titles": [
+    "5.2.2 复活机制"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2026_cross_page.jsonl",
+   "records": 29,
+   "block_kinds": {
+    "heading": 1,
+    "paragraph": 18,
+    "formula_fraction_part": 8,
+    "formula_fraction": 2
+   },
+   "paragraphs": 18,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    76,
+    77
+   ],
+   "printed_pages": [
+    75,
+    76
+   ],
+   "chars": 779
+  },
+  {
+   "doc_id": "RMUC2026",
+   "sample": "cross_page_paragraph",
+   "description": "跨页段落（同一段落在页边界处续接）",
+   "sections": [
+    "4.2.5"
+   ],
+   "section_titles": [
+    "4.2.5 雷达基座"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2026_cross_page_paragraph.jsonl",
+   "records": 2,
+   "block_kinds": {
+    "paragraph": 1,
+    "heading": 1
+   },
+   "paragraphs": 1,
+   "cross_page_records": 1,
+   "tables": 0,
+   "physical_pages": [
+    45,
+    46
+   ],
+   "printed_pages": [
+    44,
+    45
+   ],
+   "chars": 72
+  },
+  {
+   "doc_id": "RMUC2026",
+   "sample": "tables",
+   "description": "复杂表格（多级表头 / 合并单元格）",
+   "sections": [
+    "5.4.2"
+   ],
+   "section_titles": [
+    "5.4.2 性能体系"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2026_tables.jsonl",
+   "records": 15,
+   "block_kinds": {
+    "heading": 1,
+    "paragraph": 2,
+    "table_caption": 4,
+    "table": 8
+   },
+   "paragraphs": 2,
+   "cross_page_records": 0,
+   "tables": 8,
+   "physical_pages": [
+    94,
+    95,
+    96,
+    97,
+    98
+   ],
+   "printed_pages": [
+    93,
+    94,
+    95,
+    96,
+    97
+   ],
+   "chars": 330
+  },
+  {
+   "doc_id": "RMUC2026",
+   "sample": "formulas",
+   "description": "公式（三角函数转速模型 / 分式）",
+   "sections": [
+    "5.5.2"
+   ],
+   "section_titles": [
+    "5.5.2 能量机关机制"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2026_formulas.jsonl",
+   "records": 29,
+   "block_kinds": {
+    "heading": 1,
+    "paragraph": 10,
+    "formula_fraction_part": 8,
+    "formula_fraction": 2,
+    "figure": 2,
+    "figure_caption": 1,
+    "table_caption": 2,
+    "table": 3
+   },
+   "paragraphs": 10,
+   "cross_page_records": 0,
+   "tables": 3,
+   "physical_pages": [
+    101,
+    102,
+    103
+   ],
+   "printed_pages": [
+    100,
+    101,
+    102
+   ],
+   "chars": 1435
+  },
+  {
+   "doc_id": "RMUC2026",
+   "sample": "multi_section_page",
+   "description": "同页多章节",
+   "sections": [
+    "6.4",
+    "6.5",
+    "6.6",
+    "6.7",
+    "6.8"
+   ],
+   "section_titles": [
+    "6.4 十五秒裁判系统自检阶段",
+    "6.5 五秒裁判系统自检阶段",
+    "6.6 七分钟比赛阶段",
+    "6.7 比赛结束",
+    "6.8 成绩确认"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2026_multi_section_page.jsonl",
+   "records": 11,
+   "block_kinds": {
+    "heading": 5,
+    "paragraph": 6
+   },
+   "paragraphs": 6,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    131
+   ],
+   "printed_pages": [
+    130
+   ],
+   "chars": 510
+  },
+  {
+   "doc_id": "RMUC2026",
+   "sample": "flowchart",
+   "description": "流程图 + 变量（Q0/Q1/Q2）",
+   "sections": [
+    "5.1.3"
+   ],
+   "section_titles": [
+    "5.1.3 射击热量超限和冷却"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2026_flowchart.jsonl",
+   "records": 36,
+   "block_kinds": {
+    "heading": 1,
+    "paragraph": 7,
+    "diagram_label": 26,
+    "figure_caption": 1,
+    "figure": 1
+   },
+   "paragraphs": 7,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    70
+   ],
+   "printed_pages": [
+    69
+   ],
+   "chars": 652
+  },
+  {
+   "doc_id": "RMUC2027",
+   "sample": "body_text",
+   "description": "普通正文（项目符号 / URL / 同页多章节）",
+   "sections": [
+    "1.3",
+    "1.4"
+   ],
+   "section_titles": [
+    "1.3 关于比赛规则文件",
+    "1.4 关于答疑"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2027_body_text.jsonl",
+   "records": 29,
+   "block_kinds": {
+    "heading": 2,
+    "paragraph": 25,
+    "figure": 2
+   },
+   "paragraphs": 25,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    15,
+    16
+   ],
+   "printed_pages": [
+    14,
+    15
+   ],
+   "chars": 1016
+  },
+  {
+   "doc_id": "RMUC2027",
+   "sample": "cross_page",
+   "description": "跨页章节（章节内容跨 2 个物理页）",
+   "sections": [
+    "5.3.2"
+   ],
+   "section_titles": [
+    "5.3.2 复活机制"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2027_cross_page.jsonl",
+   "records": 29,
+   "block_kinds": {
+    "heading": 1,
+    "paragraph": 18,
+    "formula_fraction_part": 8,
+    "formula_fraction": 2
+   },
+   "paragraphs": 18,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    75,
+    76
+   ],
+   "printed_pages": [
+    74,
+    75
+   ],
+   "chars": 775
+  },
+  {
+   "doc_id": "RMUC2027",
+   "sample": "cross_page_paragraph",
+   "description": "跨页段落（同一段落在页边界处续接）",
+   "sections": [
+    "5.4.3"
+   ],
+   "section_titles": [
+    "5.4.3 科技核心-能量单元机制"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2027_cross_page_paragraph.jsonl",
+   "records": 3,
+   "block_kinds": {
+    "paragraph": 2,
+    "heading": 1
+   },
+   "paragraphs": 2,
+   "cross_page_records": 2,
+   "tables": 0,
+   "physical_pages": [
+    78,
+    79,
+    81,
+    82
+   ],
+   "printed_pages": [
+    77,
+    78,
+    80,
+    81
+   ],
+   "chars": 408
+  },
+  {
+   "doc_id": "RMUC2027",
+   "sample": "tables",
+   "description": "复杂表格（多级表头 / 合并单元格）",
+   "sections": [
+    "5.5.2"
+   ],
+   "section_titles": [
+    "5.5.2 性能体系"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2027_tables.jsonl",
+   "records": 12,
+   "block_kinds": {
+    "heading": 1,
+    "paragraph": 2,
+    "table_caption": 3,
+    "table": 6
+   },
+   "paragraphs": 2,
+   "cross_page_records": 0,
+   "tables": 6,
+   "physical_pages": [
+    92,
+    93,
+    94,
+    95
+   ],
+   "printed_pages": [
+    91,
+    92,
+    93,
+    94
+   ],
+   "chars": 254
+  },
+  {
+   "doc_id": "RMUC2027",
+   "sample": "formulas",
+   "description": "公式（三角函数转速模型 / 分式）",
+   "sections": [
+    "5.6.3"
+   ],
+   "section_titles": [
+    "5.6.3 能量机关机制"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2027_formulas.jsonl",
+   "records": 31,
+   "block_kinds": {
+    "paragraph": 9,
+    "heading": 1,
+    "formula_fraction_part": 9,
+    "formula_fraction": 2,
+    "figure": 2,
+    "figure_caption": 1,
+    "table_caption": 3,
+    "table": 4
+   },
+   "paragraphs": 9,
+   "cross_page_records": 1,
+   "tables": 4,
+   "physical_pages": [
+    98,
+    99,
+    100
+   ],
+   "printed_pages": [
+    97,
+    98,
+    99
+   ],
+   "chars": 1463
+  },
+  {
+   "doc_id": "RMUC2027",
+   "sample": "multi_section_page",
+   "description": "同页多章节",
+   "sections": [
+    "6.4",
+    "6.5",
+    "6.6",
+    "6.7",
+    "6.8"
+   ],
+   "section_titles": [
+    "6.4 十五秒裁判系统自检阶段",
+    "6.5 五秒裁判系统自检阶段",
+    "6.6 七分钟比赛阶段",
+    "6.7 比赛结束",
+    "6.8 成绩确认"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2027_multi_section_page.jsonl",
+   "records": 11,
+   "block_kinds": {
+    "heading": 5,
+    "paragraph": 6
+   },
+   "paragraphs": 6,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    122,
+    123
+   ],
+   "printed_pages": [
+    121,
+    122
+   ],
+   "chars": 501
+  },
+  {
+   "doc_id": "RMUC2027",
+   "sample": "flowchart",
+   "description": "流程图 + 变量（Q0/Q1/Q2）",
+   "sections": [
+    "5.1.3"
+   ],
+   "section_titles": [
+    "5.1.3 射击热量超限和冷却"
+   ],
+   "file": "ai_workplace/structured/samples/RMUC2027_flowchart.jsonl",
+   "records": 36,
+   "block_kinds": {
+    "heading": 1,
+    "paragraph": 7,
+    "diagram_label": 26,
+    "figure_caption": 1,
+    "figure": 1
+   },
+   "paragraphs": 7,
+   "cross_page_records": 0,
+   "tables": 0,
+   "physical_pages": [
+    67,
+    68
+   ],
+   "printed_pages": [
+    66,
+    67
+   ],
+   "chars": 643
+  }
+ ]
+}

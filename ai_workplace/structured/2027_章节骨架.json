@@ -1,0 +1,8749 @@
+{
+ "doc": {
+  "doc_id": "RMUC2027",
+  "version": "V1.0.0",
+  "source_file": "RoboMaster 2027 机甲大师超级对抗赛比赛规则手册V1.0.0（20261015）-官方版.pdf",
+  "source_path": "原始材料\\RoboMaster 2027 机甲大师超级对抗赛比赛规则手册V1.0.0（20261015）-官方版.pdf",
+  "sha256": "9E2EED9295536C6FD547B62D634DF1D5E70A2E1E2250E5DFF3521D557E5D54BE",
+  "bytes": 22455861,
+  "page_count": 144,
+  "page_size": [
+   595.32,
+   841.92
+  ],
+  "printed_page_offset": -1,
+  "printed_page_rule": "印刷页 = 物理页 − 1（预检查已逐页验证）",
+  "outline_entries": 129,
+  "outline_level_counts": {
+   "1": 13,
+   "2": 41,
+   "3": 49,
+   "4": 26
+  },
+  "regions_total": 133,
+  "synthetic_regions": [
+   {
+    "section_id": 0,
+    "title": "封面",
+    "region_type": "front_matter",
+    "physical_page": 1,
+    "page_span": 2,
+    "reason": "物理 P1 封面：内置书签未收录；文本层乱码，仅作图片引用"
+   },
+   {
+    "section_id": 6,
+    "title": "目录",
+    "region_type": "printed_index_toc",
+    "physical_page": 4,
+    "page_span": 5,
+    "reason": "印刷目录页：内置书签未收录，不属于规则正文"
+   },
+   {
+    "section_id": 7,
+    "title": "表目录",
+    "region_type": "printed_index_tables",
+    "physical_page": 8,
+    "page_span": 3,
+    "reason": "印刷目录页：内置书签未收录，不属于规则正文"
+   },
+   {
+    "section_id": 8,
+    "title": "图目录",
+    "region_type": "printed_index_figures",
+    "physical_page": 10,
+    "page_span": 4,
+    "reason": "印刷目录页：内置书签未收录，不属于规则正文"
+   }
+  ],
+  "built_at": "2026-10-17T02:29:30",
+  "tool": "PyMuPDF 1.28.2",
+  "notes_version_used": false,
+  "numbering_rule": {
+   "level_1": "22.0 pt",
+   "level_2": "18.0 pt",
+   "level_3": "16.0 pt",
+   "level_4": "15.0 pt",
+   "body_text": "10.6 pt",
+   "footer_band": "y >= 755 pt",
+   "header_logo_band": "y <= 70 pt"
+  }
+ },
+ "sections": [
+  {
+   "outline_index": null,
+   "region_type": "front_matter",
+   "level": 0,
+   "title": "封面",
+   "start_physical_page": 1,
+   "start_y": 0.0,
+   "start_bbox": [
+    0.0,
+    0.0,
+    595.32,
+    841.92
+   ],
+   "heading_match": "synthetic",
+   "heading_block_size": null,
+   "expected_level_size": null,
+   "dest_physical_page": 1,
+   "dest_y": 0.0,
+   "synthetic_reason": "物理 P1 封面：内置书签未收录；文本层乱码，仅作图片引用",
+   "section_id": 0,
+   "start_printed_page": 0,
+   "dest_printed_page": 0,
+   "section_no": "",
+   "name": "封面",
+   "parent_id": null,
+   "path": [
+    "封面"
+   ],
+   "end_physical_page": 2,
+   "end_y": 72.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 21,
+   "pages_with_content": [
+    1
+   ],
+   "actual_first_page": 1,
+   "actual_last_page": 1,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 0,
+   "region_type": "section",
+   "level": 1,
+   "title": "知识产权声明",
+   "start_physical_page": 2,
+   "start_y": 72.69,
+   "start_bbox": [
+    56.64,
+    72.69,
+    197.79,
+    135.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 2,
+   "dest_y": 69.92,
+   "section_id": 1,
+   "start_printed_page": 1,
+   "dest_printed_page": 1,
+   "section_no": "",
+   "name": "知识产权声明",
+   "parent_id": null,
+   "path": [
+    "知识产权声明"
+   ],
+   "end_physical_page": 2,
+   "end_y": 312.81,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 9,
+   "text_block_count": 9,
+   "image_block_count": 0,
+   "char_count": 361,
+   "pages_with_content": [
+    2
+   ],
+   "actual_first_page": 2,
+   "actual_last_page": 2,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 1,
+   "region_type": "section",
+   "level": 1,
+   "title": "阅读提示",
+   "start_physical_page": 2,
+   "start_y": 312.81,
+   "start_bbox": [
+    56.64,
+    312.81,
+    152.67,
+    375.62
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 2,
+   "dest_y": 315.92,
+   "section_id": 2,
+   "start_printed_page": 1,
+   "dest_printed_page": 1,
+   "section_no": "",
+   "name": "阅读提示",
+   "parent_id": null,
+   "path": [
+    "阅读提示"
+   ],
+   "end_physical_page": 2,
+   "end_y": 456.06,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 5,
+   "text_block_count": 5,
+   "image_block_count": 0,
+   "char_count": 166,
+   "pages_with_content": [
+    2
+   ],
+   "actual_first_page": 2,
+   "actual_last_page": 2,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 2,
+   "region_type": "section",
+   "level": 2,
+   "title": "版本号说明",
+   "start_physical_page": 2,
+   "start_y": 456.06,
+   "start_bbox": [
+    56.64,
+    456.06,
+    153.68,
+    507.54
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 2,
+   "dest_y": 459.92,
+   "section_id": 3,
+   "start_printed_page": 1,
+   "dest_printed_page": 1,
+   "section_no": "",
+   "name": "版本号说明",
+   "parent_id": 2,
+   "path": [
+    "阅读提示",
+    "版本号说明"
+   ],
+   "end_physical_page": 3,
+   "end_y": 62.34,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 11,
+   "text_block_count": 11,
+   "image_block_count": 0,
+   "char_count": 345,
+   "pages_with_content": [
+    2
+   ],
+   "actual_first_page": 2,
+   "actual_last_page": 2,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 3,
+   "region_type": "section",
+   "level": 2,
+   "title": "场地图纸图例说明",
+   "start_physical_page": 3,
+   "start_y": 62.34,
+   "start_bbox": [
+    56.64,
+    62.34,
+    209.12,
+    113.82
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 3,
+   "dest_y": 69.92,
+   "section_id": 4,
+   "start_printed_page": 2,
+   "dest_printed_page": 2,
+   "section_no": "",
+   "name": "场地图纸图例说明",
+   "parent_id": 2,
+   "path": [
+    "阅读提示",
+    "场地图纸图例说明"
+   ],
+   "end_physical_page": 3,
+   "end_y": 316.26,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 9,
+   "text_block_count": 3,
+   "image_block_count": 6,
+   "char_count": 58,
+   "pages_with_content": [
+    3
+   ],
+   "actual_first_page": 3,
+   "actual_last_page": 3,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 4,
+   "region_type": "section",
+   "level": 2,
+   "title": "修改日志",
+   "start_physical_page": 3,
+   "start_y": 316.26,
+   "start_bbox": [
+    56.64,
+    316.26,
+    135.2,
+    367.74
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 3,
+   "dest_y": 313.92,
+   "section_id": 5,
+   "start_printed_page": 2,
+   "dest_printed_page": 2,
+   "section_no": "",
+   "name": "修改日志",
+   "parent_id": 2,
+   "path": [
+    "阅读提示",
+    "修改日志"
+   ],
+   "end_physical_page": 4,
+   "end_y": 62.34,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 39,
+   "pages_with_content": [
+    3
+   ],
+   "actual_first_page": 3,
+   "actual_last_page": 3,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": null,
+   "region_type": "printed_index_toc",
+   "level": 0,
+   "title": "目录",
+   "start_physical_page": 4,
+   "start_y": 62.34,
+   "start_bbox": [
+    279.12,
+    62.34,
+    320.72,
+    113.82
+   ],
+   "heading_match": "synthetic",
+   "heading_block_size": 18.0,
+   "expected_level_size": null,
+   "dest_physical_page": 4,
+   "dest_y": 62.34,
+   "synthetic_reason": "印刷目录页：内置书签未收录，不属于规则正文",
+   "section_id": 6,
+   "start_printed_page": 3,
+   "dest_printed_page": 3,
+   "section_no": "",
+   "name": "目录",
+   "parent_id": null,
+   "path": [
+    "目录"
+   ],
+   "end_physical_page": 8,
+   "end_y": 62.34,
+   "page_span": 5,
+   "spans_multiple_pages": true,
+   "block_count": 104,
+   "text_block_count": 104,
+   "image_block_count": 0,
+   "char_count": 12127,
+   "pages_with_content": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "actual_first_page": 4,
+   "actual_last_page": 7,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": null,
+   "region_type": "printed_index_tables",
+   "level": 0,
+   "title": "表目录",
+   "start_physical_page": 8,
+   "start_y": 62.34,
+   "start_bbox": [
+    269.88,
+    62.34,
+    329.96,
+    113.82
+   ],
+   "heading_match": "synthetic",
+   "heading_block_size": 18.0,
+   "expected_level_size": null,
+   "dest_physical_page": 8,
+   "dest_y": 62.34,
+   "synthetic_reason": "印刷目录页：内置书签未收录，不属于规则正文",
+   "section_id": 7,
+   "start_printed_page": 7,
+   "dest_printed_page": 7,
+   "section_no": "",
+   "name": "表目录",
+   "parent_id": null,
+   "path": [
+    "表目录"
+   ],
+   "end_physical_page": 10,
+   "end_y": 62.34,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 50,
+   "text_block_count": 50,
+   "image_block_count": 0,
+   "char_count": 5537,
+   "pages_with_content": [
+    8,
+    9
+   ],
+   "actual_first_page": 8,
+   "actual_last_page": 9,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": null,
+   "region_type": "printed_index_figures",
+   "level": 0,
+   "title": "图目录",
+   "start_physical_page": 10,
+   "start_y": 62.34,
+   "start_bbox": [
+    269.88,
+    62.34,
+    329.96,
+    113.82
+   ],
+   "heading_match": "synthetic",
+   "heading_block_size": 18.0,
+   "expected_level_size": null,
+   "dest_physical_page": 10,
+   "dest_y": 62.34,
+   "synthetic_reason": "印刷目录页：内置书签未收录，不属于规则正文",
+   "section_id": 8,
+   "start_printed_page": 9,
+   "dest_printed_page": 9,
+   "section_no": "",
+   "name": "图目录",
+   "parent_id": null,
+   "path": [
+    "图目录"
+   ],
+   "end_physical_page": 13,
+   "end_y": 60.69,
+   "page_span": 4,
+   "spans_multiple_pages": true,
+   "block_count": 71,
+   "text_block_count": 71,
+   "image_block_count": 0,
+   "char_count": 8173,
+   "pages_with_content": [
+    10,
+    11,
+    12
+   ],
+   "actual_first_page": 10,
+   "actual_last_page": 12,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 5,
+   "region_type": "section",
+   "level": 1,
+   "title": "1 前言",
+   "start_physical_page": 13,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    126.03,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 13,
+   "dest_y": 69.92,
+   "section_id": 9,
+   "start_printed_page": 12,
+   "dest_printed_page": 12,
+   "section_no": "1",
+   "name": "前言",
+   "parent_id": null,
+   "path": [
+    "1 前言"
+   ],
+   "end_physical_page": 13,
+   "end_y": 113.46,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 5,
+   "pages_with_content": [
+    13
+   ],
+   "actual_first_page": 13,
+   "actual_last_page": 13,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 6,
+   "region_type": "section",
+   "level": 2,
+   "title": "1.1 关于比赛",
+   "start_physical_page": 13,
+   "start_y": 113.46,
+   "start_bbox": [
+    56.64,
+    113.46,
+    166.76,
+    164.94
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 13,
+   "dest_y": 120.92,
+   "section_id": 10,
+   "start_printed_page": 12,
+   "dest_printed_page": 12,
+   "section_no": "1.1",
+   "name": "关于比赛",
+   "parent_id": 9,
+   "path": [
+    "1 前言",
+    "1.1 关于比赛"
+   ],
+   "end_physical_page": 14,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 9,
+   "text_block_count": 8,
+   "image_block_count": 1,
+   "char_count": 254,
+   "pages_with_content": [
+    13
+   ],
+   "actual_first_page": 13,
+   "actual_last_page": 13,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 7,
+   "region_type": "section",
+   "level": 2,
+   "title": "1.2 新赛季主要变更",
+   "start_physical_page": 14,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    222.2,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 14,
+   "dest_y": 69.92,
+   "section_id": 11,
+   "start_printed_page": 13,
+   "dest_printed_page": 13,
+   "section_no": "1.2",
+   "name": "新赛季主要变更",
+   "parent_id": 9,
+   "path": [
+    "1 前言",
+    "1.2 新赛季主要变更"
+   ],
+   "end_physical_page": 15,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 25,
+   "text_block_count": 25,
+   "image_block_count": 0,
+   "char_count": 382,
+   "pages_with_content": [
+    14
+   ],
+   "actual_first_page": 14,
+   "actual_last_page": 14,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 8,
+   "region_type": "section",
+   "level": 2,
+   "title": "1.3 关于比赛规则文件",
+   "start_physical_page": 15,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    240.68,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 15,
+   "dest_y": 69.92,
+   "section_id": 12,
+   "start_printed_page": 14,
+   "dest_printed_page": 14,
+   "section_no": "1.3",
+   "name": "关于比赛规则文件",
+   "parent_id": 9,
+   "path": [
+    "1 前言",
+    "1.3 关于比赛规则文件"
+   ],
+   "end_physical_page": 15,
+   "end_y": 555.54,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 20,
+   "text_block_count": 19,
+   "image_block_count": 1,
+   "char_count": 569,
+   "pages_with_content": [
+    15
+   ],
+   "actual_first_page": 15,
+   "actual_last_page": 15,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 9,
+   "region_type": "section",
+   "level": 2,
+   "title": "1.4 关于答疑",
+   "start_physical_page": 15,
+   "start_y": 555.54,
+   "start_bbox": [
+    56.64,
+    555.54,
+    166.76,
+    607.02
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 15,
+   "dest_y": 553.92,
+   "section_id": 13,
+   "start_printed_page": 14,
+   "dest_printed_page": 14,
+   "section_no": "1.4",
+   "name": "关于答疑",
+   "parent_id": 9,
+   "path": [
+    "1 前言",
+    "1.4 关于答疑"
+   ],
+   "end_physical_page": 17,
+   "end_y": 60.69,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 16,
+   "text_block_count": 15,
+   "image_block_count": 1,
+   "char_count": 426,
+   "pages_with_content": [
+    15,
+    16
+   ],
+   "actual_first_page": 15,
+   "actual_last_page": 16,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 10,
+   "region_type": "section",
+   "level": 1,
+   "title": "2 重要概念",
+   "start_physical_page": 17,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    171.15,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 17,
+   "dest_y": 69.92,
+   "section_id": 14,
+   "start_printed_page": 16,
+   "dest_printed_page": 16,
+   "section_no": "2",
+   "name": "重要概念",
+   "parent_id": null,
+   "path": [
+    "2 重要概念"
+   ],
+   "end_physical_page": 21,
+   "end_y": 60.69,
+   "page_span": 5,
+   "spans_multiple_pages": true,
+   "block_count": 111,
+   "text_block_count": 111,
+   "image_block_count": 0,
+   "char_count": 2421,
+   "pages_with_content": [
+    17,
+    18,
+    19,
+    20
+   ],
+   "actual_first_page": 17,
+   "actual_last_page": 20,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 11,
+   "region_type": "section",
+   "level": 1,
+   "title": "3 机器人与操作手",
+   "start_physical_page": 21,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    238.95,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 21,
+   "dest_y": 69.92,
+   "section_id": 15,
+   "start_printed_page": 20,
+   "dest_printed_page": 20,
+   "section_no": "3",
+   "name": "机器人与操作手",
+   "parent_id": null,
+   "path": [
+    "3 机器人与操作手"
+   ],
+   "end_physical_page": 23,
+   "end_y": 62.22,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 77,
+   "text_block_count": 76,
+   "image_block_count": 1,
+   "char_count": 765,
+   "pages_with_content": [
+    21,
+    22
+   ],
+   "actual_first_page": 21,
+   "actual_last_page": 22,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 12,
+   "region_type": "section",
+   "level": 2,
+   "title": "3.1 机器人",
+   "start_physical_page": 23,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    148.28,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 23,
+   "dest_y": 69.92,
+   "section_id": 16,
+   "start_printed_page": 22,
+   "dest_printed_page": 22,
+   "section_no": "3.1",
+   "name": "机器人",
+   "parent_id": 15,
+   "path": [
+    "3 机器人与操作手",
+    "3.1 机器人"
+   ],
+   "end_physical_page": 23,
+   "end_y": 104.91,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 8,
+   "pages_with_content": [
+    23
+   ],
+   "actual_first_page": 23,
+   "actual_last_page": 23,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 13,
+   "region_type": "section",
+   "level": 3,
+   "title": "3.1.1 重装机器人",
+   "start_physical_page": 23,
+   "start_y": 104.91,
+   "start_bbox": [
+    56.64,
+    104.91,
+    185.68,
+    150.56
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 23,
+   "dest_y": 111.92,
+   "section_id": 17,
+   "start_printed_page": 22,
+   "dest_printed_page": 22,
+   "section_no": "3.1.1",
+   "name": "重装机器人",
+   "parent_id": 16,
+   "path": [
+    "3 机器人与操作手",
+    "3.1 机器人",
+    "3.1.1 重装机器人"
+   ],
+   "end_physical_page": 24,
+   "end_y": 546.87,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 46,
+   "text_block_count": 46,
+   "image_block_count": 0,
+   "char_count": 721,
+   "pages_with_content": [
+    23,
+    24
+   ],
+   "actual_first_page": 23,
+   "actual_last_page": 24,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 14,
+   "region_type": "section",
+   "level": 3,
+   "title": "3.1.2 步兵机器人",
+   "start_physical_page": 24,
+   "start_y": 546.87,
+   "start_bbox": [
+    56.64,
+    546.87,
+    185.68,
+    592.52
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 24,
+   "dest_y": 545.92,
+   "section_id": 18,
+   "start_printed_page": 23,
+   "dest_printed_page": 23,
+   "section_no": "3.1.2",
+   "name": "步兵机器人",
+   "parent_id": 16,
+   "path": [
+    "3 机器人与操作手",
+    "3.1 机器人",
+    "3.1.2 步兵机器人"
+   ],
+   "end_physical_page": 26,
+   "end_y": 155.67,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 40,
+   "text_block_count": 40,
+   "image_block_count": 0,
+   "char_count": 591,
+   "pages_with_content": [
+    24,
+    25,
+    26
+   ],
+   "actual_first_page": 24,
+   "actual_last_page": 26,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 15,
+   "region_type": "section",
+   "level": 3,
+   "title": "3.1.3 哨兵机器人",
+   "start_physical_page": 26,
+   "start_y": 155.67,
+   "start_bbox": [
+    56.64,
+    155.67,
+    185.68,
+    201.32
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 26,
+   "dest_y": 154.92,
+   "section_id": 19,
+   "start_printed_page": 25,
+   "dest_printed_page": 25,
+   "section_no": "3.1.3",
+   "name": "哨兵机器人",
+   "parent_id": 16,
+   "path": [
+    "3 机器人与操作手",
+    "3.1 机器人",
+    "3.1.3 哨兵机器人"
+   ],
+   "end_physical_page": 28,
+   "end_y": 62.22,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 49,
+   "text_block_count": 49,
+   "image_block_count": 0,
+   "char_count": 732,
+   "pages_with_content": [
+    26,
+    27
+   ],
+   "actual_first_page": 26,
+   "actual_last_page": 27,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 16,
+   "region_type": "section",
+   "level": 2,
+   "title": "3.2 组合系统",
+   "start_physical_page": 28,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    166.76,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 28,
+   "dest_y": 69.92,
+   "section_id": 20,
+   "start_printed_page": 27,
+   "dest_printed_page": 27,
+   "section_no": "3.2",
+   "name": "组合系统",
+   "parent_id": 15,
+   "path": [
+    "3 机器人与操作手",
+    "3.2 组合系统"
+   ],
+   "end_physical_page": 28,
+   "end_y": 104.91,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 9,
+   "pages_with_content": [
+    28
+   ],
+   "actual_first_page": 28,
+   "actual_last_page": 28,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 17,
+   "region_type": "section",
+   "level": 3,
+   "title": "3.2.1 空中系统",
+   "start_physical_page": 28,
+   "start_y": 104.91,
+   "start_bbox": [
+    56.64,
+    104.91,
+    169.24,
+    150.56
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 28,
+   "dest_y": 111.92,
+   "section_id": 21,
+   "start_printed_page": 27,
+   "dest_printed_page": 27,
+   "section_no": "3.2.1",
+   "name": "空中系统",
+   "parent_id": 20,
+   "path": [
+    "3 机器人与操作手",
+    "3.2 组合系统",
+    "3.2.1 空中系统"
+   ],
+   "end_physical_page": 28,
+   "end_y": 544.95,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 14,
+   "text_block_count": 14,
+   "image_block_count": 0,
+   "char_count": 189,
+   "pages_with_content": [
+    28
+   ],
+   "actual_first_page": 28,
+   "actual_last_page": 28,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 18,
+   "region_type": "section",
+   "level": 3,
+   "title": "3.2.2 飞镖系统",
+   "start_physical_page": 28,
+   "start_y": 544.95,
+   "start_bbox": [
+    56.64,
+    544.95,
+    169.24,
+    590.6
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 28,
+   "dest_y": 543.92,
+   "section_id": 22,
+   "start_printed_page": 27,
+   "dest_printed_page": 27,
+   "section_no": "3.2.2",
+   "name": "飞镖系统",
+   "parent_id": 20,
+   "path": [
+    "3 机器人与操作手",
+    "3.2 组合系统",
+    "3.2.2 飞镖系统"
+   ],
+   "end_physical_page": 29,
+   "end_y": 63.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 7,
+   "text_block_count": 7,
+   "image_block_count": 0,
+   "char_count": 96,
+   "pages_with_content": [
+    28
+   ],
+   "actual_first_page": 28,
+   "actual_last_page": 28,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 19,
+   "region_type": "section",
+   "level": 3,
+   "title": "3.2.3 雷达系统",
+   "start_physical_page": 29,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    169.24,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 29,
+   "dest_y": 69.92,
+   "section_id": 23,
+   "start_printed_page": 28,
+   "dest_printed_page": 28,
+   "section_no": "3.2.3",
+   "name": "雷达系统",
+   "parent_id": 20,
+   "path": [
+    "3 机器人与操作手",
+    "3.2 组合系统",
+    "3.2.3 雷达系统"
+   ],
+   "end_physical_page": 29,
+   "end_y": 304.98,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 8,
+   "text_block_count": 8,
+   "image_block_count": 0,
+   "char_count": 155,
+   "pages_with_content": [
+    29
+   ],
+   "actual_first_page": 29,
+   "actual_last_page": 29,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 20,
+   "region_type": "section",
+   "level": 2,
+   "title": "3.3 附属设备",
+   "start_physical_page": 29,
+   "start_y": 304.98,
+   "start_bbox": [
+    56.64,
+    304.98,
+    166.76,
+    356.46
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 29,
+   "dest_y": 302.92,
+   "section_id": 24,
+   "start_printed_page": 28,
+   "dest_printed_page": 28,
+   "section_no": "3.3",
+   "name": "附属设备",
+   "parent_id": 15,
+   "path": [
+    "3 机器人与操作手",
+    "3.3 附属设备"
+   ],
+   "end_physical_page": 29,
+   "end_y": 347.67,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 9,
+   "pages_with_content": [
+    29
+   ],
+   "actual_first_page": 29,
+   "actual_last_page": 29,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 21,
+   "region_type": "section",
+   "level": 3,
+   "title": "3.3.1 自定义终端",
+   "start_physical_page": 29,
+   "start_y": 347.67,
+   "start_bbox": [
+    56.64,
+    347.67,
+    185.68,
+    393.32
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 29,
+   "dest_y": 354.92,
+   "section_id": 25,
+   "start_printed_page": 28,
+   "dest_printed_page": 28,
+   "section_no": "3.3.1",
+   "name": "自定义终端",
+   "parent_id": 24,
+   "path": [
+    "3 机器人与操作手",
+    "3.3 附属设备",
+    "3.3.1 自定义终端"
+   ],
+   "end_physical_page": 30,
+   "end_y": 60.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 15,
+   "text_block_count": 15,
+   "image_block_count": 0,
+   "char_count": 499,
+   "pages_with_content": [
+    29
+   ],
+   "actual_first_page": 29,
+   "actual_last_page": 29,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 22,
+   "region_type": "section",
+   "level": 1,
+   "title": "4 比赛场地",
+   "start_physical_page": 30,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    171.15,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 30,
+   "dest_y": 69.92,
+   "section_id": 26,
+   "start_printed_page": 29,
+   "dest_printed_page": 29,
+   "section_no": "4",
+   "name": "比赛场地",
+   "parent_id": null,
+   "path": [
+    "4 比赛场地"
+   ],
+   "end_physical_page": 30,
+   "end_y": 113.46,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 7,
+   "pages_with_content": [
+    30
+   ],
+   "actual_first_page": 30,
+   "actual_last_page": 30,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 23,
+   "region_type": "section",
+   "level": 2,
+   "title": "4.1 战场概述",
+   "start_physical_page": 30,
+   "start_y": 113.46,
+   "start_bbox": [
+    56.64,
+    113.46,
+    166.76,
+    164.94
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 30,
+   "dest_y": 120.92,
+   "section_id": 27,
+   "start_printed_page": 29,
+   "dest_printed_page": 29,
+   "section_no": "4.1",
+   "name": "战场概述",
+   "parent_id": 26,
+   "path": [
+    "4 比赛场地",
+    "4.1 战场概述"
+   ],
+   "end_physical_page": 36,
+   "end_y": 62.22,
+   "page_span": 7,
+   "spans_multiple_pages": true,
+   "block_count": 45,
+   "text_block_count": 35,
+   "image_block_count": 10,
+   "char_count": 1105,
+   "pages_with_content": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "actual_first_page": 30,
+   "actual_last_page": 35,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 24,
+   "region_type": "section",
+   "level": 2,
+   "title": "4.2 基地区",
+   "start_physical_page": 36,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    148.28,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 36,
+   "dest_y": 69.92,
+   "section_id": 28,
+   "start_printed_page": 35,
+   "dest_printed_page": 35,
+   "section_no": "4.2",
+   "name": "基地区",
+   "parent_id": 26,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区"
+   ],
+   "end_physical_page": 37,
+   "end_y": 63.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 6,
+   "text_block_count": 5,
+   "image_block_count": 1,
+   "char_count": 131,
+   "pages_with_content": [
+    36
+   ],
+   "actual_first_page": 36,
+   "actual_last_page": 36,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 25,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.2.1 启动区",
+   "start_physical_page": 37,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    152.8,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 37,
+   "dest_y": 69.92,
+   "section_id": 29,
+   "start_printed_page": 36,
+   "dest_printed_page": 36,
+   "section_no": "4.2.1",
+   "name": "启动区",
+   "parent_id": 28,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区",
+    "4.2.1 启动区"
+   ],
+   "end_physical_page": 38,
+   "end_y": 63.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 5,
+   "text_block_count": 4,
+   "image_block_count": 1,
+   "char_count": 66,
+   "pages_with_content": [
+    37
+   ],
+   "actual_first_page": 37,
+   "actual_last_page": 37,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 26,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.2.2 基地",
+   "start_physical_page": 38,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    136.36,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 38,
+   "dest_y": 69.92,
+   "section_id": 30,
+   "start_printed_page": 37,
+   "dest_printed_page": 37,
+   "section_no": "4.2.2",
+   "name": "基地",
+   "parent_id": 28,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区",
+    "4.2.2 基地"
+   ],
+   "end_physical_page": 41,
+   "end_y": 63.27,
+   "page_span": 4,
+   "spans_multiple_pages": true,
+   "block_count": 26,
+   "text_block_count": 20,
+   "image_block_count": 6,
+   "char_count": 532,
+   "pages_with_content": [
+    38,
+    39,
+    40
+   ],
+   "actual_first_page": 38,
+   "actual_last_page": 40,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 27,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.2.3 飞镖发射站",
+   "start_physical_page": 41,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    185.68,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 41,
+   "dest_y": 69.92,
+   "section_id": 31,
+   "start_printed_page": 40,
+   "dest_printed_page": 40,
+   "section_no": "4.2.3",
+   "name": "飞镖发射站",
+   "parent_id": 28,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区",
+    "4.2.3 飞镖发射站"
+   ],
+   "end_physical_page": 42,
+   "end_y": 367.11,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 13,
+   "text_block_count": 10,
+   "image_block_count": 3,
+   "char_count": 269,
+   "pages_with_content": [
+    41,
+    42
+   ],
+   "actual_first_page": 41,
+   "actual_last_page": 42,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 28,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.2.4 制高点",
+   "start_physical_page": 42,
+   "start_y": 367.11,
+   "start_bbox": [
+    56.64,
+    367.11,
+    152.8,
+    412.76
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 42,
+   "dest_y": 371.92,
+   "section_id": 32,
+   "start_printed_page": 41,
+   "dest_printed_page": 41,
+   "section_no": "4.2.4",
+   "name": "制高点",
+   "parent_id": 28,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区",
+    "4.2.4 制高点"
+   ],
+   "end_physical_page": 43,
+   "end_y": 63.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 4,
+   "text_block_count": 3,
+   "image_block_count": 1,
+   "char_count": 66,
+   "pages_with_content": [
+    42
+   ],
+   "actual_first_page": 42,
+   "actual_last_page": 42,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 29,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.2.5 雷达基座",
+   "start_physical_page": 43,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    169.24,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 43,
+   "dest_y": 69.92,
+   "section_id": 33,
+   "start_printed_page": 42,
+   "dest_printed_page": 42,
+   "section_no": "4.2.5",
+   "name": "雷达基座",
+   "parent_id": 28,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区",
+    "4.2.5 雷达基座"
+   ],
+   "end_physical_page": 45,
+   "end_y": 63.27,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 17,
+   "text_block_count": 15,
+   "image_block_count": 2,
+   "char_count": 426,
+   "pages_with_content": [
+    43,
+    44
+   ],
+   "actual_first_page": 43,
+   "actual_last_page": 44,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 30,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.2.6 补给区",
+   "start_physical_page": 45,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    152.8,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 45,
+   "dest_y": 69.92,
+   "section_id": 34,
+   "start_printed_page": 44,
+   "dest_printed_page": 44,
+   "section_no": "4.2.6",
+   "name": "补给区",
+   "parent_id": 28,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区",
+    "4.2.6 补给区"
+   ],
+   "end_physical_page": 49,
+   "end_y": 63.27,
+   "page_span": 5,
+   "spans_multiple_pages": true,
+   "block_count": 29,
+   "text_block_count": 21,
+   "image_block_count": 8,
+   "char_count": 454,
+   "pages_with_content": [
+    45,
+    46,
+    47,
+    48
+   ],
+   "actual_first_page": 45,
+   "actual_last_page": 48,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 31,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.2.7 堡垒",
+   "start_physical_page": 49,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    136.36,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 49,
+   "dest_y": 69.92,
+   "section_id": 35,
+   "start_printed_page": 48,
+   "dest_printed_page": 48,
+   "section_no": "4.2.7",
+   "name": "堡垒",
+   "parent_id": 28,
+   "path": [
+    "4 比赛场地",
+    "4.2 基地区",
+    "4.2.7 堡垒"
+   ],
+   "end_physical_page": 50,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 5,
+   "text_block_count": 4,
+   "image_block_count": 1,
+   "char_count": 46,
+   "pages_with_content": [
+    49
+   ],
+   "actual_first_page": 49,
+   "actual_last_page": 49,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 32,
+   "region_type": "section",
+   "level": 2,
+   "title": "4.3 高地区",
+   "start_physical_page": 50,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    148.28,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 50,
+   "dest_y": 69.92,
+   "section_id": 36,
+   "start_printed_page": 49,
+   "dest_printed_page": 49,
+   "section_no": "4.3",
+   "name": "高地区",
+   "parent_id": 26,
+   "path": [
+    "4 比赛场地",
+    "4.3 高地区"
+   ],
+   "end_physical_page": 50,
+   "end_y": 152.19,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 76,
+   "pages_with_content": [
+    50
+   ],
+   "actual_first_page": 50,
+   "actual_last_page": 50,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 33,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.3.1 梯形高地",
+   "start_physical_page": 50,
+   "start_y": 152.19,
+   "start_bbox": [
+    56.64,
+    152.19,
+    169.24,
+    197.84
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 50,
+   "dest_y": 156.92,
+   "section_id": 37,
+   "start_printed_page": 49,
+   "dest_printed_page": 49,
+   "section_no": "4.3.1",
+   "name": "梯形高地",
+   "parent_id": 36,
+   "path": [
+    "4 比赛场地",
+    "4.3 高地区",
+    "4.3.1 梯形高地"
+   ],
+   "end_physical_page": 51,
+   "end_y": 63.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 5,
+   "text_block_count": 4,
+   "image_block_count": 1,
+   "char_count": 63,
+   "pages_with_content": [
+    50
+   ],
+   "actual_first_page": 50,
+   "actual_last_page": 50,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 34,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.3.2 中央高地",
+   "start_physical_page": 51,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    169.24,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 51,
+   "dest_y": 69.92,
+   "section_id": 38,
+   "start_printed_page": 50,
+   "dest_printed_page": 50,
+   "section_no": "4.3.2",
+   "name": "中央高地",
+   "parent_id": 36,
+   "path": [
+    "4 比赛场地",
+    "4.3 高地区",
+    "4.3.2 中央高地"
+   ],
+   "end_physical_page": 52,
+   "end_y": 63.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 6,
+   "text_block_count": 5,
+   "image_block_count": 1,
+   "char_count": 97,
+   "pages_with_content": [
+    51
+   ],
+   "actual_first_page": 51,
+   "actual_last_page": 51,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 35,
+   "region_type": "section",
+   "level": 4,
+   "title": "4.3.2.1 装配区",
+   "start_physical_page": 52,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    160.47,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 52,
+   "dest_y": 69.92,
+   "section_id": 39,
+   "start_printed_page": 51,
+   "dest_printed_page": 51,
+   "section_no": "4.3.2.1",
+   "name": "装配区",
+   "parent_id": 38,
+   "path": [
+    "4 比赛场地",
+    "4.3 高地区",
+    "4.3.2 中央高地",
+    "4.3.2.1 装配区"
+   ],
+   "end_physical_page": 54,
+   "end_y": 63.69,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 9,
+   "text_block_count": 7,
+   "image_block_count": 2,
+   "char_count": 186,
+   "pages_with_content": [
+    52,
+    53
+   ],
+   "actual_first_page": 52,
+   "actual_last_page": 53,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 36,
+   "region_type": "section",
+   "level": 4,
+   "title": "4.3.2.2 机库平台",
+   "start_physical_page": 54,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    175.95,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 54,
+   "dest_y": 69.92,
+   "section_id": 40,
+   "start_printed_page": 53,
+   "dest_printed_page": 53,
+   "section_no": "4.3.2.2",
+   "name": "机库平台",
+   "parent_id": 38,
+   "path": [
+    "4 比赛场地",
+    "4.3 高地区",
+    "4.3.2 中央高地",
+    "4.3.2.2 机库平台"
+   ],
+   "end_physical_page": 55,
+   "end_y": 63.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 5,
+   "text_block_count": 4,
+   "image_block_count": 1,
+   "char_count": 91,
+   "pages_with_content": [
+    54
+   ],
+   "actual_first_page": 54,
+   "actual_last_page": 54,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 37,
+   "region_type": "section",
+   "level": 4,
+   "title": "4.3.2.3 能量机关",
+   "start_physical_page": 55,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    175.95,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 55,
+   "dest_y": 69.92,
+   "section_id": 41,
+   "start_printed_page": 54,
+   "dest_printed_page": 54,
+   "section_no": "4.3.2.3",
+   "name": "能量机关",
+   "parent_id": 38,
+   "path": [
+    "4 比赛场地",
+    "4.3 高地区",
+    "4.3.2 中央高地",
+    "4.3.2.3 能量机关"
+   ],
+   "end_physical_page": 57,
+   "end_y": 63.69,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 15,
+   "text_block_count": 10,
+   "image_block_count": 5,
+   "char_count": 278,
+   "pages_with_content": [
+    55,
+    56
+   ],
+   "actual_first_page": 55,
+   "actual_last_page": 56,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 38,
+   "region_type": "section",
+   "level": 4,
+   "title": "4.3.2.4 前哨站",
+   "start_physical_page": 57,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    160.47,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 57,
+   "dest_y": 69.92,
+   "section_id": 42,
+   "start_printed_page": 56,
+   "dest_printed_page": 56,
+   "section_no": "4.3.2.4",
+   "name": "前哨站",
+   "parent_id": 38,
+   "path": [
+    "4 比赛场地",
+    "4.3 高地区",
+    "4.3.2 中央高地",
+    "4.3.2.4 前哨站"
+   ],
+   "end_physical_page": 58,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 6,
+   "text_block_count": 5,
+   "image_block_count": 1,
+   "char_count": 149,
+   "pages_with_content": [
+    57
+   ],
+   "actual_first_page": 57,
+   "actual_last_page": 57,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 39,
+   "region_type": "section",
+   "level": 2,
+   "title": "4.4 公路区",
+   "start_physical_page": 58,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    148.28,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 58,
+   "dest_y": 69.92,
+   "section_id": 43,
+   "start_printed_page": 57,
+   "dest_printed_page": 57,
+   "section_no": "4.4",
+   "name": "公路区",
+   "parent_id": 26,
+   "path": [
+    "4 比赛场地",
+    "4.4 公路区"
+   ],
+   "end_physical_page": 59,
+   "end_y": 63.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 5,
+   "text_block_count": 4,
+   "image_block_count": 1,
+   "char_count": 57,
+   "pages_with_content": [
+    58
+   ],
+   "actual_first_page": 58,
+   "actual_last_page": 58,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 40,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.4.1 起伏路段",
+   "start_physical_page": 59,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    169.24,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 59,
+   "dest_y": 69.92,
+   "section_id": 44,
+   "start_printed_page": 58,
+   "dest_printed_page": 58,
+   "section_no": "4.4.1",
+   "name": "起伏路段",
+   "parent_id": 43,
+   "path": [
+    "4 比赛场地",
+    "4.4 公路区",
+    "4.4.1 起伏路段"
+   ],
+   "end_physical_page": 60,
+   "end_y": 63.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 8,
+   "text_block_count": 6,
+   "image_block_count": 2,
+   "char_count": 91,
+   "pages_with_content": [
+    59
+   ],
+   "actual_first_page": 59,
+   "actual_last_page": 59,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 41,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.4.2 隧道",
+   "start_physical_page": 60,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    136.36,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 60,
+   "dest_y": 69.92,
+   "section_id": 45,
+   "start_printed_page": 59,
+   "dest_printed_page": 59,
+   "section_no": "4.4.2",
+   "name": "隧道",
+   "parent_id": 43,
+   "path": [
+    "4 比赛场地",
+    "4.4 公路区",
+    "4.4.2 隧道"
+   ],
+   "end_physical_page": 60,
+   "end_y": 435.54,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 5,
+   "text_block_count": 4,
+   "image_block_count": 1,
+   "char_count": 65,
+   "pages_with_content": [
+    60
+   ],
+   "actual_first_page": 60,
+   "actual_last_page": 60,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 42,
+   "region_type": "section",
+   "level": 2,
+   "title": "4.5 其它",
+   "start_physical_page": 60,
+   "start_y": 435.54,
+   "start_bbox": [
+    56.64,
+    435.54,
+    129.8,
+    487.02
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 60,
+   "dest_y": 439.92,
+   "section_id": 46,
+   "start_printed_page": 59,
+   "dest_printed_page": 59,
+   "section_no": "4.5",
+   "name": "其它",
+   "parent_id": 26,
+   "path": [
+    "4 比赛场地",
+    "4.5 其它"
+   ],
+   "end_physical_page": 60,
+   "end_y": 478.11,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 7,
+   "pages_with_content": [
+    60
+   ],
+   "actual_first_page": 60,
+   "actual_last_page": 60,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 43,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.5.1 可移动道具",
+   "start_physical_page": 60,
+   "start_y": 478.11,
+   "start_bbox": [
+    56.64,
+    478.11,
+    185.68,
+    523.76
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 60,
+   "dest_y": 484.92,
+   "section_id": 47,
+   "start_printed_page": 59,
+   "dest_printed_page": 59,
+   "section_no": "4.5.1",
+   "name": "可移动道具",
+   "parent_id": 46,
+   "path": [
+    "4 比赛场地",
+    "4.5 其它",
+    "4.5.1 可移动道具"
+   ],
+   "end_physical_page": 62,
+   "end_y": 63.27,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 10,
+   "text_block_count": 7,
+   "image_block_count": 3,
+   "char_count": 151,
+   "pages_with_content": [
+    60,
+    61
+   ],
+   "actual_first_page": 60,
+   "actual_last_page": 61,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 44,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.5.2 弹丸",
+   "start_physical_page": 62,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    136.36,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 62,
+   "dest_y": 69.92,
+   "section_id": 48,
+   "start_printed_page": 61,
+   "dest_printed_page": 61,
+   "section_no": "4.5.2",
+   "name": "弹丸",
+   "parent_id": 46,
+   "path": [
+    "4 比赛场地",
+    "4.5 其它",
+    "4.5.2 弹丸"
+   ],
+   "end_physical_page": 62,
+   "end_y": 317.19,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 28,
+   "text_block_count": 28,
+   "image_block_count": 0,
+   "char_count": 246,
+   "pages_with_content": [
+    62
+   ],
+   "actual_first_page": 62,
+   "actual_last_page": 62,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 45,
+   "region_type": "section",
+   "level": 3,
+   "title": "4.5.3 操作间",
+   "start_physical_page": 62,
+   "start_y": 317.19,
+   "start_bbox": [
+    56.64,
+    317.19,
+    152.8,
+    362.84
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 62,
+   "dest_y": 315.92,
+   "section_id": 49,
+   "start_printed_page": 61,
+   "dest_printed_page": 61,
+   "section_no": "4.5.3",
+   "name": "操作间",
+   "parent_id": 46,
+   "path": [
+    "4 比赛场地",
+    "4.5 其它",
+    "4.5.3 操作间"
+   ],
+   "end_physical_page": 65,
+   "end_y": 60.69,
+   "page_span": 4,
+   "spans_multiple_pages": true,
+   "block_count": 24,
+   "text_block_count": 21,
+   "image_block_count": 3,
+   "char_count": 692,
+   "pages_with_content": [
+    62,
+    63,
+    64
+   ],
+   "actual_first_page": 62,
+   "actual_last_page": 64,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 46,
+   "region_type": "section",
+   "level": 1,
+   "title": "5 比赛机制",
+   "start_physical_page": 65,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    171.15,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 65,
+   "dest_y": 69.92,
+   "section_id": 50,
+   "start_printed_page": 64,
+   "dest_printed_page": 64,
+   "section_no": "5",
+   "name": "比赛机制",
+   "parent_id": null,
+   "path": [
+    "5 比赛机制"
+   ],
+   "end_physical_page": 65,
+   "end_y": 113.46,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 7,
+   "pages_with_content": [
+    65
+   ],
+   "actual_first_page": 65,
+   "actual_last_page": 65,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 47,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.1 扣血与超限惩罚机制",
+   "start_physical_page": 65,
+   "start_y": 113.46,
+   "start_bbox": [
+    56.64,
+    113.46,
+    259.16,
+    164.94
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 65,
+   "dest_y": 120.92,
+   "section_id": 51,
+   "start_printed_page": 64,
+   "dest_printed_page": 64,
+   "section_no": "5.1",
+   "name": "扣血与超限惩罚机制",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制"
+   ],
+   "end_physical_page": 65,
+   "end_y": 156.03,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 14,
+   "pages_with_content": [
+    65
+   ],
+   "actual_first_page": 65,
+   "actual_last_page": 65,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 48,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.1.1 攻击伤害或撞击",
+   "start_physical_page": 65,
+   "start_y": 156.03,
+   "start_bbox": [
+    56.64,
+    156.03,
+    218.56,
+    201.68
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 65,
+   "dest_y": 162.92,
+   "section_id": 52,
+   "start_printed_page": 64,
+   "dest_printed_page": 64,
+   "section_no": "5.1.1",
+   "name": "攻击伤害或撞击",
+   "parent_id": 51,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.1 攻击伤害或撞击"
+   ],
+   "end_physical_page": 67,
+   "end_y": 63.27,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 58,
+   "text_block_count": 57,
+   "image_block_count": 1,
+   "char_count": 1155,
+   "pages_with_content": [
+    65,
+    66
+   ],
+   "actual_first_page": 65,
+   "actual_last_page": 66,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 49,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.1.2 射击初速度超限",
+   "start_physical_page": 67,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    218.56,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 67,
+   "dest_y": 69.92,
+   "section_id": 53,
+   "start_printed_page": 66,
+   "dest_printed_page": 66,
+   "section_no": "5.1.2",
+   "name": "射击初速度超限",
+   "parent_id": 51,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.2 射击初速度超限"
+   ],
+   "end_physical_page": 67,
+   "end_y": 329.67,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 9,
+   "text_block_count": 9,
+   "image_block_count": 0,
+   "char_count": 282,
+   "pages_with_content": [
+    67
+   ],
+   "actual_first_page": 67,
+   "actual_last_page": 67,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 50,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.1.3 射击热量超限和冷却",
+   "start_physical_page": 67,
+   "start_y": 329.67,
+   "start_bbox": [
+    56.64,
+    329.67,
+    251.44,
+    375.32
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 67,
+   "dest_y": 328.92,
+   "section_id": 54,
+   "start_printed_page": 66,
+   "dest_printed_page": 66,
+   "section_no": "5.1.3",
+   "name": "射击热量超限和冷却",
+   "parent_id": 51,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.3 射击热量超限和冷却"
+   ],
+   "end_physical_page": 68,
+   "end_y": 465.99,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 37,
+   "text_block_count": 36,
+   "image_block_count": 1,
+   "char_count": 638,
+   "pages_with_content": [
+    67,
+    68
+   ],
+   "actual_first_page": 67,
+   "actual_last_page": 68,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 51,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.1.4 底盘功率超限",
+   "start_physical_page": 68,
+   "start_y": 465.99,
+   "start_bbox": [
+    56.64,
+    465.99,
+    202.12,
+    511.64
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 68,
+   "dest_y": 464.92,
+   "section_id": 55,
+   "start_printed_page": 67,
+   "dest_printed_page": 67,
+   "section_no": "5.1.4",
+   "name": "底盘功率超限",
+   "parent_id": 51,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.4 底盘功率超限"
+   ],
+   "end_physical_page": 69,
+   "end_y": 443.79,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 18,
+   "text_block_count": 18,
+   "image_block_count": 0,
+   "char_count": 284,
+   "pages_with_content": [
+    68,
+    69
+   ],
+   "actual_first_page": 68,
+   "actual_last_page": 69,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 52,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.1.5 裁判系统模块离线",
+   "start_physical_page": 69,
+   "start_y": 443.79,
+   "start_bbox": [
+    56.64,
+    443.79,
+    235.0,
+    489.44
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 69,
+   "dest_y": 448.92,
+   "section_id": 56,
+   "start_printed_page": 68,
+   "dest_printed_page": 68,
+   "section_no": "5.1.5",
+   "name": "裁判系统模块离线",
+   "parent_id": 51,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.5 裁判系统模块离线"
+   ],
+   "end_physical_page": 70,
+   "end_y": 63.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 4,
+   "text_block_count": 4,
+   "image_block_count": 0,
+   "char_count": 129,
+   "pages_with_content": [
+    69
+   ],
+   "actual_first_page": 69,
+   "actual_last_page": 69,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 53,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.1.5.1 异常离线",
+   "start_physical_page": 70,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    175.95,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 70,
+   "dest_y": 69.92,
+   "section_id": 57,
+   "start_printed_page": 69,
+   "dest_printed_page": 69,
+   "section_no": "5.1.5.1",
+   "name": "异常离线",
+   "parent_id": 56,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.5 裁判系统模块离线",
+    "5.1.5.1 异常离线"
+   ],
+   "end_physical_page": 71,
+   "end_y": 63.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 18,
+   "text_block_count": 18,
+   "image_block_count": 0,
+   "char_count": 304,
+   "pages_with_content": [
+    70
+   ],
+   "actual_first_page": 70,
+   "actual_last_page": 70,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 54,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.1.5.2 装甲模块或超级电容管理模块离线",
+   "start_physical_page": 71,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    345.39,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 71,
+   "dest_y": 69.92,
+   "section_id": 58,
+   "start_printed_page": 70,
+   "dest_printed_page": 70,
+   "section_no": "5.1.5.2",
+   "name": "装甲模块或超级电容管理模块离线",
+   "parent_id": 56,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.5 裁判系统模块离线",
+    "5.1.5.2 装甲模块或超级电容管理模块离线"
+   ],
+   "end_physical_page": 72,
+   "end_y": 63.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 15,
+   "text_block_count": 15,
+   "image_block_count": 0,
+   "char_count": 185,
+   "pages_with_content": [
+    71
+   ],
+   "actual_first_page": 71,
+   "actual_last_page": 71,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 55,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.1.5.3 测速模块离线",
+   "start_physical_page": 72,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    206.67,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 72,
+   "dest_y": 69.92,
+   "section_id": 59,
+   "start_printed_page": 71,
+   "dest_printed_page": 71,
+   "section_no": "5.1.5.3",
+   "name": "测速模块离线",
+   "parent_id": 56,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.5 裁判系统模块离线",
+    "5.1.5.3 测速模块离线"
+   ],
+   "end_physical_page": 72,
+   "end_y": 570.09,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 20,
+   "text_block_count": 20,
+   "image_block_count": 0,
+   "char_count": 206,
+   "pages_with_content": [
+    72
+   ],
+   "actual_first_page": 72,
+   "actual_last_page": 72,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 56,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.1.5.4 定位模块离线",
+   "start_physical_page": 72,
+   "start_y": 570.09,
+   "start_bbox": [
+    56.64,
+    570.09,
+    206.67,
+    612.99
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 72,
+   "dest_y": 576.92,
+   "section_id": 60,
+   "start_printed_page": 71,
+   "dest_printed_page": 71,
+   "section_no": "5.1.5.4",
+   "name": "定位模块离线",
+   "parent_id": 56,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.5 裁判系统模块离线",
+    "5.1.5.4 定位模块离线"
+   ],
+   "end_physical_page": 72,
+   "end_y": 651.03,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 75,
+   "pages_with_content": [
+    72
+   ],
+   "actual_first_page": 72,
+   "actual_last_page": 72,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 57,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.1.6 判罚伤害",
+   "start_physical_page": 72,
+   "start_y": 651.03,
+   "start_bbox": [
+    56.64,
+    651.03,
+    169.24,
+    696.68
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 72,
+   "dest_y": 655.92,
+   "section_id": 61,
+   "start_printed_page": 71,
+   "dest_printed_page": 71,
+   "section_no": "5.1.6",
+   "name": "判罚伤害",
+   "parent_id": 51,
+   "path": [
+    "5 比赛机制",
+    "5.1 扣血与超限惩罚机制",
+    "5.1.6 判罚伤害"
+   ],
+   "end_physical_page": 73,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 2,
+   "text_block_count": 2,
+   "image_block_count": 0,
+   "char_count": 53,
+   "pages_with_content": [
+    72
+   ],
+   "actual_first_page": 72,
+   "actual_last_page": 72,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 58,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.2 自适应装甲机制",
+   "start_physical_page": 73,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    222.2,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 73,
+   "dest_y": 69.92,
+   "section_id": 62,
+   "start_printed_page": 72,
+   "dest_printed_page": 72,
+   "section_no": "5.2",
+   "name": "自适应装甲机制",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.2 自适应装甲机制"
+   ],
+   "end_physical_page": 74,
+   "end_y": 143.46,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 39,
+   "text_block_count": 37,
+   "image_block_count": 2,
+   "char_count": 793,
+   "pages_with_content": [
+    73,
+    74
+   ],
+   "actual_first_page": 73,
+   "actual_last_page": 74,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 59,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.3 回血与复活机制",
+   "start_physical_page": 74,
+   "start_y": 143.46,
+   "start_bbox": [
+    56.64,
+    143.46,
+    222.2,
+    194.94
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 74,
+   "dest_y": 144.92,
+   "section_id": 63,
+   "start_printed_page": 73,
+   "dest_printed_page": 73,
+   "section_no": "5.3",
+   "name": "回血与复活机制",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.3 回血与复活机制"
+   ],
+   "end_physical_page": 74,
+   "end_y": 239.43,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 92,
+   "pages_with_content": [
+    74
+   ],
+   "actual_first_page": 74,
+   "actual_last_page": 74,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 60,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.3.1 回血机制",
+   "start_physical_page": 74,
+   "start_y": 239.43,
+   "start_bbox": [
+    56.64,
+    239.43,
+    169.24,
+    285.08
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 74,
+   "dest_y": 244.92,
+   "section_id": 64,
+   "start_printed_page": 73,
+   "dest_printed_page": 73,
+   "section_no": "5.3.1",
+   "name": "回血机制",
+   "parent_id": 63,
+   "path": [
+    "5 比赛机制",
+    "5.3 回血与复活机制",
+    "5.3.1 回血机制"
+   ],
+   "end_physical_page": 75,
+   "end_y": 465.99,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 21,
+   "text_block_count": 19,
+   "image_block_count": 2,
+   "char_count": 550,
+   "pages_with_content": [
+    74,
+    75
+   ],
+   "actual_first_page": 74,
+   "actual_last_page": 75,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 61,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.3.2 复活机制",
+   "start_physical_page": 75,
+   "start_y": 465.99,
+   "start_bbox": [
+    56.64,
+    465.99,
+    169.24,
+    511.64
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 75,
+   "dest_y": 470.92,
+   "section_id": 65,
+   "start_printed_page": 74,
+   "dest_printed_page": 74,
+   "section_no": "5.3.2",
+   "name": "复活机制",
+   "parent_id": 63,
+   "path": [
+    "5 比赛机制",
+    "5.3 回血与复活机制",
+    "5.3.2 复活机制"
+   ],
+   "end_physical_page": 76,
+   "end_y": 458.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 31,
+   "text_block_count": 31,
+   "image_block_count": 0,
+   "char_count": 758,
+   "pages_with_content": [
+    75,
+    76
+   ],
+   "actual_first_page": 75,
+   "actual_last_page": 76,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 62,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.4 经济体系",
+   "start_physical_page": 76,
+   "start_y": 458.22,
+   "start_bbox": [
+    56.64,
+    458.22,
+    166.76,
+    509.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 76,
+   "dest_y": 461.92,
+   "section_id": 66,
+   "start_printed_page": 75,
+   "dest_printed_page": 75,
+   "section_no": "5.4",
+   "name": "经济体系",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.4 经济体系"
+   ],
+   "end_physical_page": 76,
+   "end_y": 500.91,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 9,
+   "pages_with_content": [
+    76
+   ],
+   "actual_first_page": 76,
+   "actual_last_page": 76,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 63,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.4.1 经济体系概述",
+   "start_physical_page": 76,
+   "start_y": 500.91,
+   "start_bbox": [
+    56.64,
+    500.91,
+    202.12,
+    546.56
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 76,
+   "dest_y": 507.92,
+   "section_id": 67,
+   "start_printed_page": 75,
+   "dest_printed_page": 75,
+   "section_no": "5.4.1",
+   "name": "经济体系概述",
+   "parent_id": 66,
+   "path": [
+    "5 比赛机制",
+    "5.4 经济体系",
+    "5.4.1 经济体系概述"
+   ],
+   "end_physical_page": 77,
+   "end_y": 607.35,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 32,
+   "text_block_count": 31,
+   "image_block_count": 1,
+   "char_count": 613,
+   "pages_with_content": [
+    76,
+    77
+   ],
+   "actual_first_page": 76,
+   "actual_last_page": 77,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 64,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.4.2 允许发弹量机制",
+   "start_physical_page": 77,
+   "start_y": 607.35,
+   "start_bbox": [
+    56.64,
+    607.35,
+    218.56,
+    653.0
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 77,
+   "dest_y": 605.92,
+   "section_id": 68,
+   "start_printed_page": 76,
+   "dest_printed_page": 76,
+   "section_no": "5.4.2",
+   "name": "允许发弹量机制",
+   "parent_id": 66,
+   "path": [
+    "5 比赛机制",
+    "5.4 经济体系",
+    "5.4.2 允许发弹量机制"
+   ],
+   "end_physical_page": 78,
+   "end_y": 660.27,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 29,
+   "text_block_count": 28,
+   "image_block_count": 1,
+   "char_count": 736,
+   "pages_with_content": [
+    77,
+    78
+   ],
+   "actual_first_page": 77,
+   "actual_last_page": 78,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 65,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.4.3 科技核心-能量单元机制",
+   "start_physical_page": 78,
+   "start_y": 660.27,
+   "start_bbox": [
+    56.64,
+    660.27,
+    273.64,
+    705.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 78,
+   "dest_y": 664.92,
+   "section_id": 69,
+   "start_printed_page": 77,
+   "dest_printed_page": 77,
+   "section_no": "5.4.3",
+   "name": "科技核心-能量单元机制",
+   "parent_id": 66,
+   "path": [
+    "5 比赛机制",
+    "5.4 经济体系",
+    "5.4.3 科技核心-能量单元机制"
+   ],
+   "end_physical_page": 90,
+   "end_y": 117.3,
+   "page_span": 13,
+   "spans_multiple_pages": true,
+   "block_count": 202,
+   "text_block_count": 184,
+   "image_block_count": 18,
+   "char_count": 4642,
+   "pages_with_content": [
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ],
+   "actual_first_page": 78,
+   "actual_last_page": 90,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 66,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.5 经验及性能体系",
+   "start_physical_page": 90,
+   "start_y": 117.3,
+   "start_bbox": [
+    56.64,
+    117.3,
+    222.2,
+    168.78
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 90,
+   "dest_y": 119.92,
+   "section_id": 70,
+   "start_printed_page": 89,
+   "dest_printed_page": 89,
+   "section_no": "5.5",
+   "name": "经验及性能体系",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.5 经验及性能体系"
+   ],
+   "end_physical_page": 90,
+   "end_y": 159.87,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 12,
+   "pages_with_content": [
+    90
+   ],
+   "actual_first_page": 90,
+   "actual_last_page": 90,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 67,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.5.1 经验体系",
+   "start_physical_page": 90,
+   "start_y": 159.87,
+   "start_bbox": [
+    56.64,
+    159.87,
+    169.24,
+    205.52
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 90,
+   "dest_y": 166.92,
+   "section_id": 71,
+   "start_printed_page": 89,
+   "dest_printed_page": 89,
+   "section_no": "5.5.1",
+   "name": "经验体系",
+   "parent_id": 70,
+   "path": [
+    "5 比赛机制",
+    "5.5 经验及性能体系",
+    "5.5.1 经验体系"
+   ],
+   "end_physical_page": 92,
+   "end_y": 447.75,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 65,
+   "text_block_count": 65,
+   "image_block_count": 0,
+   "char_count": 1421,
+   "pages_with_content": [
+    90,
+    91,
+    92
+   ],
+   "actual_first_page": 90,
+   "actual_last_page": 92,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 68,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.5.2 性能体系",
+   "start_physical_page": 92,
+   "start_y": 447.75,
+   "start_bbox": [
+    56.64,
+    447.75,
+    169.24,
+    493.4
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 92,
+   "dest_y": 446.92,
+   "section_id": 72,
+   "start_printed_page": 91,
+   "dest_printed_page": 91,
+   "section_no": "5.5.2",
+   "name": "性能体系",
+   "parent_id": 70,
+   "path": [
+    "5 比赛机制",
+    "5.5 经验及性能体系",
+    "5.5.2 性能体系"
+   ],
+   "end_physical_page": 95,
+   "end_y": 426.18,
+   "page_span": 4,
+   "spans_multiple_pages": true,
+   "block_count": 70,
+   "text_block_count": 70,
+   "image_block_count": 0,
+   "char_count": 931,
+   "pages_with_content": [
+    92,
+    93,
+    94,
+    95
+   ],
+   "actual_first_page": 92,
+   "actual_last_page": 95,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 69,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.6 场地相关机制",
+   "start_physical_page": 95,
+   "start_y": 426.18,
+   "start_bbox": [
+    56.64,
+    426.18,
+    203.72,
+    477.66
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 95,
+   "dest_y": 423.92,
+   "section_id": 73,
+   "start_printed_page": 94,
+   "dest_printed_page": 94,
+   "section_no": "5.6",
+   "name": "场地相关机制",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制"
+   ],
+   "end_physical_page": 95,
+   "end_y": 468.75,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 11,
+   "pages_with_content": [
+    95
+   ],
+   "actual_first_page": 95,
+   "actual_last_page": 95,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 70,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.6.1 基地及前哨站机制",
+   "start_physical_page": 95,
+   "start_y": 468.75,
+   "start_bbox": [
+    56.64,
+    468.75,
+    235.0,
+    514.4
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 95,
+   "dest_y": 475.92,
+   "section_id": 74,
+   "start_printed_page": 94,
+   "dest_printed_page": 94,
+   "section_no": "5.6.1",
+   "name": "基地及前哨站机制",
+   "parent_id": 73,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.1 基地及前哨站机制"
+   ],
+   "end_physical_page": 97,
+   "end_y": 181.11,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 42,
+   "text_block_count": 38,
+   "image_block_count": 4,
+   "char_count": 885,
+   "pages_with_content": [
+    95,
+    96,
+    97
+   ],
+   "actual_first_page": 95,
+   "actual_last_page": 97,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 71,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.6.2 战场控制机制",
+   "start_physical_page": 97,
+   "start_y": 181.11,
+   "start_bbox": [
+    56.64,
+    181.11,
+    202.12,
+    226.76
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 97,
+   "dest_y": 179.92,
+   "section_id": 75,
+   "start_printed_page": 96,
+   "dest_printed_page": 96,
+   "section_no": "5.6.2",
+   "name": "战场控制机制",
+   "parent_id": 73,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.2 战场控制机制"
+   ],
+   "end_physical_page": 98,
+   "end_y": 113.55,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 36,
+   "text_block_count": 36,
+   "image_block_count": 0,
+   "char_count": 583,
+   "pages_with_content": [
+    97,
+    98
+   ],
+   "actual_first_page": 97,
+   "actual_last_page": 98,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 72,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.6.3 能量机关机制",
+   "start_physical_page": 98,
+   "start_y": 113.55,
+   "start_bbox": [
+    56.64,
+    113.55,
+    202.12,
+    159.2
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 98,
+   "dest_y": 115.92,
+   "section_id": 76,
+   "start_printed_page": 97,
+   "dest_printed_page": 97,
+   "section_no": "5.6.3",
+   "name": "能量机关机制",
+   "parent_id": 73,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.3 能量机关机制"
+   ],
+   "end_physical_page": 100,
+   "end_y": 424.65,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 63,
+   "text_block_count": 61,
+   "image_block_count": 2,
+   "char_count": 1679,
+   "pages_with_content": [
+    98,
+    99,
+    100
+   ],
+   "actual_first_page": 98,
+   "actual_last_page": 100,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 73,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.3.1 能量机关的状态",
+   "start_physical_page": 100,
+   "start_y": 424.65,
+   "start_bbox": [
+    56.64,
+    424.65,
+    222.15,
+    467.55
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 100,
+   "dest_y": 424.92,
+   "section_id": 77,
+   "start_printed_page": 99,
+   "dest_printed_page": 99,
+   "section_no": "5.6.3.1",
+   "name": "能量机关的状态",
+   "parent_id": 76,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.3 能量机关机制",
+    "5.6.3.1 能量机关的状态"
+   ],
+   "end_physical_page": 103,
+   "end_y": 63.27,
+   "page_span": 4,
+   "spans_multiple_pages": true,
+   "block_count": 48,
+   "text_block_count": 36,
+   "image_block_count": 12,
+   "char_count": 874,
+   "pages_with_content": [
+    100,
+    101,
+    102
+   ],
+   "actual_first_page": 100,
+   "actual_last_page": 102,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 74,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.6.4 场地增益机制",
+   "start_physical_page": 103,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    202.12,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 103,
+   "dest_y": 69.92,
+   "section_id": 78,
+   "start_printed_page": 102,
+   "dest_printed_page": 102,
+   "section_no": "5.6.4",
+   "name": "场地增益机制",
+   "parent_id": 73,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制"
+   ],
+   "end_physical_page": 103,
+   "end_y": 99.57,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 13,
+   "pages_with_content": [
+    103
+   ],
+   "actual_first_page": 103,
+   "actual_last_page": 103,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 75,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.1 场地增益点概述",
+   "start_physical_page": 103,
+   "start_y": 99.57,
+   "start_bbox": [
+    56.64,
+    99.57,
+    222.15,
+    142.47
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 103,
+   "dest_y": 105.92,
+   "section_id": 79,
+   "start_printed_page": 102,
+   "dest_printed_page": 102,
+   "section_no": "5.6.4.1",
+   "name": "场地增益点概述",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.1 场地增益点概述"
+   ],
+   "end_physical_page": 106,
+   "end_y": 289.89,
+   "page_span": 4,
+   "spans_multiple_pages": true,
+   "block_count": 104,
+   "text_block_count": 101,
+   "image_block_count": 3,
+   "char_count": 1584,
+   "pages_with_content": [
+    103,
+    104,
+    105,
+    106
+   ],
+   "actual_first_page": 103,
+   "actual_last_page": 106,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 76,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.2 基地增益点机制",
+   "start_physical_page": 106,
+   "start_y": 289.89,
+   "start_bbox": [
+    56.64,
+    289.89,
+    222.15,
+    332.79
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 106,
+   "dest_y": 296.92,
+   "section_id": 80,
+   "start_printed_page": 105,
+   "dest_printed_page": 105,
+   "section_no": "5.6.4.2",
+   "name": "基地增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.2 基地增益点机制"
+   ],
+   "end_physical_page": 106,
+   "end_y": 394.77,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 4,
+   "text_block_count": 4,
+   "image_block_count": 0,
+   "char_count": 132,
+   "pages_with_content": [
+    106
+   ],
+   "actual_first_page": 106,
+   "actual_last_page": 106,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 77,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.3 制高点增益点机制",
+   "start_physical_page": 106,
+   "start_y": 394.77,
+   "start_bbox": [
+    56.64,
+    394.77,
+    237.51,
+    437.67
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 106,
+   "dest_y": 401.92,
+   "section_id": 81,
+   "start_printed_page": 105,
+   "dest_printed_page": 105,
+   "section_no": "5.6.4.3",
+   "name": "制高点增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.3 制高点增益点机制"
+   ],
+   "end_physical_page": 106,
+   "end_y": 499.65,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 4,
+   "text_block_count": 4,
+   "image_block_count": 0,
+   "char_count": 112,
+   "pages_with_content": [
+    106
+   ],
+   "actual_first_page": 106,
+   "actual_last_page": 106,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 78,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.4 中央高地增益点机制",
+   "start_physical_page": 106,
+   "start_y": 499.65,
+   "start_bbox": [
+    56.64,
+    499.65,
+    252.99,
+    542.55
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 106,
+   "dest_y": 505.92,
+   "section_id": 82,
+   "start_printed_page": 105,
+   "dest_printed_page": 105,
+   "section_no": "5.6.4.4",
+   "name": "中央高地增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.4 中央高地增益点机制"
+   ],
+   "end_physical_page": 106,
+   "end_y": 624.21,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 5,
+   "text_block_count": 5,
+   "image_block_count": 0,
+   "char_count": 171,
+   "pages_with_content": [
+    106
+   ],
+   "actual_first_page": 106,
+   "actual_last_page": 106,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 79,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.5 地形跨越增益点机制",
+   "start_physical_page": 106,
+   "start_y": 624.21,
+   "start_bbox": [
+    56.64,
+    624.21,
+    252.99,
+    667.11
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 106,
+   "dest_y": 630.92,
+   "section_id": 83,
+   "start_printed_page": 105,
+   "dest_printed_page": 105,
+   "section_no": "5.6.4.5",
+   "name": "地形跨越增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.5 地形跨越增益点机制"
+   ],
+   "end_physical_page": 107,
+   "end_y": 557.13,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 32,
+   "text_block_count": 32,
+   "image_block_count": 0,
+   "char_count": 774,
+   "pages_with_content": [
+    106,
+    107
+   ],
+   "actual_first_page": 106,
+   "actual_last_page": 107,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 80,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.6 前哨站增益点机制",
+   "start_physical_page": 107,
+   "start_y": 557.13,
+   "start_bbox": [
+    56.64,
+    557.13,
+    237.51,
+    600.03
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 107,
+   "dest_y": 563.92,
+   "section_id": 84,
+   "start_printed_page": 106,
+   "dest_printed_page": 106,
+   "section_no": "5.6.4.6",
+   "name": "前哨站增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.6 前哨站增益点机制"
+   ],
+   "end_physical_page": 107,
+   "end_y": 662.01,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 4,
+   "text_block_count": 4,
+   "image_block_count": 0,
+   "char_count": 129,
+   "pages_with_content": [
+    107
+   ],
+   "actual_first_page": 107,
+   "actual_last_page": 107,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 81,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.7 装配区增益点机制",
+   "start_physical_page": 107,
+   "start_y": 662.01,
+   "start_bbox": [
+    56.64,
+    662.01,
+    237.51,
+    704.91
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 107,
+   "dest_y": 668.92,
+   "section_id": 85,
+   "start_printed_page": 106,
+   "dest_printed_page": 106,
+   "section_no": "5.6.4.7",
+   "name": "装配区增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.7 装配区增益点机制"
+   ],
+   "end_physical_page": 108,
+   "end_y": 63.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 4,
+   "text_block_count": 4,
+   "image_block_count": 0,
+   "char_count": 131,
+   "pages_with_content": [
+    107
+   ],
+   "actual_first_page": 107,
+   "actual_last_page": 107,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 82,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.8 补给区增益点机制",
+   "start_physical_page": 108,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    237.51,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 108,
+   "dest_y": 69.92,
+   "section_id": 86,
+   "start_printed_page": 107,
+   "dest_printed_page": 107,
+   "section_no": "5.6.4.8",
+   "name": "补给区增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.8 补给区增益点机制"
+   ],
+   "end_physical_page": 108,
+   "end_y": 194.13,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 5,
+   "text_block_count": 5,
+   "image_block_count": 0,
+   "char_count": 152,
+   "pages_with_content": [
+    108
+   ],
+   "actual_first_page": 108,
+   "actual_last_page": 108,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 83,
+   "region_type": "section",
+   "level": 4,
+   "title": "5.6.4.9 堡垒增益点机制",
+   "start_physical_page": 108,
+   "start_y": 194.13,
+   "start_bbox": [
+    56.64,
+    194.13,
+    222.15,
+    237.03
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 108,
+   "dest_y": 200.92,
+   "section_id": 87,
+   "start_printed_page": 107,
+   "dest_printed_page": 107,
+   "section_no": "5.6.4.9",
+   "name": "堡垒增益点机制",
+   "parent_id": 78,
+   "path": [
+    "5 比赛机制",
+    "5.6 场地相关机制",
+    "5.6.4 场地增益机制",
+    "5.6.4.9 堡垒增益点机制"
+   ],
+   "end_physical_page": 109,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 26,
+   "text_block_count": 26,
+   "image_block_count": 0,
+   "char_count": 737,
+   "pages_with_content": [
+    108
+   ],
+   "actual_first_page": 108,
+   "actual_last_page": 108,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 84,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.7 机器人特殊机制",
+   "start_physical_page": 109,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    222.2,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 109,
+   "dest_y": 69.92,
+   "section_id": 88,
+   "start_printed_page": 108,
+   "dest_printed_page": 108,
+   "section_no": "5.7",
+   "name": "机器人特殊机制",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.7 机器人特殊机制"
+   ],
+   "end_physical_page": 109,
+   "end_y": 104.91,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 12,
+   "pages_with_content": [
+    109
+   ],
+   "actual_first_page": 109,
+   "actual_last_page": 109,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 85,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.7.1 重装机器人特殊机制",
+   "start_physical_page": 109,
+   "start_y": 104.91,
+   "start_bbox": [
+    56.64,
+    104.91,
+    251.44,
+    150.56
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 109,
+   "dest_y": 111.92,
+   "section_id": 89,
+   "start_printed_page": 108,
+   "dest_printed_page": 108,
+   "section_no": "5.7.1",
+   "name": "重装机器人特殊机制",
+   "parent_id": 88,
+   "path": [
+    "5 比赛机制",
+    "5.7 机器人特殊机制",
+    "5.7.1 重装机器人特殊机制"
+   ],
+   "end_physical_page": 109,
+   "end_y": 519.27,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 20,
+   "text_block_count": 19,
+   "image_block_count": 1,
+   "char_count": 470,
+   "pages_with_content": [
+    109
+   ],
+   "actual_first_page": 109,
+   "actual_last_page": 109,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 86,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.7.2 哨兵机器人特殊机制",
+   "start_physical_page": 109,
+   "start_y": 519.27,
+   "start_bbox": [
+    56.64,
+    519.27,
+    251.44,
+    564.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 109,
+   "dest_y": 523.92,
+   "section_id": 90,
+   "start_printed_page": 108,
+   "dest_printed_page": 108,
+   "section_no": "5.7.2",
+   "name": "哨兵机器人特殊机制",
+   "parent_id": 88,
+   "path": [
+    "5 比赛机制",
+    "5.7 机器人特殊机制",
+    "5.7.2 哨兵机器人特殊机制"
+   ],
+   "end_physical_page": 111,
+   "end_y": 167.31,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 79,
+   "text_block_count": 78,
+   "image_block_count": 1,
+   "char_count": 1251,
+   "pages_with_content": [
+    109,
+    110,
+    111
+   ],
+   "actual_first_page": 109,
+   "actual_last_page": 111,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 87,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.7.3 飞镖系统特殊机制",
+   "start_physical_page": 111,
+   "start_y": 167.31,
+   "start_bbox": [
+    56.64,
+    167.31,
+    235.0,
+    212.96
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 111,
+   "dest_y": 165.92,
+   "section_id": 91,
+   "start_printed_page": 110,
+   "dest_printed_page": 110,
+   "section_no": "5.7.3",
+   "name": "飞镖系统特殊机制",
+   "parent_id": 88,
+   "path": [
+    "5 比赛机制",
+    "5.7 机器人特殊机制",
+    "5.7.3 飞镖系统特殊机制"
+   ],
+   "end_physical_page": 113,
+   "end_y": 63.27,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 58,
+   "text_block_count": 56,
+   "image_block_count": 2,
+   "char_count": 1995,
+   "pages_with_content": [
+    111,
+    112
+   ],
+   "actual_first_page": 111,
+   "actual_last_page": 112,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 88,
+   "region_type": "section",
+   "level": 3,
+   "title": "5.7.4 雷达系统特殊机制",
+   "start_physical_page": 113,
+   "start_y": 63.27,
+   "start_bbox": [
+    56.64,
+    63.27,
+    235.0,
+    108.92
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 113,
+   "dest_y": 69.92,
+   "section_id": 92,
+   "start_printed_page": 112,
+   "dest_printed_page": 112,
+   "section_no": "5.7.4",
+   "name": "雷达系统特殊机制",
+   "parent_id": 88,
+   "path": [
+    "5 比赛机制",
+    "5.7 机器人特殊机制",
+    "5.7.4 雷达系统特殊机制"
+   ],
+   "end_physical_page": 115,
+   "end_y": 503.1,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 84,
+   "text_block_count": 81,
+   "image_block_count": 3,
+   "char_count": 2023,
+   "pages_with_content": [
+    113,
+    114,
+    115
+   ],
+   "actual_first_page": 113,
+   "actual_last_page": 115,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 89,
+   "region_type": "section",
+   "level": 2,
+   "title": "5.8 赛制及获胜条件",
+   "start_physical_page": 115,
+   "start_y": 503.1,
+   "start_bbox": [
+    56.64,
+    503.1,
+    222.2,
+    554.58
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 115,
+   "dest_y": 506.92,
+   "section_id": 93,
+   "start_printed_page": 114,
+   "dest_printed_page": 114,
+   "section_no": "5.8",
+   "name": "赛制及获胜条件",
+   "parent_id": 50,
+   "path": [
+    "5 比赛机制",
+    "5.8 赛制及获胜条件"
+   ],
+   "end_physical_page": 117,
+   "end_y": 60.69,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 11,
+   "text_block_count": 11,
+   "image_block_count": 0,
+   "char_count": 331,
+   "pages_with_content": [
+    115,
+    116
+   ],
+   "actual_first_page": 115,
+   "actual_last_page": 116,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 90,
+   "region_type": "section",
+   "level": 1,
+   "title": "6 比赛流程",
+   "start_physical_page": 117,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    171.15,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 117,
+   "dest_y": 69.92,
+   "section_id": 94,
+   "start_printed_page": 116,
+   "dest_printed_page": 116,
+   "section_no": "6",
+   "name": "比赛流程",
+   "parent_id": null,
+   "path": [
+    "6 比赛流程"
+   ],
+   "end_physical_page": 118,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 26,
+   "text_block_count": 26,
+   "image_block_count": 0,
+   "char_count": 383,
+   "pages_with_content": [
+    117
+   ],
+   "actual_first_page": 117,
+   "actual_last_page": 117,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 91,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.1 赛前检录",
+   "start_physical_page": 118,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    166.76,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 118,
+   "dest_y": 69.92,
+   "section_id": 95,
+   "start_printed_page": 117,
+   "dest_printed_page": 117,
+   "section_no": "6.1",
+   "name": "赛前检录",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.1 赛前检录"
+   ],
+   "end_physical_page": 119,
+   "end_y": 117.54,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 28,
+   "text_block_count": 26,
+   "image_block_count": 2,
+   "char_count": 1024,
+   "pages_with_content": [
+    118,
+    119
+   ],
+   "actual_first_page": 118,
+   "actual_last_page": 119,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 92,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.2 候场",
+   "start_physical_page": 119,
+   "start_y": 117.54,
+   "start_bbox": [
+    56.64,
+    117.54,
+    129.8,
+    169.02
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 119,
+   "dest_y": 121.92,
+   "section_id": 96,
+   "start_printed_page": 118,
+   "dest_printed_page": 118,
+   "section_no": "6.2",
+   "name": "候场",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.2 候场"
+   ],
+   "end_physical_page": 119,
+   "end_y": 498.9,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 16,
+   "text_block_count": 15,
+   "image_block_count": 1,
+   "char_count": 408,
+   "pages_with_content": [
+    119
+   ],
+   "actual_first_page": 119,
+   "actual_last_page": 119,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 93,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.3 三分钟准备阶段",
+   "start_physical_page": 119,
+   "start_y": 498.9,
+   "start_bbox": [
+    56.64,
+    498.9,
+    222.2,
+    550.38
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 119,
+   "dest_y": 502.92,
+   "section_id": 97,
+   "start_printed_page": 118,
+   "dest_printed_page": 118,
+   "section_no": "6.3",
+   "name": "三分钟准备阶段",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.3 三分钟准备阶段"
+   ],
+   "end_physical_page": 121,
+   "end_y": 195.03,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 31,
+   "text_block_count": 28,
+   "image_block_count": 3,
+   "char_count": 1025,
+   "pages_with_content": [
+    119,
+    120,
+    121
+   ],
+   "actual_first_page": 119,
+   "actual_last_page": 121,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 94,
+   "region_type": "section",
+   "level": 3,
+   "title": "6.3.1 官方技术暂停",
+   "start_physical_page": 121,
+   "start_y": 195.03,
+   "start_bbox": [
+    56.64,
+    195.03,
+    202.12,
+    240.68
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 121,
+   "dest_y": 199.92,
+   "section_id": 98,
+   "start_printed_page": 120,
+   "dest_printed_page": 120,
+   "section_no": "6.3.1",
+   "name": "官方技术暂停",
+   "parent_id": 97,
+   "path": [
+    "6 比赛流程",
+    "6.3 三分钟准备阶段",
+    "6.3.1 官方技术暂停"
+   ],
+   "end_physical_page": 121,
+   "end_y": 682.11,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 19,
+   "text_block_count": 19,
+   "image_block_count": 0,
+   "char_count": 626,
+   "pages_with_content": [
+    121
+   ],
+   "actual_first_page": 121,
+   "actual_last_page": 121,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 95,
+   "region_type": "section",
+   "level": 3,
+   "title": "6.3.2 参赛队伍技术暂停",
+   "start_physical_page": 121,
+   "start_y": 682.11,
+   "start_bbox": [
+    56.64,
+    682.11,
+    235.0,
+    727.76
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 121,
+   "dest_y": 686.92,
+   "section_id": 99,
+   "start_printed_page": 120,
+   "dest_printed_page": 120,
+   "section_no": "6.3.2",
+   "name": "参赛队伍技术暂停",
+   "parent_id": 97,
+   "path": [
+    "6 比赛流程",
+    "6.3 三分钟准备阶段",
+    "6.3.2 参赛队伍技术暂停"
+   ],
+   "end_physical_page": 122,
+   "end_y": 398.34,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 17,
+   "text_block_count": 17,
+   "image_block_count": 0,
+   "char_count": 498,
+   "pages_with_content": [
+    121,
+    122
+   ],
+   "actual_first_page": 121,
+   "actual_last_page": 122,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 96,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.4 十五秒裁判系统自检阶段",
+   "start_physical_page": 122,
+   "start_y": 398.34,
+   "start_bbox": [
+    56.64,
+    398.34,
+    296.12,
+    449.82
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 122,
+   "dest_y": 395.92,
+   "section_id": 100,
+   "start_printed_page": 121,
+   "dest_printed_page": 121,
+   "section_no": "6.4",
+   "name": "十五秒裁判系统自检阶段",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.4 十五秒裁判系统自检阶段"
+   ],
+   "end_physical_page": 122,
+   "end_y": 508.86,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 4,
+   "text_block_count": 4,
+   "image_block_count": 0,
+   "char_count": 123,
+   "pages_with_content": [
+    122
+   ],
+   "actual_first_page": 122,
+   "actual_last_page": 122,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 97,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.5 五秒裁判系统自检阶段",
+   "start_physical_page": 122,
+   "start_y": 508.86,
+   "start_bbox": [
+    56.64,
+    508.86,
+    277.64,
+    560.34
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 122,
+   "dest_y": 512.92,
+   "section_id": 101,
+   "start_printed_page": 121,
+   "dest_printed_page": 121,
+   "section_no": "6.5",
+   "name": "五秒裁判系统自检阶段",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.5 五秒裁判系统自检阶段"
+   ],
+   "end_physical_page": 122,
+   "end_y": 599.82,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 104,
+   "pages_with_content": [
+    122
+   ],
+   "actual_first_page": 122,
+   "actual_last_page": 122,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 98,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.6 七分钟比赛阶段",
+   "start_physical_page": 122,
+   "start_y": 599.82,
+   "start_bbox": [
+    56.64,
+    599.82,
+    222.2,
+    651.3
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 122,
+   "dest_y": 603.92,
+   "section_id": 102,
+   "start_printed_page": 121,
+   "dest_printed_page": 121,
+   "section_no": "6.6",
+   "name": "七分钟比赛阶段",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.6 七分钟比赛阶段"
+   ],
+   "end_physical_page": 122,
+   "end_y": 671.1,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 2,
+   "text_block_count": 2,
+   "image_block_count": 0,
+   "char_count": 48,
+   "pages_with_content": [
+    122
+   ],
+   "actual_first_page": 122,
+   "actual_last_page": 122,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 99,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.7 比赛结束",
+   "start_physical_page": 122,
+   "start_y": 671.1,
+   "start_bbox": [
+    56.64,
+    671.1,
+    166.76,
+    722.58
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 122,
+   "dest_y": 674.92,
+   "section_id": 103,
+   "start_printed_page": 121,
+   "dest_printed_page": 121,
+   "section_no": "6.7",
+   "name": "比赛结束",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.7 比赛结束"
+   ],
+   "end_physical_page": 123,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 85,
+   "pages_with_content": [
+    122
+   ],
+   "actual_first_page": 122,
+   "actual_last_page": 122,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 100,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.8 成绩确认",
+   "start_physical_page": 123,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    166.76,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 123,
+   "dest_y": 69.92,
+   "section_id": 104,
+   "start_printed_page": 122,
+   "dest_printed_page": 122,
+   "section_no": "6.8",
+   "name": "成绩确认",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.8 成绩确认"
+   ],
+   "end_physical_page": 123,
+   "end_y": 198.42,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 5,
+   "text_block_count": 5,
+   "image_block_count": 0,
+   "char_count": 135,
+   "pages_with_content": [
+    123
+   ],
+   "actual_first_page": 123,
+   "actual_last_page": 123,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 101,
+   "region_type": "section",
+   "level": 2,
+   "title": "6.9 退场",
+   "start_physical_page": 123,
+   "start_y": 198.42,
+   "start_bbox": [
+    56.64,
+    198.42,
+    129.8,
+    249.9
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 123,
+   "dest_y": 201.92,
+   "section_id": 105,
+   "start_printed_page": 122,
+   "dest_printed_page": 122,
+   "section_no": "6.9",
+   "name": "退场",
+   "parent_id": 94,
+   "path": [
+    "6 比赛流程",
+    "6.9 退场"
+   ],
+   "end_physical_page": 124,
+   "end_y": 60.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 3,
+   "text_block_count": 3,
+   "image_block_count": 0,
+   "char_count": 96,
+   "pages_with_content": [
+    123
+   ],
+   "actual_first_page": 123,
+   "actual_last_page": 123,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 102,
+   "region_type": "section",
+   "level": 1,
+   "title": "7 违规与判罚",
+   "start_physical_page": 124,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    193.71,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 124,
+   "dest_y": 69.92,
+   "section_id": 106,
+   "start_printed_page": 123,
+   "dest_printed_page": 123,
+   "section_no": "7",
+   "name": "违规与判罚",
+   "parent_id": null,
+   "path": [
+    "7 违规与判罚"
+   ],
+   "end_physical_page": 124,
+   "end_y": 278.1,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 8,
+   "text_block_count": 7,
+   "image_block_count": 1,
+   "char_count": 233,
+   "pages_with_content": [
+    124
+   ],
+   "actual_first_page": 124,
+   "actual_last_page": 124,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 103,
+   "region_type": "section",
+   "level": 2,
+   "title": "7.1 判罚体系",
+   "start_physical_page": 124,
+   "start_y": 278.1,
+   "start_bbox": [
+    56.64,
+    278.1,
+    166.76,
+    329.58
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 124,
+   "dest_y": 275.92,
+   "section_id": 107,
+   "start_printed_page": 123,
+   "dest_printed_page": 123,
+   "section_no": "7.1",
+   "name": "判罚体系",
+   "parent_id": 106,
+   "path": [
+    "7 违规与判罚",
+    "7.1 判罚体系"
+   ],
+   "end_physical_page": 124,
+   "end_y": 320.67,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 9,
+   "pages_with_content": [
+    124
+   ],
+   "actual_first_page": 124,
+   "actual_last_page": 124,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 104,
+   "region_type": "section",
+   "level": 3,
+   "title": "7.1.1 判罚方式",
+   "start_physical_page": 124,
+   "start_y": 320.67,
+   "start_bbox": [
+    56.64,
+    320.67,
+    169.24,
+    366.32
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 124,
+   "dest_y": 327.92,
+   "section_id": 108,
+   "start_printed_page": 123,
+   "dest_printed_page": 123,
+   "section_no": "7.1.1",
+   "name": "判罚方式",
+   "parent_id": 107,
+   "path": [
+    "7 违规与判罚",
+    "7.1 判罚体系",
+    "7.1.1 判罚方式"
+   ],
+   "end_physical_page": 124,
+   "end_y": 561.51,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 9,
+   "text_block_count": 9,
+   "image_block_count": 0,
+   "char_count": 198,
+   "pages_with_content": [
+    124
+   ],
+   "actual_first_page": 124,
+   "actual_last_page": 124,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 105,
+   "region_type": "section",
+   "level": 3,
+   "title": "7.1.2 判罚类型",
+   "start_physical_page": 124,
+   "start_y": 561.51,
+   "start_bbox": [
+    56.64,
+    561.51,
+    169.24,
+    607.16
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 124,
+   "dest_y": 560.92,
+   "section_id": 109,
+   "start_printed_page": 123,
+   "dest_printed_page": 123,
+   "section_no": "7.1.2",
+   "name": "判罚类型",
+   "parent_id": 107,
+   "path": [
+    "7 违规与判罚",
+    "7.1 判罚体系",
+    "7.1.2 判罚类型"
+   ],
+   "end_physical_page": 127,
+   "end_y": 182.22,
+   "page_span": 4,
+   "spans_multiple_pages": true,
+   "block_count": 75,
+   "text_block_count": 74,
+   "image_block_count": 1,
+   "char_count": 1624,
+   "pages_with_content": [
+    124,
+    125,
+    126,
+    127
+   ],
+   "actual_first_page": 124,
+   "actual_last_page": 127,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 106,
+   "region_type": "section",
+   "level": 2,
+   "title": "7.2 判罚细则",
+   "start_physical_page": 127,
+   "start_y": 182.22,
+   "start_bbox": [
+    56.64,
+    182.22,
+    166.76,
+    233.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 127,
+   "dest_y": 179.92,
+   "section_id": 110,
+   "start_printed_page": 126,
+   "dest_printed_page": 126,
+   "section_no": "7.2",
+   "name": "判罚细则",
+   "parent_id": 106,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则"
+   ],
+   "end_physical_page": 127,
+   "end_y": 252.51,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 2,
+   "text_block_count": 2,
+   "image_block_count": 0,
+   "char_count": 55,
+   "pages_with_content": [
+    127
+   ],
+   "actual_first_page": 127,
+   "actual_last_page": 127,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 107,
+   "region_type": "section",
+   "level": 3,
+   "title": "7.2.1 人员",
+   "start_physical_page": 127,
+   "start_y": 252.51,
+   "start_bbox": [
+    56.64,
+    252.51,
+    136.36,
+    298.16
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 127,
+   "dest_y": 257.92,
+   "section_id": 111,
+   "start_printed_page": 126,
+   "dest_printed_page": 126,
+   "section_no": "7.2.1",
+   "name": "人员",
+   "parent_id": 110,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.1 人员"
+   ],
+   "end_physical_page": 127,
+   "end_y": 288.81,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 9,
+   "pages_with_content": [
+    127
+   ],
+   "actual_first_page": 127,
+   "actual_last_page": 127,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 108,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.1.1 通用规范",
+   "start_physical_page": 127,
+   "start_y": 288.81,
+   "start_bbox": [
+    56.64,
+    288.81,
+    175.95,
+    331.71
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 127,
+   "dest_y": 295.92,
+   "section_id": 112,
+   "start_printed_page": 126,
+   "dest_printed_page": 126,
+   "section_no": "7.2.1.1",
+   "name": "通用规范",
+   "parent_id": 111,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.1 人员",
+    "7.2.1.1 通用规范"
+   ],
+   "end_physical_page": 129,
+   "end_y": 63.69,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 45,
+   "text_block_count": 45,
+   "image_block_count": 0,
+   "char_count": 1316,
+   "pages_with_content": [
+    127,
+    128
+   ],
+   "actual_first_page": 127,
+   "actual_last_page": 128,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 109,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.1.2 战场规范",
+   "start_physical_page": 129,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    175.95,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 129,
+   "dest_y": 69.92,
+   "section_id": 113,
+   "start_printed_page": 128,
+   "dest_printed_page": 128,
+   "section_no": "7.2.1.2",
+   "name": "战场规范",
+   "parent_id": 111,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.1 人员",
+    "7.2.1.2 战场规范"
+   ],
+   "end_physical_page": 129,
+   "end_y": 517.29,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 18,
+   "text_block_count": 18,
+   "image_block_count": 0,
+   "char_count": 562,
+   "pages_with_content": [
+    129
+   ],
+   "actual_first_page": 129,
+   "actual_last_page": 129,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 110,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.1.3 操作间规范",
+   "start_physical_page": 129,
+   "start_y": 517.29,
+   "start_bbox": [
+    56.64,
+    517.29,
+    191.31,
+    560.19
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 129,
+   "dest_y": 523.92,
+   "section_id": 114,
+   "start_printed_page": 128,
+   "dest_printed_page": 128,
+   "section_no": "7.2.1.3",
+   "name": "操作间规范",
+   "parent_id": 111,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.1 人员",
+    "7.2.1.3 操作间规范"
+   ],
+   "end_physical_page": 130,
+   "end_y": 358.47,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 21,
+   "text_block_count": 21,
+   "image_block_count": 0,
+   "char_count": 681,
+   "pages_with_content": [
+    129,
+    130
+   ],
+   "actual_first_page": 129,
+   "actual_last_page": 130,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 111,
+   "region_type": "section",
+   "level": 3,
+   "title": "7.2.2 机器人",
+   "start_physical_page": 130,
+   "start_y": 358.47,
+   "start_bbox": [
+    56.64,
+    358.47,
+    152.8,
+    404.12
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 130,
+   "dest_y": 363.92,
+   "section_id": 115,
+   "start_printed_page": 129,
+   "dest_printed_page": 129,
+   "section_no": "7.2.2",
+   "name": "机器人",
+   "parent_id": 110,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.2 机器人"
+   ],
+   "end_physical_page": 130,
+   "end_y": 394.77,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 10,
+   "pages_with_content": [
+    130
+   ],
+   "actual_first_page": 130,
+   "actual_last_page": 130,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 112,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.2.1 通用规范",
+   "start_physical_page": 130,
+   "start_y": 394.77,
+   "start_bbox": [
+    56.64,
+    394.77,
+    175.95,
+    437.67
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 130,
+   "dest_y": 401.92,
+   "section_id": 116,
+   "start_printed_page": 129,
+   "dest_printed_page": 129,
+   "section_no": "7.2.2.1",
+   "name": "通用规范",
+   "parent_id": 115,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.2 机器人",
+    "7.2.2.1 通用规范"
+   ],
+   "end_physical_page": 131,
+   "end_y": 523.89,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 33,
+   "text_block_count": 32,
+   "image_block_count": 1,
+   "char_count": 882,
+   "pages_with_content": [
+    130,
+    131
+   ],
+   "actual_first_page": 130,
+   "actual_last_page": 131,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 113,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.2.2 地面机器人",
+   "start_physical_page": 131,
+   "start_y": 523.89,
+   "start_bbox": [
+    56.64,
+    523.89,
+    191.31,
+    566.79
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 131,
+   "dest_y": 530.92,
+   "section_id": 117,
+   "start_printed_page": 130,
+   "dest_printed_page": 130,
+   "section_no": "7.2.2.2",
+   "name": "地面机器人",
+   "parent_id": 115,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.2 机器人",
+    "7.2.2.2 地面机器人"
+   ],
+   "end_physical_page": 132,
+   "end_y": 160.17,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 14,
+   "text_block_count": 13,
+   "image_block_count": 1,
+   "char_count": 417,
+   "pages_with_content": [
+    131,
+    132
+   ],
+   "actual_first_page": 131,
+   "actual_last_page": 132,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 114,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.2.3 组合系统",
+   "start_physical_page": 132,
+   "start_y": 160.17,
+   "start_bbox": [
+    56.64,
+    160.17,
+    175.95,
+    203.07
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 132,
+   "dest_y": 166.92,
+   "section_id": 118,
+   "start_printed_page": 131,
+   "dest_printed_page": 131,
+   "section_no": "7.2.2.3",
+   "name": "组合系统",
+   "parent_id": 115,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.2 机器人",
+    "7.2.2.3 组合系统"
+   ],
+   "end_physical_page": 132,
+   "end_y": 535.83,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 16,
+   "text_block_count": 14,
+   "image_block_count": 2,
+   "char_count": 458,
+   "pages_with_content": [
+    132
+   ],
+   "actual_first_page": 132,
+   "actual_last_page": 132,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 115,
+   "region_type": "section",
+   "level": 3,
+   "title": "7.2.3 交互",
+   "start_physical_page": 132,
+   "start_y": 535.83,
+   "start_bbox": [
+    56.64,
+    535.83,
+    136.36,
+    581.48
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.96,
+   "expected_level_size": 16.0,
+   "dest_physical_page": 132,
+   "dest_y": 540.92,
+   "section_id": 119,
+   "start_printed_page": 131,
+   "dest_printed_page": 131,
+   "section_no": "7.2.3",
+   "name": "交互",
+   "parent_id": 110,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.3 交互"
+   ],
+   "end_physical_page": 132,
+   "end_y": 572.13,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 1,
+   "text_block_count": 1,
+   "image_block_count": 0,
+   "char_count": 9,
+   "pages_with_content": [
+    132
+   ],
+   "actual_first_page": 132,
+   "actual_last_page": 132,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 116,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.3.1 机器人交互",
+   "start_physical_page": 132,
+   "start_y": 572.13,
+   "start_bbox": [
+    56.64,
+    572.13,
+    191.31,
+    615.03
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 132,
+   "dest_y": 578.92,
+   "section_id": 120,
+   "start_printed_page": 131,
+   "dest_printed_page": 131,
+   "section_no": "7.2.3.1",
+   "name": "机器人交互",
+   "parent_id": 119,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.3 交互",
+    "7.2.3.1 机器人交互"
+   ],
+   "end_physical_page": 134,
+   "end_y": 63.69,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 27,
+   "text_block_count": 27,
+   "image_block_count": 0,
+   "char_count": 687,
+   "pages_with_content": [
+    132,
+    133
+   ],
+   "actual_first_page": 132,
+   "actual_last_page": 133,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 117,
+   "region_type": "section",
+   "level": 4,
+   "title": "7.2.3.2 机器人与场地道具交互",
+   "start_physical_page": 134,
+   "start_y": 63.69,
+   "start_bbox": [
+    56.64,
+    63.69,
+    268.35,
+    106.59
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 15.0,
+   "expected_level_size": 15.0,
+   "dest_physical_page": 134,
+   "dest_y": 69.92,
+   "section_id": 121,
+   "start_printed_page": 133,
+   "dest_printed_page": 133,
+   "section_no": "7.2.3.2",
+   "name": "机器人与场地道具交互",
+   "parent_id": 119,
+   "path": [
+    "7 违规与判罚",
+    "7.2 判罚细则",
+    "7.2.3 交互",
+    "7.2.3.2 机器人与场地道具交互"
+   ],
+   "end_physical_page": 135,
+   "end_y": 686.1,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 41,
+   "text_block_count": 39,
+   "image_block_count": 2,
+   "char_count": 1089,
+   "pages_with_content": [
+    134,
+    135
+   ],
+   "actual_first_page": 134,
+   "actual_last_page": 135,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 118,
+   "region_type": "section",
+   "level": 2,
+   "title": "7.3 严重违规",
+   "start_physical_page": 135,
+   "start_y": 686.1,
+   "start_bbox": [
+    56.64,
+    686.1,
+    166.76,
+    737.58
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 135,
+   "dest_y": 689.92,
+   "section_id": 122,
+   "start_printed_page": 134,
+   "dest_printed_page": 134,
+   "section_no": "7.3",
+   "name": "严重违规",
+   "parent_id": 106,
+   "path": [
+    "7 违规与判罚",
+    "7.3 严重违规"
+   ],
+   "end_physical_page": 137,
+   "end_y": 60.69,
+   "page_span": 3,
+   "spans_multiple_pages": true,
+   "block_count": 19,
+   "text_block_count": 19,
+   "image_block_count": 0,
+   "char_count": 518,
+   "pages_with_content": [
+    135,
+    136
+   ],
+   "actual_first_page": 135,
+   "actual_last_page": 136,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 119,
+   "region_type": "section",
+   "level": 1,
+   "title": "8 异常情况",
+   "start_physical_page": 137,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    171.15,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 137,
+   "dest_y": 69.92,
+   "section_id": 123,
+   "start_printed_page": 136,
+   "dest_printed_page": 136,
+   "section_no": "8",
+   "name": "异常情况",
+   "parent_id": null,
+   "path": [
+    "8 异常情况"
+   ],
+   "end_physical_page": 138,
+   "end_y": 60.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 24,
+   "text_block_count": 23,
+   "image_block_count": 1,
+   "char_count": 844,
+   "pages_with_content": [
+    137
+   ],
+   "actual_first_page": 137,
+   "actual_last_page": 137,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 120,
+   "region_type": "section",
+   "level": 1,
+   "title": "9 申诉",
+   "start_physical_page": 138,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    126.03,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 138,
+   "dest_y": 69.92,
+   "section_id": 124,
+   "start_printed_page": 137,
+   "dest_printed_page": 137,
+   "section_no": "9",
+   "name": "申诉",
+   "parent_id": null,
+   "path": [
+    "9 申诉"
+   ],
+   "end_physical_page": 139,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 10,
+   "text_block_count": 10,
+   "image_block_count": 0,
+   "char_count": 267,
+   "pages_with_content": [
+    138
+   ],
+   "actual_first_page": 138,
+   "actual_last_page": 138,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 121,
+   "region_type": "section",
+   "level": 2,
+   "title": "9.1 申诉流程",
+   "start_physical_page": 139,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    166.76,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 139,
+   "dest_y": 69.92,
+   "section_id": 125,
+   "start_printed_page": 138,
+   "dest_printed_page": 138,
+   "section_no": "9.1",
+   "name": "申诉流程",
+   "parent_id": 124,
+   "path": [
+    "9 申诉",
+    "9.1 申诉流程"
+   ],
+   "end_physical_page": 139,
+   "end_y": 685.74,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 17,
+   "text_block_count": 17,
+   "image_block_count": 0,
+   "char_count": 1130,
+   "pages_with_content": [
+    139
+   ],
+   "actual_first_page": 139,
+   "actual_last_page": 139,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 122,
+   "region_type": "section",
+   "level": 2,
+   "title": "9.2 申诉材料",
+   "start_physical_page": 139,
+   "start_y": 685.74,
+   "start_bbox": [
+    56.64,
+    685.74,
+    166.76,
+    737.22
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 139,
+   "dest_y": 689.92,
+   "section_id": 126,
+   "start_printed_page": 138,
+   "dest_printed_page": 138,
+   "section_no": "9.2",
+   "name": "申诉材料",
+   "parent_id": 124,
+   "path": [
+    "9 申诉",
+    "9.2 申诉材料"
+   ],
+   "end_physical_page": 140,
+   "end_y": 62.22,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 2,
+   "text_block_count": 2,
+   "image_block_count": 0,
+   "char_count": 50,
+   "pages_with_content": [
+    139
+   ],
+   "actual_first_page": 139,
+   "actual_last_page": 139,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 123,
+   "region_type": "section",
+   "level": 2,
+   "title": "9.3 申诉结果",
+   "start_physical_page": 140,
+   "start_y": 62.22,
+   "start_bbox": [
+    56.64,
+    62.22,
+    166.76,
+    113.7
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 140,
+   "dest_y": 69.92,
+   "section_id": 127,
+   "start_printed_page": 139,
+   "dest_printed_page": 139,
+   "section_no": "9.3",
+   "name": "申诉结果",
+   "parent_id": 124,
+   "path": [
+    "9 申诉",
+    "9.3 申诉结果"
+   ],
+   "end_physical_page": 141,
+   "end_y": 60.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 15,
+   "text_block_count": 13,
+   "image_block_count": 2,
+   "char_count": 375,
+   "pages_with_content": [
+    140
+   ],
+   "actual_first_page": 140,
+   "actual_last_page": 140,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 124,
+   "region_type": "section",
+   "level": 1,
+   "title": "附录1 赛前流程说明",
+   "start_physical_page": 141,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    272.43,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 141,
+   "dest_y": 69.92,
+   "section_id": 128,
+   "start_printed_page": 140,
+   "dest_printed_page": 140,
+   "section_no": "",
+   "name": "附录1 赛前流程说明",
+   "parent_id": null,
+   "path": [
+    "附录1 赛前流程说明"
+   ],
+   "end_physical_page": 141,
+   "end_y": 164.1,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 3,
+   "text_block_count": 2,
+   "image_block_count": 1,
+   "char_count": 28,
+   "pages_with_content": [
+    141
+   ],
+   "actual_first_page": 141,
+   "actual_last_page": 141,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 125,
+   "region_type": "section",
+   "level": 2,
+   "title": "预检录",
+   "start_physical_page": 141,
+   "start_y": 164.1,
+   "start_bbox": [
+    56.64,
+    164.1,
+    116.72,
+    215.58
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 141,
+   "dest_y": 161.92,
+   "section_id": 129,
+   "start_printed_page": 140,
+   "dest_printed_page": 140,
+   "section_no": "",
+   "name": "预检录",
+   "parent_id": 128,
+   "path": [
+    "附录1 赛前流程说明",
+    "预检录"
+   ],
+   "end_physical_page": 141,
+   "end_y": 508.5,
+   "page_span": 1,
+   "spans_multiple_pages": false,
+   "block_count": 15,
+   "text_block_count": 15,
+   "image_block_count": 0,
+   "char_count": 588,
+   "pages_with_content": [
+    141
+   ],
+   "actual_first_page": 141,
+   "actual_last_page": 141,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 126,
+   "region_type": "section",
+   "level": 2,
+   "title": "场地道具训练",
+   "start_physical_page": 141,
+   "start_y": 508.5,
+   "start_bbox": [
+    56.64,
+    508.5,
+    172.16,
+    559.98
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 141,
+   "dest_y": 512.92,
+   "section_id": 130,
+   "start_printed_page": 140,
+   "dest_printed_page": 140,
+   "section_no": "",
+   "name": "场地道具训练",
+   "parent_id": 128,
+   "path": [
+    "附录1 赛前流程说明",
+    "场地道具训练"
+   ],
+   "end_physical_page": 142,
+   "end_y": 176.34,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 15,
+   "text_block_count": 15,
+   "image_block_count": 0,
+   "char_count": 467,
+   "pages_with_content": [
+    141,
+    142
+   ],
+   "actual_first_page": 141,
+   "actual_last_page": 142,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 127,
+   "region_type": "section",
+   "level": 2,
+   "title": "适应性训练",
+   "start_physical_page": 142,
+   "start_y": 176.34,
+   "start_bbox": [
+    56.64,
+    176.34,
+    153.68,
+    227.82
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 18.0,
+   "expected_level_size": 18.0,
+   "dest_physical_page": 142,
+   "dest_y": 179.92,
+   "section_id": 131,
+   "start_printed_page": 141,
+   "dest_printed_page": 141,
+   "section_no": "",
+   "name": "适应性训练",
+   "parent_id": 128,
+   "path": [
+    "附录1 赛前流程说明",
+    "适应性训练"
+   ],
+   "end_physical_page": 143,
+   "end_y": 60.69,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 16,
+   "text_block_count": 16,
+   "image_block_count": 0,
+   "char_count": 419,
+   "pages_with_content": [
+    142
+   ],
+   "actual_first_page": 142,
+   "actual_last_page": 142,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  },
+  {
+   "outline_index": 128,
+   "region_type": "section",
+   "level": 1,
+   "title": "附录2 未来规则规划",
+   "start_physical_page": 143,
+   "start_y": 60.69,
+   "start_bbox": [
+    56.64,
+    60.69,
+    272.43,
+    123.5
+   ],
+   "heading_match": "exact_text",
+   "heading_block_size": 21.96,
+   "expected_level_size": 22.0,
+   "dest_physical_page": 143,
+   "dest_y": 69.92,
+   "section_id": 132,
+   "start_printed_page": 142,
+   "dest_printed_page": 142,
+   "section_no": "",
+   "name": "附录2 未来规则规划",
+   "parent_id": null,
+   "path": [
+    "附录2 未来规则规划"
+   ],
+   "end_physical_page": 144,
+   "end_y": 841.92,
+   "page_span": 2,
+   "spans_multiple_pages": true,
+   "block_count": 3,
+   "text_block_count": 2,
+   "image_block_count": 1,
+   "char_count": 15,
+   "pages_with_content": [
+    143,
+    144
+   ],
+   "actual_first_page": 143,
+   "actual_last_page": 144,
+   "start_matches_first_content_page": true,
+   "continues_from_previous_page": false,
+   "continues_to_next_page": false
+  }
+ ],
+ "page_map": [
+  {
+   "physical_page": 1,
+   "printed_page": 0,
+   "sections": [
+    {
+     "section_id": 0,
+     "y_from": 35.43,
+     "y_to": 765.5,
+     "blocks": 3,
+     "chars": 21
+    }
+   ]
+  },
+  {
+   "physical_page": 2,
+   "printed_page": 1,
+   "sections": [
+    {
+     "section_id": 1,
+     "y_from": 72.69,
+     "y_to": 316.25,
+     "blocks": 9,
+     "chars": 361
+    },
+    {
+     "section_id": 2,
+     "y_from": 312.81,
+     "y_to": 459.89,
+     "blocks": 5,
+     "chars": 166
+    },
+    {
+     "section_id": 3,
+     "y_from": 456.06,
+     "y_to": 757.73,
+     "blocks": 11,
+     "chars": 345
+    }
+   ]
+  },
+  {
+   "physical_page": 3,
+   "printed_page": 2,
+   "sections": [
+    {
+     "section_id": 4,
+     "y_from": 62.34,
+     "y_to": 313.49,
+     "blocks": 9,
+     "chars": 58
+    },
+    {
+     "section_id": 5,
+     "y_from": 316.26,
+     "y_to": 431.81,
+     "blocks": 3,
+     "chars": 39
+    }
+   ]
+  },
+  {
+   "physical_page": 4,
+   "printed_page": 3,
+   "sections": [
+    {
+     "section_id": 6,
+     "y_from": 62.34,
+     "y_to": 750.41,
+     "blocks": 26,
+     "chars": 3005
+    }
+   ]
+  },
+  {
+   "physical_page": 5,
+   "printed_page": 4,
+   "sections": [
+    {
+     "section_id": 6,
+     "y_from": 65.61,
+     "y_to": 762.04,
+     "blocks": 27,
+     "chars": 3172
+    }
+   ]
+  },
+  {
+   "physical_page": 6,
+   "printed_page": 5,
+   "sections": [
+    {
+     "section_id": 6,
+     "y_from": 65.61,
+     "y_to": 762.05,
+     "blocks": 27,
+     "chars": 3076
+    }
+   ]
+  },
+  {
+   "physical_page": 7,
+   "printed_page": 6,
+   "sections": [
+    {
+     "section_id": 6,
+     "y_from": 65.61,
+     "y_to": 685.13,
+     "blocks": 24,
+     "chars": 2874
+    }
+   ]
+  },
+  {
+   "physical_page": 8,
+   "printed_page": 7,
+   "sections": [
+    {
+     "section_id": 7,
+     "y_from": 62.34,
+     "y_to": 750.41,
+     "blocks": 26,
+     "chars": 2788
+    }
+   ]
+  },
+  {
+   "physical_page": 9,
+   "printed_page": 8,
+   "sections": [
+    {
+     "section_id": 7,
+     "y_from": 65.61,
+     "y_to": 685.13,
+     "blocks": 24,
+     "chars": 2749
+    }
+   ]
+  },
+  {
+   "physical_page": 10,
+   "printed_page": 9,
+   "sections": [
+    {
+     "section_id": 8,
+     "y_from": 62.34,
+     "y_to": 750.41,
+     "blocks": 26,
+     "chars": 2988
+    }
+   ]
+  },
+  {
+   "physical_page": 11,
+   "printed_page": 10,
+   "sections": [
+    {
+     "section_id": 8,
+     "y_from": 65.61,
+     "y_to": 762.05,
+     "blocks": 27,
+     "chars": 3135
+    }
+   ]
+  },
+  {
+   "physical_page": 12,
+   "printed_page": 11,
+   "sections": [
+    {
+     "section_id": 8,
+     "y_from": 65.61,
+     "y_to": 531.39,
+     "blocks": 18,
+     "chars": 2050
+    }
+   ]
+  },
+  {
+   "physical_page": 13,
+   "printed_page": 12,
+   "sections": [
+    {
+     "section_id": 9,
+     "y_from": 60.69,
+     "y_to": 123.5,
+     "blocks": 1,
+     "chars": 5
+    },
+    {
+     "section_id": 10,
+     "y_from": 113.46,
+     "y_to": 735.53,
+     "blocks": 9,
+     "chars": 254
+    }
+   ]
+  },
+  {
+   "physical_page": 14,
+   "printed_page": 13,
+   "sections": [
+    {
+     "section_id": 11,
+     "y_from": 62.22,
+     "y_to": 726.77,
+     "blocks": 25,
+     "chars": 382
+    }
+   ]
+  },
+  {
+   "physical_page": 15,
+   "printed_page": 14,
+   "sections": [
+    {
+     "section_id": 12,
+     "y_from": 62.22,
+     "y_to": 552.8,
+     "blocks": 20,
+     "chars": 569
+    },
+    {
+     "section_id": 13,
+     "y_from": 555.54,
+     "y_to": 752.81,
+     "blocks": 7,
+     "chars": 225
+    }
+   ]
+  },
+  {
+   "physical_page": 16,
+   "printed_page": 15,
+   "sections": [
+    {
+     "section_id": 13,
+     "y_from": 65.61,
+     "y_to": 282.17,
+     "blocks": 9,
+     "chars": 201
+    }
+   ]
+  },
+  {
+   "physical_page": 17,
+   "printed_page": 16,
+   "sections": [
+    {
+     "section_id": 14,
+     "y_from": 60.69,
+     "y_to": 750.89,
+     "blocks": 30,
+     "chars": 621
+    }
+   ]
+  },
+  {
+   "physical_page": 18,
+   "printed_page": 17,
+   "sections": [
+    {
+     "section_id": 14,
+     "y_from": 72.09,
+     "y_to": 766.13,
+     "blocks": 28,
+     "chars": 698
+    }
+   ]
+  },
+  {
+   "physical_page": 19,
+   "printed_page": 18,
+   "sections": [
+    {
+     "section_id": 14,
+     "y_from": 72.09,
+     "y_to": 739.37,
+     "blocks": 25,
+     "chars": 511
+    }
+   ]
+  },
+  {
+   "physical_page": 20,
+   "printed_page": 19,
+   "sections": [
+    {
+     "section_id": 14,
+     "y_from": 72.09,
+     "y_to": 765.17,
+     "blocks": 28,
+     "chars": 591
+    }
+   ]
+  },
+  {
+   "physical_page": 21,
+   "printed_page": 20,
+   "sections": [
+    {
+     "section_id": 15,
+     "y_from": 60.69,
+     "y_to": 750.41,
+     "blocks": 60,
+     "chars": 425
+    }
+   ]
+  },
+  {
+   "physical_page": 22,
+   "printed_page": 21,
+   "sections": [
+    {
+     "section_id": 15,
+     "y_from": 65.49,
+     "y_to": 505.01,
+     "blocks": 17,
+     "chars": 340
+    }
+   ]
+  },
+  {
+   "physical_page": 23,
+   "printed_page": 22,
+   "sections": [
+    {
+     "section_id": 16,
+     "y_from": 62.22,
+     "y_to": 113.7,
+     "blocks": 1,
+     "chars": 8
+    },
+    {
+     "section_id": 17,
+     "y_from": 104.91,
+     "y_to": 754.97,
+     "blocks": 26,
+     "chars": 451
+    }
+   ]
+  },
+  {
+   "physical_page": 24,
+   "printed_page": 23,
+   "sections": [
+    {
+     "section_id": 17,
+     "y_from": 72.09,
+     "y_to": 545.2,
+     "blocks": 20,
+     "chars": 270
+    },
+    {
+     "section_id": 18,
+     "y_from": 546.87,
+     "y_to": 766.37,
+     "blocks": 7,
+     "chars": 100
+    }
+   ]
+  },
+  {
+   "physical_page": 25,
+   "printed_page": 24,
+   "sections": [
+    {
+     "section_id": 18,
+     "y_from": 72.09,
+     "y_to": 756.77,
+     "blocks": 30,
+     "chars": 458
+    }
+   ]
+  },
+  {
+   "physical_page": 26,
+   "printed_page": 25,
+   "sections": [
+    {
+     "section_id": 18,
+     "y_from": 72.09,
+     "y_to": 154.01,
+     "blocks": 3,
+     "chars": 33
+    },
+    {
+     "section_id": 19,
+     "y_from": 155.67,
+     "y_to": 766.36,
+     "blocks": 24,
+     "chars": 417
+    }
+   ]
+  },
+  {
+   "physical_page": 27,
+   "printed_page": 26,
+   "sections": [
+    {
+     "section_id": 19,
+     "y_from": 72.09,
+     "y_to": 679.48,
+     "blocks": 25,
+     "chars": 315
+    }
+   ]
+  },
+  {
+   "physical_page": 28,
+   "printed_page": 27,
+   "sections": [
+    {
+     "section_id": 20,
+     "y_from": 62.22,
+     "y_to": 113.7,
+     "blocks": 1,
+     "chars": 9
+    },
+    {
+     "section_id": 21,
+     "y_from": 104.91,
+     "y_to": 543.29,
+     "blocks": 14,
+     "chars": 189
+    },
+    {
+     "section_id": 22,
+     "y_from": 544.95,
+     "y_to": 764.45,
+     "blocks": 7,
+     "chars": 96
+    }
+   ]
+  },
+  {
+   "physical_page": 29,
+   "printed_page": 28,
+   "sections": [
+    {
+     "section_id": 23,
+     "y_from": 63.27,
+     "y_to": 302.45,
+     "blocks": 8,
+     "chars": 155
+    },
+    {
+     "section_id": 24,
+     "y_from": 304.98,
+     "y_to": 356.46,
+     "blocks": 1,
+     "chars": 9
+    },
+    {
+     "section_id": 25,
+     "y_from": 347.67,
+     "y_to": 701.21,
+     "blocks": 15,
+     "chars": 499
+    }
+   ]
+  },
+  {
+   "physical_page": 30,
+   "printed_page": 29,
+   "sections": [
+    {
+     "section_id": 26,
+     "y_from": 60.69,
+     "y_to": 123.5,
+     "blocks": 1,
+     "chars": 7
+    },
+    {
+     "section_id": 27,
+     "y_from": 113.46,
+     "y_to": 719.09,
+     "blocks": 17,
+     "chars": 556
+    }
+   ]
+  },
+  {
+   "physical_page": 31,
+   "printed_page": 30,
+   "sections": [
+    {
+     "section_id": 27,
+     "y_from": 70.32,
+     "y_to": 613.95,
+     "blocks": 4,
+     "chars": 28
+    }
+   ]
+  },
+  {
+   "physical_page": 32,
+   "printed_page": 31,
+   "sections": [
+    {
+     "section_id": 27,
+     "y_from": 70.32,
+     "y_to": 582.54,
+     "blocks": 8,
+     "chars": 226
+    }
+   ]
+  },
+  {
+   "physical_page": 33,
+   "printed_page": 32,
+   "sections": [
+    {
+     "section_id": 27,
+     "y_from": 70.32,
+     "y_to": 446.93,
+     "blocks": 3,
+     "chars": 37
+    }
+   ]
+  },
+  {
+   "physical_page": 34,
+   "printed_page": 33,
+   "sections": [
+    {
+     "section_id": 27,
+     "y_from": 65.49,
+     "y_to": 484.85,
+     "blocks": 8,
+     "chars": 202
+    }
+   ]
+  },
+  {
+   "physical_page": 35,
+   "printed_page": 34,
+   "sections": [
+    {
+     "section_id": 27,
+     "y_from": 70.32,
+     "y_to": 506.09,
+     "blocks": 5,
+     "chars": 56
+    }
+   ]
+  },
+  {
+   "physical_page": 36,
+   "printed_page": 35,
+   "sections": [
+    {
+     "section_id": 28,
+     "y_from": 62.22,
+     "y_to": 632.81,
+     "blocks": 6,
+     "chars": 131
+    }
+   ]
+  },
+  {
+   "physical_page": 37,
+   "printed_page": 36,
+   "sections": [
+    {
+     "section_id": 29,
+     "y_from": 63.27,
+     "y_to": 523.49,
+     "blocks": 5,
+     "chars": 66
+    }
+   ]
+  },
+  {
+   "physical_page": 38,
+   "printed_page": 37,
+   "sections": [
+    {
+     "section_id": 30,
+     "y_from": 63.27,
+     "y_to": 759.29,
+     "blocks": 9,
+     "chars": 148
+    }
+   ]
+  },
+  {
+   "physical_page": 39,
+   "printed_page": 38,
+   "sections": [
+    {
+     "section_id": 30,
+     "y_from": 70.32,
+     "y_to": 488.8,
+     "blocks": 11,
+     "chars": 315
+    }
+   ]
+  },
+  {
+   "physical_page": 40,
+   "printed_page": 39,
+   "sections": [
+    {
+     "section_id": 30,
+     "y_from": 70.32,
+     "y_to": 682.26,
+     "blocks": 6,
+     "chars": 69
+    }
+   ]
+  },
+  {
+   "physical_page": 41,
+   "printed_page": 40,
+   "sections": [
+    {
+     "section_id": 31,
+     "y_from": 63.27,
+     "y_to": 757.25,
+     "blocks": 10,
+     "chars": 235
+    }
+   ]
+  },
+  {
+   "physical_page": 42,
+   "printed_page": 41,
+   "sections": [
+    {
+     "section_id": 31,
+     "y_from": 70.32,
+     "y_to": 372.05,
+     "blocks": 3,
+     "chars": 34
+    },
+    {
+     "section_id": 32,
+     "y_from": 367.11,
+     "y_to": 758.33,
+     "blocks": 4,
+     "chars": 66
+    }
+   ]
+  },
+  {
+   "physical_page": 43,
+   "printed_page": 42,
+   "sections": [
+    {
+     "section_id": 33,
+     "y_from": 63.27,
+     "y_to": 755.58,
+     "blocks": 14,
+     "chars": 377
+    }
+   ]
+  },
+  {
+   "physical_page": 44,
+   "printed_page": 43,
+   "sections": [
+    {
+     "section_id": 33,
+     "y_from": 70.32,
+     "y_to": 473.93,
+     "blocks": 3,
+     "chars": 49
+    }
+   ]
+  },
+  {
+   "physical_page": 45,
+   "printed_page": 44,
+   "sections": [
+    {
+     "section_id": 34,
+     "y_from": 63.27,
+     "y_to": 540.18,
+     "blocks": 6,
+     "chars": 106
+    }
+   ]
+  },
+  {
+   "physical_page": 46,
+   "printed_page": 45,
+   "sections": [
+    {
+     "section_id": 34,
+     "y_from": 65.49,
+     "y_to": 572.58,
+     "blocks": 9,
+     "chars": 194
+    }
+   ]
+  },
+  {
+   "physical_page": 47,
+   "printed_page": 46,
+   "sections": [
+    {
+     "section_id": 34,
+     "y_from": 70.32,
+     "y_to": 766.72,
+     "blocks": 5,
+     "chars": 65
+    }
+   ]
+  },
+  {
+   "physical_page": 48,
+   "printed_page": 47,
+   "sections": [
+    {
+     "section_id": 34,
+     "y_from": 65.49,
+     "y_to": 758.21,
+     "blocks": 9,
+     "chars": 89
+    }
+   ]
+  },
+  {
+   "physical_page": 49,
+   "printed_page": 48,
+   "sections": [
+    {
+     "section_id": 35,
+     "y_from": 63.27,
+     "y_to": 526.37,
+     "blocks": 5,
+     "chars": 46
+    }
+   ]
+  },
+  {
+   "physical_page": 50,
+   "printed_page": 49,
+   "sections": [
+    {
+     "section_id": 36,
+     "y_from": 62.22,
+     "y_to": 157.01,
+     "blocks": 3,
+     "chars": 76
+    },
+    {
+     "section_id": 37,
+     "y_from": 152.19,
+     "y_to": 540.29,
+     "blocks": 5,
+     "chars": 63
+    }
+   ]
+  },
+  {
+   "physical_page": 51,
+   "printed_page": 50,
+   "sections": [
+    {
+     "section_id": 38,
+     "y_from": 63.27,
+     "y_to": 499.49,
+     "blocks": 6,
+     "chars": 97
+    }
+   ]
+  },
+  {
+   "physical_page": 52,
+   "printed_page": 51,
+   "sections": [
+    {
+     "section_id": 39,
+     "y_from": 63.69,
+     "y_to": 594.18,
+     "blocks": 7,
+     "chars": 172
+    }
+   ]
+  },
+  {
+   "physical_page": 53,
+   "printed_page": 52,
+   "sections": [
+    {
+     "section_id": 39,
+     "y_from": 70.32,
+     "y_to": 457.24,
+     "blocks": 2,
+     "chars": 14
+    }
+   ]
+  },
+  {
+   "physical_page": 54,
+   "printed_page": 53,
+   "sections": [
+    {
+     "section_id": 40,
+     "y_from": 63.69,
+     "y_to": 550.01,
+     "blocks": 5,
+     "chars": 91
+    }
+   ]
+  },
+  {
+   "physical_page": 55,
+   "printed_page": 54,
+   "sections": [
+    {
+     "section_id": 41,
+     "y_from": 63.69,
+     "y_to": 763.25,
+     "blocks": 11,
+     "chars": 224
+    }
+   ]
+  },
+  {
+   "physical_page": 56,
+   "printed_page": 55,
+   "sections": [
+    {
+     "section_id": 41,
+     "y_from": 75.21,
+     "y_to": 323.57,
+     "blocks": 4,
+     "chars": 54
+    }
+   ]
+  },
+  {
+   "physical_page": 57,
+   "printed_page": 56,
+   "sections": [
+    {
+     "section_id": 42,
+     "y_from": 63.69,
+     "y_to": 737.7,
+     "blocks": 6,
+     "chars": 149
+    }
+   ]
+  },
+  {
+   "physical_page": 58,
+   "printed_page": 57,
+   "sections": [
+    {
+     "section_id": 43,
+     "y_from": 62.22,
+     "y_to": 517.13,
+     "blocks": 5,
+     "chars": 57
+    }
+   ]
+  },
+  {
+   "physical_page": 59,
+   "printed_page": 58,
+   "sections": [
+    {
+     "section_id": 44,
+     "y_from": 63.27,
+     "y_to": 743.57,
+     "blocks": 8,
+     "chars": 91
+    }
+   ]
+  },
+  {
+   "physical_page": 60,
+   "printed_page": 59,
+   "sections": [
+    {
+     "section_id": 45,
+     "y_from": 63.27,
+     "y_to": 439.37,
+     "blocks": 5,
+     "chars": 65
+    },
+    {
+     "section_id": 46,
+     "y_from": 435.54,
+     "y_to": 487.02,
+     "blocks": 1,
+     "chars": 7
+    },
+    {
+     "section_id": 47,
+     "y_from": 478.11,
+     "y_to": 617.93,
+     "blocks": 6,
+     "chars": 129
+    }
+   ]
+  },
+  {
+   "physical_page": 61,
+   "printed_page": 60,
+   "sections": [
+    {
+     "section_id": 47,
+     "y_from": 70.32,
+     "y_to": 658.74,
+     "blocks": 4,
+     "chars": 22
+    }
+   ]
+  },
+  {
+   "physical_page": 62,
+   "printed_page": 61,
+   "sections": [
+    {
+     "section_id": 48,
+     "y_from": 63.27,
+     "y_to": 315.54,
+     "blocks": 28,
+     "chars": 246
+    },
+    {
+     "section_id": 49,
+     "y_from": 317.19,
+     "y_to": 599.81,
+     "blocks": 12,
+     "chars": 435
+    }
+   ]
+  },
+  {
+   "physical_page": 63,
+   "printed_page": 62,
+   "sections": [
+    {
+     "section_id": 49,
+     "y_from": 70.32,
+     "y_to": 747.89,
+     "blocks": 7,
+     "chars": 119
+    }
+   ]
+  },
+  {
+   "physical_page": 64,
+   "printed_page": 63,
+   "sections": [
+    {
+     "section_id": 49,
+     "y_from": 72.09,
+     "y_to": 167.09,
+     "blocks": 5,
+     "chars": 138
+    }
+   ]
+  },
+  {
+   "physical_page": 65,
+   "printed_page": 64,
+   "sections": [
+    {
+     "section_id": 50,
+     "y_from": 60.69,
+     "y_to": 123.5,
+     "blocks": 1,
+     "chars": 7
+    },
+    {
+     "section_id": 51,
+     "y_from": 113.46,
+     "y_to": 164.94,
+     "blocks": 1,
+     "chars": 14
+    },
+    {
+     "section_id": 52,
+     "y_from": 156.03,
+     "y_to": 725.09,
+     "blocks": 27,
+     "chars": 558
+    }
+   ]
+  },
+  {
+   "physical_page": 66,
+   "printed_page": 65,
+   "sections": [
+    {
+     "section_id": 52,
+     "y_from": 83.84,
+     "y_to": 723.53,
+     "blocks": 31,
+     "chars": 597
+    }
+   ]
+  },
+  {
+   "physical_page": 67,
+   "printed_page": 66,
+   "sections": [
+    {
+     "section_id": 53,
+     "y_from": 63.27,
+     "y_to": 328.01,
+     "blocks": 9,
+     "chars": 282
+    },
+    {
+     "section_id": 54,
+     "y_from": 329.67,
+     "y_to": 624.29,
+     "blocks": 12,
+     "chars": 402
+    }
+   ]
+  },
+  {
+   "physical_page": 68,
+   "printed_page": 67,
+   "sections": [
+    {
+     "section_id": 54,
+     "y_from": 71.31,
+     "y_to": 469.48,
+     "blocks": 25,
+     "chars": 236
+    },
+    {
+     "section_id": 55,
+     "y_from": 465.99,
+     "y_to": 600.17,
+     "blocks": 5,
+     "chars": 172
+    }
+   ]
+  },
+  {
+   "physical_page": 69,
+   "printed_page": 68,
+   "sections": [
+    {
+     "section_id": 55,
+     "y_from": 73.47,
+     "y_to": 448.61,
+     "blocks": 13,
+     "chars": 112
+    },
+    {
+     "section_id": 56,
+     "y_from": 443.79,
+     "y_to": 551.46,
+     "blocks": 4,
+     "chars": 129
+    }
+   ]
+  },
+  {
+   "physical_page": 70,
+   "printed_page": 69,
+   "sections": [
+    {
+     "section_id": 57,
+     "y_from": 63.69,
+     "y_to": 486.4,
+     "blocks": 18,
+     "chars": 304
+    }
+   ]
+  },
+  {
+   "physical_page": 71,
+   "printed_page": 70,
+   "sections": [
+    {
+     "section_id": 58,
+     "y_from": 63.69,
+     "y_to": 514.0,
+     "blocks": 15,
+     "chars": 185
+    }
+   ]
+  },
+  {
+   "physical_page": 72,
+   "printed_page": 71,
+   "sections": [
+    {
+     "section_id": 59,
+     "y_from": 63.69,
+     "y_to": 576.65,
+     "blocks": 20,
+     "chars": 206
+    },
+    {
+     "section_id": 60,
+     "y_from": 570.09,
+     "y_to": 655.85,
+     "blocks": 3,
+     "chars": 75
+    },
+    {
+     "section_id": 61,
+     "y_from": 651.03,
+     "y_to": 719.45,
+     "blocks": 2,
+     "chars": 53
+    }
+   ]
+  },
+  {
+   "physical_page": 73,
+   "printed_page": 72,
+   "sections": [
+    {
+     "section_id": 62,
+     "y_from": 62.22,
+     "y_to": 684.05,
+     "blocks": 27,
+     "chars": 732
+    }
+   ]
+  },
+  {
+   "physical_page": 74,
+   "printed_page": 73,
+   "sections": [
+    {
+     "section_id": 62,
+     "y_from": 53.36,
+     "y_to": 156.51,
+     "blocks": 12,
+     "chars": 61
+    },
+    {
+     "section_id": 63,
+     "y_from": 143.46,
+     "y_to": 244.24,
+     "blocks": 3,
+     "chars": 92
+    },
+    {
+     "section_id": 64,
+     "y_from": 239.43,
+     "y_to": 656.69,
+     "blocks": 18,
+     "chars": 493
+    }
+   ]
+  },
+  {
+   "physical_page": 75,
+   "printed_page": 74,
+   "sections": [
+    {
+     "section_id": 64,
+     "y_from": 70.32,
+     "y_to": 470.93,
+     "blocks": 3,
+     "chars": 57
+    },
+    {
+     "section_id": 65,
+     "y_from": 465.99,
+     "y_to": 754.49,
+     "blocks": 15,
+     "chars": 362
+    }
+   ]
+  },
+  {
+   "physical_page": 76,
+   "printed_page": 75,
+   "sections": [
+    {
+     "section_id": 65,
+     "y_from": 65.61,
+     "y_to": 462.17,
+     "blocks": 16,
+     "chars": 396
+    },
+    {
+     "section_id": 66,
+     "y_from": 458.22,
+     "y_to": 509.7,
+     "blocks": 1,
+     "chars": 9
+    },
+    {
+     "section_id": 67,
+     "y_from": 500.91,
+     "y_to": 753.17,
+     "blocks": 9,
+     "chars": 223
+    }
+   ]
+  },
+  {
+   "physical_page": 77,
+   "printed_page": 76,
+   "sections": [
+    {
+     "section_id": 67,
+     "y_from": 72.09,
+     "y_to": 605.8,
+     "blocks": 23,
+     "chars": 390
+    },
+    {
+     "section_id": 68,
+     "y_from": 607.35,
+     "y_to": 771.77,
+     "blocks": 6,
+     "chars": 177
+    }
+   ]
+  },
+  {
+   "physical_page": 78,
+   "printed_page": 77,
+   "sections": [
+    {
+     "section_id": 68,
+     "y_from": 65.73,
+     "y_to": 665.21,
+     "blocks": 23,
+     "chars": 559
+    },
+    {
+     "section_id": 69,
+     "y_from": 660.27,
+     "y_to": 754.24,
+     "blocks": 3,
+     "chars": 104
+    }
+   ]
+  },
+  {
+   "physical_page": 79,
+   "printed_page": 78,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 65.49,
+     "y_to": 591.78,
+     "blocks": 10,
+     "chars": 397
+    }
+   ]
+  },
+  {
+   "physical_page": 80,
+   "printed_page": 79,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 70.32,
+     "y_to": 600.69,
+     "blocks": 2,
+     "chars": 0
+    }
+   ]
+  },
+  {
+   "physical_page": 81,
+   "printed_page": 80,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 70.32,
+     "y_to": 729.05,
+     "blocks": 5,
+     "chars": 54
+    }
+   ]
+  },
+  {
+   "physical_page": 82,
+   "printed_page": 81,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 70.32,
+     "y_to": 753.53,
+     "blocks": 9,
+     "chars": 164
+    }
+   ]
+  },
+  {
+   "physical_page": 83,
+   "printed_page": 82,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 65.61,
+     "y_to": 746.69,
+     "blocks": 35,
+     "chars": 808
+    }
+   ]
+  },
+  {
+   "physical_page": 84,
+   "printed_page": 83,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 72.09,
+     "y_to": 740.33,
+     "blocks": 32,
+     "chars": 551
+    }
+   ]
+  },
+  {
+   "physical_page": 85,
+   "printed_page": 84,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 88.77,
+     "y_to": 743.93,
+     "blocks": 23,
+     "chars": 410
+    }
+   ]
+  },
+  {
+   "physical_page": 86,
+   "printed_page": 85,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 72.09,
+     "y_to": 642.29,
+     "blocks": 27,
+     "chars": 591
+    }
+   ]
+  },
+  {
+   "physical_page": 87,
+   "printed_page": 86,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 70.32,
+     "y_to": 773.45,
+     "blocks": 11,
+     "chars": 186
+    }
+   ]
+  },
+  {
+   "physical_page": 88,
+   "printed_page": 87,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 65.73,
+     "y_to": 736.35,
+     "blocks": 14,
+     "chars": 287
+    }
+   ]
+  },
+  {
+   "physical_page": 89,
+   "printed_page": 88,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 65.97,
+     "y_to": 755.31,
+     "blocks": 29,
+     "chars": 1012
+    }
+   ]
+  },
+  {
+   "physical_page": 90,
+   "printed_page": 89,
+   "sections": [
+    {
+     "section_id": 69,
+     "y_from": 65.73,
+     "y_to": 120.89,
+     "blocks": 2,
+     "chars": 78
+    },
+    {
+     "section_id": 70,
+     "y_from": 117.3,
+     "y_to": 168.78,
+     "blocks": 1,
+     "chars": 12
+    },
+    {
+     "section_id": 71,
+     "y_from": 159.87,
+     "y_to": 761.09,
+     "blocks": 28,
+     "chars": 691
+    }
+   ]
+  },
+  {
+   "physical_page": 91,
+   "printed_page": 90,
+   "sections": [
+    {
+     "section_id": 71,
+     "y_from": 72.09,
+     "y_to": 632.57,
+     "blocks": 25,
+     "chars": 633
+    }
+   ]
+  },
+  {
+   "physical_page": 92,
+   "printed_page": 91,
+   "sections": [
+    {
+     "section_id": 71,
+     "y_from": 65.61,
+     "y_to": 446.09,
+     "blocks": 12,
+     "chars": 97
+    },
+    {
+     "section_id": 72,
+     "y_from": 447.75,
+     "y_to": 714.89,
+     "blocks": 11,
+     "chars": 274
+    }
+   ]
+  },
+  {
+   "physical_page": 93,
+   "printed_page": 92,
+   "sections": [
+    {
+     "section_id": 72,
+     "y_from": 71.97,
+     "y_to": 746.45,
+     "blocks": 25,
+     "chars": 295
+    }
+   ]
+  },
+  {
+   "physical_page": 94,
+   "printed_page": 93,
+   "sections": [
+    {
+     "section_id": 72,
+     "y_from": 72.09,
+     "y_to": 738.77,
+     "blocks": 22,
+     "chars": 244
+    }
+   ]
+  },
+  {
+   "physical_page": 95,
+   "printed_page": 94,
+   "sections": [
+    {
+     "section_id": 72,
+     "y_from": 72.09,
+     "y_to": 423.53,
+     "blocks": 12,
+     "chars": 118
+    },
+    {
+     "section_id": 73,
+     "y_from": 426.18,
+     "y_to": 477.66,
+     "blocks": 1,
+     "chars": 11
+    },
+    {
+     "section_id": 74,
+     "y_from": 468.75,
+     "y_to": 783.94,
+     "blocks": 14,
+     "chars": 346
+    }
+   ]
+  },
+  {
+   "physical_page": 96,
+   "printed_page": 95,
+   "sections": [
+    {
+     "section_id": 74,
+     "y_from": 65.61,
+     "y_to": 754.73,
+     "blocks": 23,
+     "chars": 440
+    }
+   ]
+  },
+  {
+   "physical_page": 97,
+   "printed_page": 96,
+   "sections": [
+    {
+     "section_id": 74,
+     "y_from": 65.73,
+     "y_to": 179.56,
+     "blocks": 5,
+     "chars": 99
+    },
+    {
+     "section_id": 75,
+     "y_from": 181.11,
+     "y_to": 763.49,
+     "blocks": 34,
+     "chars": 529
+    }
+   ]
+  },
+  {
+   "physical_page": 98,
+   "printed_page": 97,
+   "sections": [
+    {
+     "section_id": 75,
+     "y_from": 65.61,
+     "y_to": 118.36,
+     "blocks": 2,
+     "chars": 54
+    },
+    {
+     "section_id": 76,
+     "y_from": 113.55,
+     "y_to": 769.37,
+     "blocks": 33,
+     "chars": 1114
+    }
+   ]
+  },
+  {
+   "physical_page": 99,
+   "printed_page": 98,
+   "sections": [
+    {
+     "section_id": 76,
+     "y_from": 65.73,
+     "y_to": 742.85,
+     "blocks": 18,
+     "chars": 371
+    }
+   ]
+  },
+  {
+   "physical_page": 100,
+   "printed_page": 99,
+   "sections": [
+    {
+     "section_id": 76,
+     "y_from": 72.09,
+     "y_to": 424.61,
+     "blocks": 12,
+     "chars": 194
+    },
+    {
+     "section_id": 77,
+     "y_from": 424.65,
+     "y_to": 749.57,
+     "blocks": 6,
+     "chars": 100
+    }
+   ]
+  },
+  {
+   "physical_page": 101,
+   "printed_page": 100,
+   "sections": [
+    {
+     "section_id": 77,
+     "y_from": 67.29,
+     "y_to": 751.97,
+     "blocks": 29,
+     "chars": 553
+    }
+   ]
+  },
+  {
+   "physical_page": 102,
+   "printed_page": 101,
+   "sections": [
+    {
+     "section_id": 77,
+     "y_from": 95.9,
+     "y_to": 757.73,
+     "blocks": 13,
+     "chars": 221
+    }
+   ]
+  },
+  {
+   "physical_page": 103,
+   "printed_page": 102,
+   "sections": [
+    {
+     "section_id": 78,
+     "y_from": 63.27,
+     "y_to": 108.92,
+     "blocks": 1,
+     "chars": 13
+    },
+    {
+     "section_id": 79,
+     "y_from": 99.57,
+     "y_to": 670.74,
+     "blocks": 21,
+     "chars": 297
+    }
+   ]
+  },
+  {
+   "physical_page": 104,
+   "printed_page": 103,
+   "sections": [
+    {
+     "section_id": 79,
+     "y_from": 70.32,
+     "y_to": 765.64,
+     "blocks": 18,
+     "chars": 422
+    }
+   ]
+  },
+  {
+   "physical_page": 105,
+   "printed_page": 104,
+   "sections": [
+    {
+     "section_id": 79,
+     "y_from": 65.61,
+     "y_to": 730.13,
+     "blocks": 55,
+     "chars": 514
+    }
+   ]
+  },
+  {
+   "physical_page": 106,
+   "printed_page": 105,
+   "sections": [
+    {
+     "section_id": 79,
+     "y_from": 65.49,
+     "y_to": 296.33,
+     "blocks": 10,
+     "chars": 351
+    },
+    {
+     "section_id": 80,
+     "y_from": 289.89,
+     "y_to": 401.33,
+     "blocks": 4,
+     "chars": 132
+    },
+    {
+     "section_id": 81,
+     "y_from": 394.77,
+     "y_to": 506.21,
+     "blocks": 4,
+     "chars": 112
+    },
+    {
+     "section_id": 82,
+     "y_from": 499.65,
+     "y_to": 630.78,
+     "blocks": 5,
+     "chars": 171
+    },
+    {
+     "section_id": 83,
+     "y_from": 624.21,
+     "y_to": 761.21,
+     "blocks": 5,
+     "chars": 171
+    }
+   ]
+  },
+  {
+   "physical_page": 107,
+   "printed_page": 106,
+   "sections": [
+    {
+     "section_id": 83,
+     "y_from": 65.49,
+     "y_to": 563.57,
+     "blocks": 27,
+     "chars": 603
+    },
+    {
+     "section_id": 84,
+     "y_from": 557.13,
+     "y_to": 668.57,
+     "blocks": 4,
+     "chars": 129
+    },
+    {
+     "section_id": 85,
+     "y_from": 662.01,
+     "y_to": 773.45,
+     "blocks": 4,
+     "chars": 131
+    }
+   ]
+  },
+  {
+   "physical_page": 108,
+   "printed_page": 107,
+   "sections": [
+    {
+     "section_id": 86,
+     "y_from": 63.69,
+     "y_to": 200.69,
+     "blocks": 5,
+     "chars": 152
+    },
+    {
+     "section_id": 87,
+     "y_from": 194.13,
+     "y_to": 718.96,
+     "blocks": 26,
+     "chars": 737
+    }
+   ]
+  },
+  {
+   "physical_page": 109,
+   "printed_page": 108,
+   "sections": [
+    {
+     "section_id": 88,
+     "y_from": 62.22,
+     "y_to": 113.7,
+     "blocks": 1,
+     "chars": 12
+    },
+    {
+     "section_id": 89,
+     "y_from": 104.91,
+     "y_to": 524.09,
+     "blocks": 20,
+     "chars": 470
+    },
+    {
+     "section_id": 90,
+     "y_from": 519.27,
+     "y_to": 772.86,
+     "blocks": 10,
+     "chars": 267
+    }
+   ]
+  },
+  {
+   "physical_page": 110,
+   "printed_page": 109,
+   "sections": [
+    {
+     "section_id": 90,
+     "y_from": 65.73,
+     "y_to": 724.01,
+     "blocks": 62,
+     "chars": 835
+    }
+   ]
+  },
+  {
+   "physical_page": 111,
+   "printed_page": 110,
+   "sections": [
+    {
+     "section_id": 90,
+     "y_from": 48.51,
+     "y_to": 165.65,
+     "blocks": 7,
+     "chars": 149
+    },
+    {
+     "section_id": 91,
+     "y_from": 167.31,
+     "y_to": 754.14,
+     "blocks": 26,
+     "chars": 833
+    }
+   ]
+  },
+  {
+   "physical_page": 112,
+   "printed_page": 111,
+   "sections": [
+    {
+     "section_id": 91,
+     "y_from": 67.17,
+     "y_to": 764.45,
+     "blocks": 32,
+     "chars": 1162
+    }
+   ]
+  },
+  {
+   "physical_page": 113,
+   "printed_page": 112,
+   "sections": [
+    {
+     "section_id": 92,
+     "y_from": 63.27,
+     "y_to": 733.49,
+     "blocks": 30,
+     "chars": 708
+    }
+   ]
+  },
+  {
+   "physical_page": 114,
+   "printed_page": 113,
+   "sections": [
+    {
+     "section_id": 92,
+     "y_from": 65.49,
+     "y_to": 768.77,
+     "blocks": 36,
+     "chars": 940
+    }
+   ]
+  },
+  {
+   "physical_page": 115,
+   "printed_page": 114,
+   "sections": [
+    {
+     "section_id": 92,
+     "y_from": 65.61,
+     "y_to": 506.93,
+     "blocks": 18,
+     "chars": 375
+    },
+    {
+     "section_id": 93,
+     "y_from": 503.1,
+     "y_to": 744.29,
+     "blocks": 9,
+     "chars": 272
+    }
+   ]
+  },
+  {
+   "physical_page": 116,
+   "printed_page": 115,
+   "sections": [
+    {
+     "section_id": 93,
+     "y_from": 65.73,
+     "y_to": 115.84,
+     "blocks": 2,
+     "chars": 59
+    }
+   ]
+  },
+  {
+   "physical_page": 117,
+   "printed_page": 116,
+   "sections": [
+    {
+     "section_id": 94,
+     "y_from": 60.69,
+     "y_to": 702.77,
+     "blocks": 26,
+     "chars": 383
+    }
+   ]
+  },
+  {
+   "physical_page": 118,
+   "printed_page": 117,
+   "sections": [
+    {
+     "section_id": 95,
+     "y_from": 62.22,
+     "y_to": 742.13,
+     "blocks": 26,
+     "chars": 964
+    }
+   ]
+  },
+  {
+   "physical_page": 119,
+   "printed_page": 118,
+   "sections": [
+    {
+     "section_id": 95,
+     "y_from": 65.61,
+     "y_to": 121.36,
+     "blocks": 2,
+     "chars": 60
+    },
+    {
+     "section_id": 96,
+     "y_from": 117.54,
+     "y_to": 502.73,
+     "blocks": 16,
+     "chars": 408
+    },
+    {
+     "section_id": 97,
+     "y_from": 498.9,
+     "y_to": 671.09,
+     "blocks": 7,
+     "chars": 222
+    }
+   ]
+  },
+  {
+   "physical_page": 120,
+   "printed_page": 119,
+   "sections": [
+    {
+     "section_id": 97,
+     "y_from": 65.49,
+     "y_to": 760.25,
+     "blocks": 18,
+     "chars": 584
+    }
+   ]
+  },
+  {
+   "physical_page": 121,
+   "printed_page": 120,
+   "sections": [
+    {
+     "section_id": 97,
+     "y_from": 65.49,
+     "y_to": 199.85,
+     "blocks": 6,
+     "chars": 219
+    },
+    {
+     "section_id": 98,
+     "y_from": 195.03,
+     "y_to": 687.05,
+     "blocks": 19,
+     "chars": 626
+    },
+    {
+     "section_id": 99,
+     "y_from": 682.11,
+     "y_to": 770.09,
+     "blocks": 3,
+     "chars": 108
+    }
+   ]
+  },
+  {
+   "physical_page": 122,
+   "printed_page": 121,
+   "sections": [
+    {
+     "section_id": 99,
+     "y_from": 65.61,
+     "y_to": 395.81,
+     "blocks": 14,
+     "chars": 390
+    },
+    {
+     "section_id": 100,
+     "y_from": 398.34,
+     "y_to": 512.82,
+     "blocks": 4,
+     "chars": 123
+    },
+    {
+     "section_id": 101,
+     "y_from": 508.86,
+     "y_to": 603.65,
+     "blocks": 3,
+     "chars": 104
+    },
+    {
+     "section_id": 102,
+     "y_from": 599.82,
+     "y_to": 674.93,
+     "blocks": 2,
+     "chars": 48
+    },
+    {
+     "section_id": 103,
+     "y_from": 671.1,
+     "y_to": 765.77,
+     "blocks": 3,
+     "chars": 85
+    }
+   ]
+  },
+  {
+   "physical_page": 123,
+   "printed_page": 122,
+   "sections": [
+    {
+     "section_id": 104,
+     "y_from": 62.22,
+     "y_to": 202.25,
+     "blocks": 5,
+     "chars": 135
+    },
+    {
+     "section_id": 105,
+     "y_from": 198.42,
+     "y_to": 293.21,
+     "blocks": 3,
+     "chars": 96
+    }
+   ]
+  },
+  {
+   "physical_page": 124,
+   "printed_page": 123,
+   "sections": [
+    {
+     "section_id": 106,
+     "y_from": 60.69,
+     "y_to": 271.37,
+     "blocks": 8,
+     "chars": 233
+    },
+    {
+     "section_id": 107,
+     "y_from": 278.1,
+     "y_to": 329.58,
+     "blocks": 1,
+     "chars": 9
+    },
+    {
+     "section_id": 108,
+     "y_from": 320.67,
+     "y_to": 559.85,
+     "blocks": 9,
+     "chars": 198
+    },
+    {
+     "section_id": 109,
+     "y_from": 561.51,
+     "y_to": 748.85,
+     "blocks": 6,
+     "chars": 71
+    }
+   ]
+  },
+  {
+   "physical_page": 125,
+   "printed_page": 124,
+   "sections": [
+    {
+     "section_id": 109,
+     "y_from": 72.09,
+     "y_to": 768.77,
+     "blocks": 32,
+     "chars": 675
+    }
+   ]
+  },
+  {
+   "physical_page": 126,
+   "printed_page": 125,
+   "sections": [
+    {
+     "section_id": 109,
+     "y_from": 72.09,
+     "y_to": 756.89,
+     "blocks": 32,
+     "chars": 799
+    }
+   ]
+  },
+  {
+   "physical_page": 127,
+   "printed_page": 126,
+   "sections": [
+    {
+     "section_id": 109,
+     "y_from": 72.09,
+     "y_to": 179.69,
+     "blocks": 5,
+     "chars": 79
+    },
+    {
+     "section_id": 110,
+     "y_from": 182.22,
+     "y_to": 257.45,
+     "blocks": 2,
+     "chars": 55
+    },
+    {
+     "section_id": 111,
+     "y_from": 252.51,
+     "y_to": 298.16,
+     "blocks": 1,
+     "chars": 9
+    },
+    {
+     "section_id": 112,
+     "y_from": 288.81,
+     "y_to": 749.68,
+     "blocks": 18,
+     "chars": 521
+    }
+   ]
+  },
+  {
+   "physical_page": 128,
+   "printed_page": 127,
+   "sections": [
+    {
+     "section_id": 112,
+     "y_from": 65.73,
+     "y_to": 752.93,
+     "blocks": 27,
+     "chars": 795
+    }
+   ]
+  },
+  {
+   "physical_page": 129,
+   "printed_page": 128,
+   "sections": [
+    {
+     "section_id": 113,
+     "y_from": 63.69,
+     "y_to": 523.72,
+     "blocks": 18,
+     "chars": 562
+    },
+    {
+     "section_id": 114,
+     "y_from": 517.29,
+     "y_to": 751.6,
+     "blocks": 9,
+     "chars": 297
+    }
+   ]
+  },
+  {
+   "physical_page": 130,
+   "printed_page": 129,
+   "sections": [
+    {
+     "section_id": 114,
+     "y_from": 65.73,
+     "y_to": 363.3,
+     "blocks": 12,
+     "chars": 384
+    },
+    {
+     "section_id": 115,
+     "y_from": 358.47,
+     "y_to": 404.12,
+     "blocks": 1,
+     "chars": 10
+    },
+    {
+     "section_id": 116,
+     "y_from": 394.77,
+     "y_to": 749.69,
+     "blocks": 14,
+     "chars": 319
+    }
+   ]
+  },
+  {
+   "physical_page": 131,
+   "printed_page": 130,
+   "sections": [
+    {
+     "section_id": 116,
+     "y_from": 65.73,
+     "y_to": 530.33,
+     "blocks": 19,
+     "chars": 563
+    },
+    {
+     "section_id": 117,
+     "y_from": 523.89,
+     "y_to": 757.85,
+     "blocks": 10,
+     "chars": 318
+    }
+   ]
+  },
+  {
+   "physical_page": 132,
+   "printed_page": 131,
+   "sections": [
+    {
+     "section_id": 117,
+     "y_from": 65.49,
+     "y_to": 166.61,
+     "blocks": 4,
+     "chars": 99
+    },
+    {
+     "section_id": 118,
+     "y_from": 160.17,
+     "y_to": 540.65,
+     "blocks": 16,
+     "chars": 458
+    },
+    {
+     "section_id": 119,
+     "y_from": 535.83,
+     "y_to": 581.48,
+     "blocks": 1,
+     "chars": 9
+    },
+    {
+     "section_id": 120,
+     "y_from": 572.13,
+     "y_to": 683.21,
+     "blocks": 4,
+     "chars": 97
+    }
+   ]
+  },
+  {
+   "physical_page": 133,
+   "printed_page": 132,
+   "sections": [
+    {
+     "section_id": 120,
+     "y_from": 65.61,
+     "y_to": 609.04,
+     "blocks": 23,
+     "chars": 590
+    }
+   ]
+  },
+  {
+   "physical_page": 134,
+   "printed_page": 133,
+   "sections": [
+    {
+     "section_id": 121,
+     "y_from": 63.69,
+     "y_to": 742.85,
+     "blocks": 15,
+     "chars": 294
+    }
+   ]
+  },
+  {
+   "physical_page": 135,
+   "printed_page": 134,
+   "sections": [
+    {
+     "section_id": 121,
+     "y_from": 65.73,
+     "y_to": 690.04,
+     "blocks": 26,
+     "chars": 795
+    },
+    {
+     "section_id": 122,
+     "y_from": 686.1,
+     "y_to": 761.21,
+     "blocks": 2,
+     "chars": 55
+    }
+   ]
+  },
+  {
+   "physical_page": 136,
+   "printed_page": 135,
+   "sections": [
+    {
+     "section_id": 122,
+     "y_from": 65.61,
+     "y_to": 587.81,
+     "blocks": 17,
+     "chars": 463
+    }
+   ]
+  },
+  {
+   "physical_page": 137,
+   "printed_page": 136,
+   "sections": [
+    {
+     "section_id": 123,
+     "y_from": 60.69,
+     "y_to": 619.97,
+     "blocks": 24,
+     "chars": 844
+    }
+   ]
+  },
+  {
+   "physical_page": 138,
+   "printed_page": 137,
+   "sections": [
+    {
+     "section_id": 124,
+     "y_from": 60.69,
+     "y_to": 333.89,
+     "blocks": 10,
+     "chars": 267
+    }
+   ]
+  },
+  {
+   "physical_page": 139,
+   "printed_page": 138,
+   "sections": [
+    {
+     "section_id": 125,
+     "y_from": 62.22,
+     "y_to": 689.69,
+     "blocks": 17,
+     "chars": 1130
+    },
+    {
+     "section_id": 126,
+     "y_from": 685.74,
+     "y_to": 760.85,
+     "blocks": 2,
+     "chars": 50
+    }
+   ]
+  },
+  {
+   "physical_page": 140,
+   "printed_page": 139,
+   "sections": [
+    {
+     "section_id": 127,
+     "y_from": 62.22,
+     "y_to": 421.25,
+     "blocks": 15,
+     "chars": 375
+    }
+   ]
+  },
+  {
+   "physical_page": 141,
+   "printed_page": 140,
+   "sections": [
+    {
+     "section_id": 128,
+     "y_from": 60.69,
+     "y_to": 157.37,
+     "blocks": 3,
+     "chars": 28
+    },
+    {
+     "section_id": 129,
+     "y_from": 164.1,
+     "y_to": 512.33,
+     "blocks": 15,
+     "chars": 588
+    },
+    {
+     "section_id": 130,
+     "y_from": 508.5,
+     "y_to": 764.69,
+     "blocks": 10,
+     "chars": 303
+    }
+   ]
+  },
+  {
+   "physical_page": 142,
+   "printed_page": 141,
+   "sections": [
+    {
+     "section_id": 130,
+     "y_from": 65.61,
+     "y_to": 180.29,
+     "blocks": 5,
+     "chars": 164
+    },
+    {
+     "section_id": 131,
+     "y_from": 176.34,
+     "y_to": 604.25,
+     "blocks": 16,
+     "chars": 419
+    }
+   ]
+  },
+  {
+   "physical_page": 143,
+   "printed_page": 142,
+   "sections": [
+    {
+     "section_id": 132,
+     "y_from": 60.69,
+     "y_to": 146.93,
+     "blocks": 2,
+     "chars": 15
+    }
+   ]
+  },
+  {
+   "physical_page": 144,
+   "printed_page": 143,
+   "sections": [
+    {
+     "section_id": 132,
+     "y_from": 0.52,
+     "y_to": 841.92,
+     "blocks": 1,
+     "chars": 0
+    }
+   ]
+  }
+ ],
+ "validation": {
+  "sections_total": 133,
+  "outline_sections": 129,
+  "synthetic_regions": 4,
+  "heading_matched": 129,
+  "heading_match_rate": 1.0,
+  "heading_matched_exact": 129,
+  "dest_only": [],
+  "level_size_confirmed": 129,
+  "unmatched_block_headings": [
+   {
+    "page": 1,
+    "printed_page": 0,
+    "y0": 35.43,
+    "size": 15.84,
+    "text": "V.0.0"
+   },
+   {
+    "page": 1,
+    "printed_page": 0,
+    "y0": 550.8,
+    "size": 19.92,
+    "text": "六"
+   }
+  ],
+  "unmatched_block_heading_count": 2,
+  "pages_with_multiple_section_starts": 34,
+  "max_sections_starting_on_one_page": 4,
+  "sections_spanning_pages": 83,
+  "sections_spanning_pages_outline": 79,
+  "blocks_total": 2908,
+  "blocks_assigned": 2908,
+  "blocks_lost": 0,
+  "running_header_footer_blocks": 612,
+  "hierarchy_check": {
+   "ok": true,
+   "sections_checked": 129,
+   "synthetic_checked": 4,
+   "parent_mismatches": 0,
+   "path_mismatches": 0,
+   "path_length_mismatches": 0,
+   "parent_level_mismatches": 0,
+   "synthetic_problems": 0,
+   "cycles": 0,
+   "max_depth": 4,
+   "problems": []
+  },
+  "sections_with_zero_content": [],
+  "sections_start_not_on_first_content_page": []
+ },
+ "same_page_multi_section_starts": {
+  "2": 3,
+  "3": 2,
+  "13": 2,
+  "15": 2,
+  "23": 2,
+  "28": 3,
+  "29": 3,
+  "30": 2,
+  "50": 2,
+  "60": 3,
+  "62": 2,
+  "65": 3,
+  "67": 2,
+  "72": 3,
+  "74": 2,
+  "76": 2,
+  "90": 2,
+  "95": 2,
+  "103": 2,
+  "106": 4,
+  "107": 2,
+  "108": 2,
+  "109": 3,
+  "119": 2,
+  "121": 2,
+  "122": 4,
+  "123": 2,
+  "124": 4,
+  "127": 3,
+  "129": 2,
+  "130": 2,
+  "132": 3,
+  "139": 2,
+  "141": 3
+ }
+}

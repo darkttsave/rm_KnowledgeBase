@@ -1,0 +1,209 @@
+{
+ "generated": "2026-10-17T03:56:02",
+ "checks_total": 67,
+ "checks_pass": 67,
+ "checks_fail": 0,
+ "failed": [],
+ "headline": {
+  "RMUC2026_tables": {
+   "tables": 83,
+   "cells": 4473,
+   "blank": 3119,
+   "suspects": 1424,
+   "words": 2287,
+   "missing_grid": 30,
+   "source_lines": 1975,
+   "captioned": 42,
+   "no_caption": 41,
+   "tables_with_grid_loss": 6,
+   "missing_recovered_by_source_lines": true,
+   "grid_blank_consistent": true,
+   "merges_never_applied": true
+  },
+  "RMUC2026_formulas_images": {
+   "subscript_spans": 39,
+   "records_with_subscript": 22,
+   "subscript_kinds": {
+    "subscript": 39
+   },
+   "fractions": 11,
+   "fraction_parts": 41,
+   "diagram_labels": 114,
+   "figures": 95,
+   "inline_icons": 63,
+   "figures_with_semantics": 0,
+   "fraction_all_review": true,
+   "diagram_all_review": true
+  },
+  "RMUC2026_layout_kinds": {
+   "figure_label_row": 99,
+   "index_entry": 222,
+   "cover_text": 7,
+   "math_alphanumeric": 4,
+   "cross_page": 8
+  },
+  "RMUC2027_tables": {
+   "tables": 71,
+   "cells": 3605,
+   "blank": 2510,
+   "suspects": 1078,
+   "words": 1843,
+   "missing_grid": 32,
+   "source_lines": 1616,
+   "captioned": 49,
+   "no_caption": 22,
+   "tables_with_grid_loss": 6,
+   "missing_recovered_by_source_lines": true,
+   "grid_blank_consistent": true,
+   "merges_never_applied": true
+  },
+  "RMUC2027_formulas_images": {
+   "subscript_spans": 44,
+   "records_with_subscript": 24,
+   "subscript_kinds": {
+    "subscript": 42,
+    "small": 2
+   },
+   "fractions": 15,
+   "fraction_parts": 75,
+   "diagram_labels": 114,
+   "figures": 81,
+   "inline_icons": 56,
+   "figures_with_semantics": 0,
+   "fraction_all_review": true,
+   "diagram_all_review": true
+  },
+  "RMUC2027_layout_kinds": {
+   "figure_label_row": 84,
+   "index_entry": 225,
+   "cover_text": 3,
+   "math_alphanumeric": 6,
+   "cross_page": 11
+  },
+  "RMUC2026_markdown": {
+   "bytes": 359750,
+   "records_rendered": 1723,
+   "text_missing": 0,
+   "id_missing": 0
+  },
+  "RMUC2027_markdown": {
+   "bytes": 334961,
+   "records_rendered": 1656,
+   "text_missing": 0,
+   "id_missing": 0
+  },
+  "RMUC2026_sample_compat": {
+   "sample_records": 151,
+   "text_units": 544,
+   "lost": 0
+  },
+  "RMUC2027_sample_compat": {
+   "sample_records": 151,
+   "text_units": 443,
+   "lost": 0
+  }
+ },
+ "review_items": 694,
+ "review_by_category": [
+  {
+   "doc_id": "RMUC2026",
+   "category": "cover_text_garbled",
+   "priority": "low",
+   "count": 7
+  },
+  {
+   "doc_id": "RMUC2026",
+   "category": "diagram_label",
+   "priority": "medium",
+   "count": 114
+  },
+  {
+   "doc_id": "RMUC2026",
+   "category": "figure_content",
+   "priority": "low",
+   "count": 95
+  },
+  {
+   "doc_id": "RMUC2026",
+   "category": "font_math_alphanumeric",
+   "priority": "medium",
+   "count": 4
+  },
+  {
+   "doc_id": "RMUC2026",
+   "category": "formula_fraction",
+   "priority": "medium",
+   "count": 11
+  },
+  {
+   "doc_id": "RMUC2026",
+   "category": "formula_fraction_part",
+   "priority": "medium",
+   "count": 36
+  },
+  {
+   "doc_id": "RMUC2026",
+   "category": "table_grid_loss",
+   "priority": "high",
+   "count": 6
+  },
+  {
+   "doc_id": "RMUC2026",
+   "category": "table_merge",
+   "priority": "medium",
+   "count": 77
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "cover_text_garbled",
+   "priority": "low",
+   "count": 3
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "diagram_label",
+   "priority": "medium",
+   "count": 114
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "figure_content",
+   "priority": "low",
+   "count": 81
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "font_math_alphanumeric",
+   "priority": "medium",
+   "count": 6
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "formula_fraction",
+   "priority": "medium",
+   "count": 15
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "formula_fraction_part",
+   "priority": "medium",
+   "count": 54
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "table_grid_loss",
+   "priority": "high",
+   "count": 6
+  },
+  {
+   "doc_id": "RMUC2027",
+   "category": "table_merge",
+   "priority": "medium",
+   "count": 65
+  }
+ ],
+ "records": {
+  "RMUC2026": 1853,
+  "RMUC2027": 1785
+ }
+}

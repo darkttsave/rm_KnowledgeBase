@@ -1,0 +1,85 @@
+{
+ "generated": "2026-10-17T02:49:41",
+ "summary": {
+  "RMUC2026": {
+   "file": "ai_workplace/structured/2026_结构化.jsonl",
+   "records": 1853,
+   "bytes": 3702041,
+   "block_kinds": {
+    "cover_text": 7,
+    "heading": 130,
+    "paragraph": 877,
+    "table": 83,
+    "figure": 95,
+    "index_entry": 222,
+    "figure_caption": 74,
+    "inline_icon": 63,
+    "table_caption": 42,
+    "figure_label_row": 99,
+    "diagram_label": 114,
+    "formula_fraction_part": 36,
+    "formula_fraction": 11
+   },
+   "scan": {
+    "pages": 159,
+    "content_blocks": 3137,
+    "running_blocks": 688,
+    "text_lines": 4230,
+    "lines_in_tables": 1975,
+    "lines_kept": 2255,
+    "image_blocks": 158,
+    "inline_icons": 63,
+    "valid_tables": 83,
+    "rejected_table_boxes": 28,
+    "fraction_zones": 11,
+    "multi_line_heading_blocks": 0,
+    "heading_lines": 130,
+    "index_entry_lines": 222,
+    "cover_text_lines": 7
+   },
+   "chars": 74783,
+   "sections_with_content": 134,
+   "needs_review": 346
+  },
+  "RMUC2027": {
+   "file": "ai_workplace/structured/2027_结构化.jsonl",
+   "records": 1785,
+   "bytes": 3541409,
+   "block_kinds": {
+    "cover_text": 3,
+    "heading": 129,
+    "paragraph": 834,
+    "figure": 81,
+    "table": 71,
+    "index_entry": 225,
+    "figure_caption": 70,
+    "inline_icon": 56,
+    "table_caption": 49,
+    "figure_label_row": 84,
+    "diagram_label": 114,
+    "formula_fraction_part": 54,
+    "formula_fraction": 15
+   },
+   "scan": {
+    "pages": 144,
+    "content_blocks": 2908,
+    "running_blocks": 612,
+    "text_lines": 3769,
+    "lines_in_tables": 1616,
+    "lines_kept": 2153,
+    "image_blocks": 137,
+    "inline_icons": 56,
+    "valid_tables": 71,
+    "rejected_table_boxes": 26,
+    "fraction_zones": 15,
+    "multi_line_heading_blocks": 0,
+    "heading_lines": 129,
+    "index_entry_lines": 225,
+    "cover_text_lines": 3
+   },
+   "chars": 71290,
+   "sections_with_content": 133,
+   "needs_review": 338
+  }
+ }
+}

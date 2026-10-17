@@ -1,0 +1,42 @@
+{
+ "2026": {
+  "table_numbering": {
+   "count": 42,
+   "chapters": 6,
+   "gaps": [],
+   "duplicates": []
+  },
+  "figure_numbering": {
+   "count": 74,
+   "chapters": 6,
+   "gaps": [],
+   "duplicates": []
+  },
+  "listed_tables": 42,
+  "listed_figures": 74,
+  "refs_total": 43,
+  "refs_distinct": 19,
+  "unresolved_refs": {},
+  "unresolved_count": 0
+ },
+ "2027-official": {
+  "table_numbering": {
+   "count": 49,
+   "chapters": 6,
+   "gaps": [],
+   "duplicates": []
+  },
+  "figure_numbering": {
+   "count": 70,
+   "chapters": 6,
+   "gaps": [],
+   "duplicates": []
+  },
+  "listed_tables": 49,
+  "listed_figures": 70,
+  "refs_total": 23,
+  "refs_distinct": 13,
+  "unresolved_refs": {},
+  "unresolved_count": 0
+ }
+}

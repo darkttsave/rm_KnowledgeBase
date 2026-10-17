@@ -1,0 +1,408 @@
+{
+ "RMUC2026": {
+  "regions": 134,
+  "outline": 130,
+  "synthetic": 4,
+  "levels": {
+   "1": 14,
+   "2": 45,
+   "3": 44,
+   "4": 27
+  },
+  "heading_matched": 130,
+  "heading_exact": 130,
+  "heading_rate": 1.0,
+  "level_size_ok": 130,
+  "blocks": 3137,
+  "blocks_lost": 0,
+  "running": 688,
+  "multi_pages": 32,
+  "max_per_page": 5,
+  "spanning": 86,
+  "zero_content": 0,
+  "unmatched_headings": [
+   "72\u000f2\u000f0",
+   "瑭◅ⶇ◑㷐⪓㎁㛻㰣榟儬☕㛻颂",
+   "\u0013\u0011\u0013\u0017",
+   "儬榻㛻䄳飃篒㵒䤻颂",
+   "嫱饋錞ⴭ䣆⫊"
+  ],
+  "pages_with_2plus_sections": {
+   "2": 3,
+   "3": 2,
+   "16": 2,
+   "17": 2,
+   "26": 2,
+   "27": 2,
+   "29": 2,
+   "30": 2,
+   "32": 3,
+   "33": 2,
+   "40": 2,
+   "45": 2,
+   "55": 2,
+   "64": 3,
+   "66": 2,
+   "68": 3,
+   "69": 2,
+   "71": 2,
+   "74": 3,
+   "75": 3,
+   "76": 2,
+   "77": 3,
+   "80": 2,
+   "91": 3,
+   "94": 2,
+   "98": 3,
+   "101": 2,
+   "106": 3,
+   "109": 5,
+   "110": 2,
+   "111": 4,
+   "112": 3,
+   "113": 3,
+   "115": 2,
+   "116": 2,
+   "118": 2,
+   "122": 2,
+   "123": 3,
+   "127": 2,
+   "129": 2,
+   "130": 2,
+   "131": 6,
+   "133": 4,
+   "136": 4,
+   "138": 2,
+   "139": 3,
+   "140": 2,
+   "141": 2,
+   "142": 4,
+   "146": 2,
+   "149": 2,
+   "155": 3,
+   "156": 2
+  },
+  "top_multi_pages": [
+   [
+    131,
+    6
+   ],
+   [
+    109,
+    5
+   ],
+   [
+    111,
+    4
+   ],
+   [
+    133,
+    4
+   ],
+   [
+    136,
+    4
+   ]
+  ],
+  "chars": 92199,
+  "pages": 159,
+  "sections_with_caption": null
+ },
+ "RMUC2027": {
+  "regions": 133,
+  "outline": 129,
+  "synthetic": 4,
+  "levels": {
+   "1": 13,
+   "2": 41,
+   "3": 49,
+   "4": 26
+  },
+  "heading_matched": 129,
+  "heading_exact": 129,
+  "heading_rate": 1.0,
+  "level_size_ok": 129,
+  "blocks": 2908,
+  "blocks_lost": 0,
+  "running": 612,
+  "multi_pages": 34,
+  "max_per_page": 4,
+  "spanning": 83,
+  "zero_content": 0,
+  "unmatched_headings": [
+   "V.0.0",
+   "六"
+  ],
+  "pages_with_2plus_sections": {
+   "2": 3,
+   "3": 2,
+   "13": 2,
+   "15": 2,
+   "23": 2,
+   "24": 2,
+   "26": 2,
+   "28": 3,
+   "29": 3,
+   "30": 2,
+   "42": 2,
+   "50": 2,
+   "60": 3,
+   "62": 2,
+   "65": 3,
+   "67": 2,
+   "68": 2,
+   "69": 2,
+   "72": 3,
+   "74": 3,
+   "75": 2,
+   "76": 3,
+   "77": 2,
+   "78": 2,
+   "90": 3,
+   "92": 2,
+   "95": 3,
+   "97": 2,
+   "98": 2,
+   "100": 2,
+   "103": 2,
+   "106": 5,
+   "107": 3,
+   "108": 2,
+   "109": 3,
+   "111": 2,
+   "115": 2,
+   "119": 3,
+   "121": 3,
+   "122": 5,
+   "123": 2,
+   "124": 4,
+   "127": 4,
+   "129": 2,
+   "130": 3,
+   "131": 2,
+   "132": 4,
+   "135": 2,
+   "139": 2,
+   "141": 3,
+   "142": 2
+  },
+  "top_multi_pages": [
+   [
+    106,
+    5
+   ],
+   [
+    122,
+    5
+   ],
+   [
+    124,
+    4
+   ],
+   [
+    127,
+    4
+   ],
+   [
+    132,
+    4
+   ]
+  ],
+  "chars": 85442,
+  "pages": 144,
+  "sections_with_caption": null
+ },
+ "samples": {
+  "files": 14,
+  "records": 302,
+  "per_doc": {
+   "RMUC2026": 151,
+   "RMUC2027": 151
+  },
+  "kinds": {
+   "heading": 24,
+   "paragraph": 138,
+   "figure": 10,
+   "formula_fraction_part": 33,
+   "formula_fraction": 8,
+   "diagram_label": 52,
+   "figure_caption": 4,
+   "table_caption": 12,
+   "table": 21
+  },
+  "paragraphs": 138,
+  "paragraph_lines": {
+   "1": 32,
+   "2": 78,
+   "3": 17,
+   "4": 5,
+   "5": 1,
+   "6": 1,
+   "8": 2,
+   "9": 2
+  },
+  "multi_line_paragraphs": 106,
+  "max_lines": 9,
+  "cross_page_paragraphs": 4,
+  "needs_review": 125,
+  "needs_review_kinds": {
+   "figure": 10,
+   "formula_fraction_part": 33,
+   "formula_fraction": 8,
+   "diagram_label": 52,
+   "table": 21,
+   "paragraph": 1
+  },
+  "chars": 9827,
+  "preserved": 263,
+  "normalized_records": 263
+ },
+ "tables": {
+  "count": 21,
+  "per_doc": {
+   "RMUC2026": 11,
+   "RMUC2027": 10
+  },
+  "with_caption": 13,
+  "continuation_no_caption": 8,
+  "rows": 165,
+  "cells": 1840,
+  "blank": 1290,
+  "blank_ratio": 0.701,
+  "min_blank_ratio": 0.458,
+  "max_blank_ratio": 0.806,
+  "merge_suspects": 625,
+  "all_unapplied": true,
+  "all_needs_review": true,
+  "words_box": 577,
+  "words_missing": 10,
+  "tables_with_loss": 1,
+  "raw_grid_intact": true,
+  "source_lines": 558,
+  "table_nos": [
+   "表5-13",
+   "表5-14",
+   "表5-15",
+   "表5-16",
+   "表5-17",
+   "表5-18",
+   "表5-22",
+   "表5-23",
+   "表5-24"
+  ]
+ },
+ "formulas": {
+  "fractions": 8,
+  "fraction_parts": 33,
+  "fraction_details": [
+   {
+    "doc": "RMUC2026",
+    "page": 76,
+    "numerator": "420-比赛剩余时长",
+    "denominator": "10",
+    "part_records": 4
+   },
+   {
+    "doc": "RMUC2026",
+    "page": 77,
+    "numerator": "420-120",
+    "denominator": "10",
+    "part_records": 4
+   },
+   {
+    "doc": "RMUC2026",
+    "page": 101,
+    "numerator": "1",
+    "denominator": "3π rad/s。",
+    "part_records": 7
+   },
+   {
+    "doc": "RMUC2026",
+    "page": 101,
+    "numerator": "1",
+    "denominator": "3π rad/s。",
+    "part_records": 5
+   },
+   {
+    "doc": "RMUC2027",
+    "page": 75,
+    "numerator": "420-比赛剩余时长",
+    "denominator": "10",
+    "part_records": 4
+   },
+   {
+    "doc": "RMUC2027",
+    "page": 75,
+    "numerator": "420-120",
+    "denominator": "10",
+    "part_records": 4
+   },
+   {
+    "doc": "RMUC2027",
+    "page": 98,
+    "numerator": "1",
+    "denominator": "3π rad/s。",
+    "part_records": 7
+   },
+   {
+    "doc": "RMUC2027",
+    "page": 98,
+    "numerator": "1",
+    "denominator": "3π rad/s。",
+    "part_records": 6
+   }
+  ],
+  "diagram_labels": 52,
+  "formula_paragraphs": 0,
+  "span_scripts": {
+   "normal": 93,
+   "subscript": 52
+  },
+  "cambria_records": 15,
+  "formula_with_layout": 27,
+  "records_with_scripts": 24,
+  "subscript_spans": 52,
+  "table_loss_records": [
+   {
+    "record_id": "RMUC2027:5.6.3:p99:t0",
+    "missing_from_grid": 10,
+    "missing_words": [
+     "[1,3]",
+     "无",
+     "(3,7]",
+     "倍",
+     "(7,8]",
+     "倍",
+     "(8,9]",
+     "倍",
+     "(9,10]",
+     "倍"
+    ],
+    "missing_also_from_source": [],
+    "source_lines_kept": 24
+   }
+  ]
+ },
+ "files": {
+  "ai_workplace/structured/2026_章节骨架.json": 193940,
+  "ai_workplace/structured/2027_章节骨架.json": 188605,
+  "ai_workplace/structured/samples/RMUC2026_body_text.jsonl": 47906,
+  "ai_workplace/structured/samples/RMUC2026_cross_page.jsonl": 48490,
+  "ai_workplace/structured/samples/RMUC2026_cross_page_paragraph.jsonl": 3384,
+  "ai_workplace/structured/samples/RMUC2026_flowchart.jsonl": 71025,
+  "ai_workplace/structured/samples/RMUC2026_formulas.jsonl": 66140,
+  "ai_workplace/structured/samples/RMUC2026_multi_section_page.jsonl": 19662,
+  "ai_workplace/structured/samples/RMUC2026_preview.md": 16549,
+  "ai_workplace/structured/samples/RMUC2026_tables.jsonl": 110255,
+  "ai_workplace/structured/samples/RMUC2027_body_text.jsonl": 48983,
+  "ai_workplace/structured/samples/RMUC2027_cross_page.jsonl": 49476,
+  "ai_workplace/structured/samples/RMUC2027_cross_page_paragraph.jsonl": 8499,
+  "ai_workplace/structured/samples/RMUC2027_flowchart.jsonl": 72162,
+  "ai_workplace/structured/samples/RMUC2027_formulas.jsonl": 69076,
+  "ai_workplace/structured/samples/RMUC2027_multi_section_page.jsonl": 19905,
+  "ai_workplace/structured/samples/RMUC2027_preview.md": 16603,
+  "ai_workplace/structured/samples/RMUC2027_tables.jsonl": 65762,
+  "ai_workplace/structured/samples_index.json": 9642,
+  "ai_workplace/structured/verification_stats.json": 7680
+ }
+}
