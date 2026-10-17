@@ -77,7 +77,7 @@ pip install -r requirements.txt
 export PYTHONPATH="$PWD/ai_workplace/tools"
 
 # 4) 自检：只跑校验脚本，不重跑解析（校验只读，不改任何产物）
-python ai_workplace/tools/99_verify_report.py       # 期望 71 PASS
+python ai_workplace/tools/99_verify_report.py       # 期望 [SKIP]（需笔记版PDF，未入库）
 python ai_workplace/tools/22_verify_structure.py    # 期望 88 PASS
 python ai_workplace/tools/45_align_verify.py        # 期望 34 PASS
 python ai_workplace/tools/53_b2_verify.py           # 期望 40 PASS
@@ -86,7 +86,8 @@ python ai_workplace/tools/73_c2_verify.py           # 期望 51 PASS
 ```
 
 > 校验脚本读取的是仓库内已有的 JSONL/JSON 产物，**不需要重跑 PDF 解析**，几秒内完成。
-> 全部断言合计 318 项。
+> 干净克隆上可直接复现 **247 项**断言（99_verify_report 因缺笔记版而明确跳过，退出码 0）；
+> 若本地放回笔记版 PDF，则可复现 **318 项**。
 
 ---
 

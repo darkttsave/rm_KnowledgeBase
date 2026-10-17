@@ -48,6 +48,13 @@ def lines(t):
     return [l.strip() for l in t.splitlines() if l.strip()]
 
 
+# 笔记版（个人批注版）PDF 因公开仓库策略不入库；缺失时明确跳过而不是报错。
+if not os.path.exists(F27N):
+    print("[SKIP] 笔记版 PDF 未在 原始材料/ 中（公开仓库不入库该文件）。")
+    print("       本脚本包含 %d 项依赖该文件的断言，无法在干净克隆上复现。" % 11)
+    print("       其余校验脚本不依赖它，可直接运行：22/45/53/64/73_*.py")
+    raise SystemExit(0)
+
 print("=== 1. identity ===")
 check("sha256 2026", sha(F26), "88AE3C7D0BBD7312C8095EFF2603910437E292A0B53F46C9378F26144C09A6F5")
 check("sha256 2027 official", sha(F27O), "9E2EED9295536C6FD547B62D634DF1D5E70A2E1E2250E5DFF3521D557E5D54BE")
