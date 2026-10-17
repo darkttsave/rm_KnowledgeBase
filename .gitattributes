@@ -10,9 +10,11 @@
 *.docx binary
 *.pptx binary
 
-# 数据与文档：按文本处理（仓库内统一 LF，检出时按平台）
+# 数据文件：字节级原样存储（阶段A/B/C 业务成果不做任何改写）
+*.jsonl -text
+*.json  -text
+
+# 代码与文档：按文本处理（仓库内存 LF，检出时按平台）
 *.py   text
 *.md   text
-*.json text
-*.jsonl text
 *.txt  text
